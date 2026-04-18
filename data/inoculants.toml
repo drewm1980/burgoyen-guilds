@@ -1,0 +1,191 @@
+# Mycorrhizal inoculants — Cohousing Bourgoyen food forest
+#
+# Two types of entry:
+#   pre_inoculated_tree  — nursery sells trees already inoculated at roots
+#   diy_inoculant        — product applied by the buyer to their own nursery stock
+#
+# IMPORTANT CAVEATS (from research, April 2026):
+#   - True Boletus edulis (cep/king bolete) and Cantharellus cibarius (golden
+#     chanterelle) inoculated trees are extremely rare commercially. The
+#     ectomycorrhizal partnerships cannot be axenically cultivated like
+#     saprophytic mushrooms, making reliable mass production very difficult.
+#   - The most commercially mature sector is truffle-inoculated trees
+#     (Tuber melanosporum = Périgord black truffle; T. uncinatum/aestivum =
+#     Burgundy truffle). Burgundy truffle is the climate-appropriate choice for
+#     Ghent (zone 8a); Périgord requires warmer, drier conditions.
+#   - For Ghent, best host trees are Quercus robur/petraea, Betula spp.,
+#     Fagus sylvatica, Pinus sylvestris. Mediterranean species (cork oak,
+#     holm oak) are marginal or unsuitable.
+#   - First fruiting typically 3–10 years after planting, not guaranteed.
+#   - DIY inoculants are often the more practical approach: buy standard
+#     young trees from any nursery, apply inoculum at planting.
+
+# ===========================================================================
+# PRE-INOCULATED TREES
+# ===========================================================================
+
+[[inoculant]]
+type = "pre_inoculated_tree"
+id = "robin_pepinieres_boletus_pine"
+vendor_id = "robin_pepinieres"
+fungi_species = ["Lactarius deliciosus", "Lactarius sanguifluus", "Suillus luteus"]
+host_tree_species = ["Pinus pinea", "Pinus sylvestris", "Pinus pinaster", "Pinus nigra"]
+host_tree_notes = "Scots pine (P. sylvestris) is the most climate-appropriate for Ghent"
+price_range = "€0.60–€20/plant depending on size"
+ships_to_be = "likely — confirm directly"
+certification = "CTIFL (Centre Technique Interprofessionnel des Fruits et Légumes)"
+url = "https://www.robinpepinieres.com/en/18-mushroom-plants"
+notes = "Free shipping from €1,500 HT. Also offers truffle-inoculated oaks (T. melanosporum, T. uncinatum)."
+
+[[inoculant]]
+type = "pre_inoculated_tree"
+id = "robin_pepinieres_truffle_oak"
+vendor_id = "robin_pepinieres"
+fungi_species = ["Tuber melanosporum", "Tuber uncinatum"]
+host_tree_species = ["Quercus robur", "Quercus ilex"]
+host_tree_notes = "Q. robur is the preferred host for Ghent; T. uncinatum (Burgundy truffle) is climate-appropriate for Belgium; T. melanosporum (Périgord black truffle) requires warmer conditions"
+price_range = "Contact vendor"
+ships_to_be = "likely — confirm directly"
+certification = "CTIFL"
+url = "https://www.robinpepinieres.com/en/truffle-plants/117-352-pedunculate-oak-mycorrhized-black-truffle.html"
+notes = "One of the main French truffle tree specialists."
+
+[[inoculant]]
+type = "pre_inoculated_tree"
+id = "la_casa_de_las_setas_boletus"
+vendor_id = "la_casa_de_las_setas"
+fungi_species = ["Boletus edulis", "Boletus pinophilus"]
+host_tree_species = ["Pinus sylvestris", "Pinus pinaster", "Quercus suber"]
+host_tree_notes = "B. edulis on Q. suber (cork oak) is climate-marginal for Ghent; P. sylvestris option is viable"
+price_range = "Contact vendor"
+ships_to_be = "likely EU shipping — confirm"
+certification = "Not stated"
+url = "https://lacasadelassetas.com/en/88-tree-mycorrhizal-trees"
+notes = "One of the only Western European retailers advertising true Boletus edulis inoculated trees. Trees described as fruiting from year 4."
+
+[[inoculant]]
+type = "pre_inoculated_tree"
+id = "agritruffe_truffle_oak"
+vendor_id = "agritruffe"
+fungi_species = ["Tuber melanosporum", "Tuber aestivum", "Tuber uncinatum"]
+host_tree_species = ["Quercus pubescens", "Quercus ilex", "Quercus robur", "Corylus avellana"]
+host_tree_notes = "Q. robur with T. uncinatum/aestivum is the right combination for Belgium"
+price_range = "Contact for pricing"
+ships_to_be = "likely — described as world leader with EU distribution"
+certification = "INRAE-supervised"
+url = "https://www.agritruffe.eu/en/"
+notes = "Claims to be world leader in truffle plant production."
+
+[[inoculant]]
+type = "pre_inoculated_tree"
+id = "plants_pro_truffle"
+vendor_id = "plants_pro"
+fungi_species = ["Tuber melanosporum", "Tuber uncinatum", "Tuber aestivum"]
+host_tree_species = ["Quercus pubescens", "Quercus ilex", "Quercus cerris", "Corylus avellana"]
+host_tree_notes = "Q. cerris (Turkish oak) also climate-appropriate for Ghent"
+price_range = "€13.50–€20/plant"
+ships_to_be = "yes — Belgium deliverable; shipping calculated by weight"
+certification = "CTIFL"
+url = "https://plants-pro.com/categorie-produit/plants-darbres/plants-truffiers/"
+notes = "Free shipping from €100 HT."
+
+[[inoculant]]
+type = "pre_inoculated_tree"
+id = "pilzwirt_truffle"
+vendor_id = "pilzwirt"
+fungi_species = ["Tuber aestivum", "Tuber uncinatum", "Tuber melanosporum", "Tuber brumale"]
+host_tree_species = ["Quercus robur", "Quercus petraea", "Corylus avellana", "Tilia cordata", "Carpinus betulus"]
+host_tree_notes = "Excellent host range; Q. robur + T. aestivum/uncinatum ideal for Ghent; linden and hornbeam hosts are interesting for food forest diversity"
+price_range = "From €35/tree; quantity discounts from 10 trees"
+ships_to_be = "DHL Germany confirmed; EU shipping — confirm Belgium"
+certification = "Not stated"
+url = "https://www.pilzwirt.de/biobaumschule"
+notes = "Also offers Hasel (hazel) inoculated with Tuber spp."
+
+# ===========================================================================
+# DIY INOCULANTS — Apply to your own nursery stock at planting
+# ===========================================================================
+
+[[inoculant]]
+type = "diy_inoculant"
+id = "plantamus_boletus_edulis"
+vendor_id = "plantamus"
+fungi_species = ["Boletus edulis"]
+suitable_host_trees = ["Quercus robur", "Quercus petraea", "Fagus sylvatica", "Betula pendula", "Pinus sylvestris"]
+format = "liquid inoculum"
+volume = "0.5L or 1L"
+price_eur = 47.0
+price_unit = "per 0.5L"
+ships_to_be = "likely EU — confirm"
+url = "https://www.plantamus.fr/inoculum-de-mycorhize-a1a7/"
+notes = "INRAE-supervised laboratory production. Apply to root zone of young trees at planting. One of the few commercially available true B. edulis inoculants in Europe."
+
+[[inoculant]]
+type = "diy_inoculant"
+id = "plantamus_boletus_pinophilus"
+vendor_id = "plantamus"
+fungi_species = ["Boletus pinophilus"]
+suitable_host_trees = ["Pinus sylvestris", "Pinus pinaster", "Quercus robur"]
+format = "liquid inoculum"
+volume = "0.5L or 1L"
+price_eur = 47.0
+price_unit = "per 0.5L"
+ships_to_be = "likely EU — confirm"
+url = "https://www.plantamus.fr/inoculum-mycorhizien-de-boletus-pinophilus-cepes-pinicoles-bd3d/"
+notes = "B. pinophilus (pine bolete / cèpe pinicole) closely related to B. edulis; similar flavour and culinary value."
+
+[[inoculant]]
+type = "diy_inoculant"
+id = "plantamus_tuber_melanosporum"
+vendor_id = "plantamus"
+fungi_species = ["Tuber melanosporum"]
+suitable_host_trees = ["Quercus robur", "Quercus pubescens", "Corylus avellana"]
+format = "liquid inoculum"
+volume = "0.5L"
+price_eur = 47.0
+price_unit = "per 0.5L"
+ships_to_be = "likely EU — confirm"
+url = "https://www.plantamus.fr/12-litre-dinoculum-de-mycorhize-a-la-truffe-noire-tuber-melanosporum-bd3f/"
+notes = "For applying to own nursery stock. T. melanosporum needs warm dry summers to fruit — marginal in Ghent."
+
+[[inoculant]]
+type = "diy_inoculant"
+id = "garden_seeds_market_boletus_edulis"
+vendor_id = "garden_seeds_market"
+fungi_species = ["Boletus edulis", "Boletus pinophilus", "Boletus badius", "Boletus scaber"]
+suitable_host_trees = ["Betula pendula", "Betula pubescens", "Quercus robur", "Fagus sylvatica", "Pinus sylvestris"]
+format = "fresh mycelium spawn bag"
+volume = "various sizes"
+price_eur = 0.0
+price_unit = "see website"
+ships_to_be = "yes — ships across Europe including Belgium; 3–10 working days"
+url = "https://gardenseedsmarket.com/penny-bun-mycelium-cep-porcino-porcini.html"
+notes = "Also sells Cantharellus cibarius (golden chanterelle) mycelium. Product targets garden bed application — ectomycorrhizal tree inoculation is a secondary use; results variable."
+
+[[inoculant]]
+type = "diy_inoculant"
+id = "garden_seeds_market_cantharellus"
+vendor_id = "garden_seeds_market"
+fungi_species = ["Cantharellus cibarius"]
+suitable_host_trees = ["Quercus robur", "Fagus sylvatica", "Betula pendula", "Pinus sylvestris"]
+format = "fresh mycelium spawn bag"
+volume = "various sizes"
+price_eur = 0.0
+price_unit = "see website"
+ships_to_be = "yes"
+url = "https://gardenseedsmarket.com/golden-chanterelle-fresh-spawn-mycelium-larger-package.html"
+notes = "True golden chanterelle pre-inoculated trees are not commercially available anywhere in Europe. This is the closest available option. C. cibarius obligate ectomycorrhizal — greenhouse fruiting achieved in research but open-soil fruiting highly variable."
+
+[[inoculant]]
+type = "diy_inoculant"
+id = "gefa_fabritz_ecto_oak"
+vendor_id = "gefa_fabritz"
+fungi_species = ["Ectomycorrhizal mix (Quercus/Betula)"]
+suitable_host_trees = ["Quercus robur", "Quercus petraea", "Betula pendula", "Betula pubescens"]
+format = "liquid inoculum"
+volume = "1L+"
+price_eur = 37.0
+price_unit = "per litre (quantity pricing)"
+ships_to_be = "Germany confirmed; EU — contact for Belgium"
+url = "https://www.gefafabritz.de/ekto-mykorrhiza-3.html"
+notes = "Genera-level ectomycorrhizal mix (not specific edible species); useful for general tree health rather than targeting specific edible fungi."

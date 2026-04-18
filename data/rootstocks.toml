@@ -1,0 +1,368 @@
+# Rootstock database — Cohousing Bourgoyen food forest
+#
+# Enum values:
+#   vigor: dwarfing | semi_dwarfing | semi_vigorous | vigorous | very_vigorous
+#   anchorage: poor | moderate | good | excellent
+#
+# compatible_species: list of species.id values this rootstock supports
+#
+# grafted_height_m: approximate mature height of a standard scion grafted onto
+#                   this rootstock, under good conditions
+
+# ===========================================================================
+# APPLE (Malus domestica) — East Malling / Long Ashton series
+# ===========================================================================
+
+[[rootstock]]
+id = "m27"
+name = "M27"
+also_known_as = []
+origin = "East Malling Research Station, UK"
+compatible_species = ["malus_domestica"]
+vigor = "dwarfing"
+grafted_height_m = 1.5
+anchorage = "poor"
+requires_staking = true
+soil_tolerance = "Needs deep, fertile, well-drained soil; struggles in light or poor soil"
+disease_notes = "Susceptible to woolly aphid"
+propagation = "stoolbed (layering)"
+notes = "Extremely dwarfing; useful for containers or very intensive systems. Rarely sold as rootstock alone."
+
+[[rootstock]]
+id = "m9"
+name = "M9"
+also_known_as = ["Malling 9", "EMLA 9"]
+origin = "East Malling Research Station, UK"
+compatible_species = ["malus_domestica"]
+vigor = "dwarfing"
+grafted_height_m = 2.0
+anchorage = "poor"
+requires_staking = true
+soil_tolerance = "Requires fertile, moisture-retentive but well-drained soil; not for dry or waterlogged sites"
+disease_notes = "Susceptible to fire blight; some woolly aphid resistance"
+propagation = "stoolbed (layering)"
+notes = "Most widely used commercial dwarfing rootstock; needs permanent staking and irrigation in dry summers; induces early and heavy cropping"
+
+[[rootstock]]
+id = "m26"
+name = "M26"
+also_known_as = ["Malling 26", "EMLA 26"]
+origin = "East Malling Research Station, UK"
+compatible_species = ["malus_domestica"]
+vigor = "semi_dwarfing"
+grafted_height_m = 2.5
+anchorage = "moderate"
+requires_staking = true
+soil_tolerance = "Moderately tolerant; better than M9 on lighter soils; avoid waterlogging"
+disease_notes = "Some fire blight susceptibility"
+propagation = "stoolbed (layering)"
+notes = "Good balance of size control and productivity; staking recommended for first 3–5 years"
+
+[[rootstock]]
+id = "mm106"
+name = "MM106"
+also_known_as = ["Malling-Merton 106"]
+origin = "East Malling / John Innes Institute, UK"
+compatible_species = ["malus_domestica"]
+vigor = "semi_vigorous"
+grafted_height_m = 4.0
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Tolerates heavier and somewhat wetter soils than M9/M26; moderate drought tolerance"
+disease_notes = "Susceptible to woolly aphid; moderate fire blight resistance"
+propagation = "stoolbed (layering)"
+notes = "Most versatile and widely available apple rootstock; suits half-standards and bush trees; good choice for food forest where some size is acceptable"
+
+[[rootstock]]
+id = "mm111"
+name = "MM111"
+also_known_as = ["Malling-Merton 111"]
+origin = "East Malling / John Innes Institute, UK"
+compatible_species = ["malus_domestica"]
+vigor = "vigorous"
+grafted_height_m = 5.5
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Drought tolerant; tolerates poor soils; best anchorage of all apple rootstocks"
+disease_notes = "Good woolly aphid resistance"
+propagation = "stoolbed (layering)"
+notes = "Standard to half-standard trees; excellent for difficult sites or where you want a larger tree"
+
+[[rootstock]]
+id = "m25"
+name = "M25"
+also_known_as = ["Malling 25"]
+origin = "East Malling Research Station, UK"
+compatible_species = ["malus_domestica"]
+vigor = "very_vigorous"
+grafted_height_m = 7.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Very adaptable; tolerates poorer soils and some wetness"
+disease_notes = "Generally healthy"
+propagation = "stoolbed (layering)"
+notes = "Full standard trees; for canopy layer in large food forests; long-lived; late to come into bearing"
+
+# ===========================================================================
+# PEAR (Pyrus communis)
+# ===========================================================================
+
+[[rootstock]]
+id = "quince_c"
+name = "Quince C"
+also_known_as = ["EMC", "Sydo", "Quince de Provence"]
+origin = "East Malling Research Station, UK"
+compatible_species = ["pyrus_communis", "cydonia_oblonga"]
+vigor = "dwarfing"
+grafted_height_m = 2.5
+anchorage = "moderate"
+requires_staking = true
+soil_tolerance = "Needs fertile, moisture-retentive soil; not drought tolerant; pH 6.0–7.0"
+disease_notes = "Some pear varieties are incompatible — requires interstock for 'Williams'"
+propagation = "stoolbed (layering)"
+notes = "Most dwarfing pear rootstock; induces early cropping; needs good soil conditions"
+
+[[rootstock]]
+id = "quince_a"
+name = "Quince A"
+also_known_as = ["Malling A", "Angers Quince"]
+origin = "East Malling Research Station, UK (from Angers, France)"
+compatible_species = ["pyrus_communis", "cydonia_oblonga"]
+vigor = "semi_vigorous"
+grafted_height_m = 4.0
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Tolerates heavier soils than Quince C; pH 6.0–7.5; moderately drought tolerant"
+disease_notes = "Some pear varieties need interstock"
+propagation = "stoolbed (layering) or hardwood cuttings"
+notes = "Most widely used pear rootstock; good compromise between size and productivity; most cultivars compatible"
+
+[[rootstock]]
+id = "pyrus_seedling"
+name = "Pyrus seedling"
+also_known_as = ["Pear seedling", "Kirchensaller"]
+origin = "Seedling selection"
+compatible_species = ["pyrus_communis"]
+vigor = "very_vigorous"
+grafted_height_m = 9.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Very adaptable; tolerates poor and dry soils; long-lived"
+disease_notes = "Fire blight susceptibility varies by seedling source"
+propagation = "seed"
+notes = "Standard trees for orchard or food forest canopy; very long-lived (100+ years); late into bearing"
+
+# ===========================================================================
+# PLUM / DAMSON / GREENGAGE / MIRABELLE (Prunus domestica, P. insititia)
+# ===========================================================================
+
+[[rootstock]]
+id = "pixy"
+name = "Pixy"
+also_known_as = []
+origin = "East Malling Research Station, UK"
+compatible_species = ["prunus_domestica", "prunus_insititia", "prunus_cerasifera"]
+vigor = "dwarfing"
+grafted_height_m = 2.5
+anchorage = "poor"
+requires_staking = true
+soil_tolerance = "Needs fertile, moisture-retentive soil; poor on dry or light soils"
+disease_notes = "Susceptible to silver leaf"
+propagation = "stoolbed (layering) or hardwood cuttings"
+notes = "Dwarfing plum rootstock; suits small gardens; needs good conditions; induces early cropping"
+
+[[rootstock]]
+id = "st_julien_a"
+name = "St. Julien A"
+also_known_as = ["Saint Julien A", "SJA"]
+origin = "Traditional European selection (France)"
+compatible_species = ["prunus_domestica", "prunus_insititia", "prunus_cerasifera", "prunus_salicina", "prunus_avium"]
+vigor = "semi_vigorous"
+grafted_height_m = 3.5
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Tolerates a range of soils including heavier and wetter; pH 5.5–7.5"
+disease_notes = "Good general disease resistance"
+propagation = "hardwood cuttings or stoolbed"
+notes = "Most versatile and widely available plum rootstock; compatible with most Prunus species; good first choice"
+
+[[rootstock]]
+id = "brompton"
+name = "Brompton"
+also_known_as = []
+origin = "Traditional UK selection"
+compatible_species = ["prunus_domestica", "prunus_insititia", "prunus_avium"]
+vigor = "vigorous"
+grafted_height_m = 5.5
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Tolerant of heavy, wet soils; adaptable"
+disease_notes = "Generally healthy; some susceptibility to bacterial canker"
+propagation = "hardwood cuttings"
+notes = "For large half-standard or standard plum trees; heavy cropping; long-lived"
+
+[[rootstock]]
+id = "myrobalan_b"
+name = "Myrobalan B"
+also_known_as = ["Myrobalan 29C", "P. cerasifera seedling"]
+origin = "Prunus cerasifera (kerspruim) selection"
+compatible_species = ["prunus_domestica", "prunus_insititia", "prunus_cerasifera", "prunus_salicina"]
+vigor = "very_vigorous"
+grafted_height_m = 7.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Very adaptable; tolerates heavy, wet, and shallow soils"
+disease_notes = "Suckering can be a problem; susceptible to some viruses"
+propagation = "seed or hardwood cuttings"
+notes = "Note: Prunus cerasifera (kerspruim) is both a species in its own right AND used as rootstock here; mainly used for Japanese plums and large standard European plums"
+
+# ===========================================================================
+# SWEET CHERRY (Prunus avium)
+# ===========================================================================
+
+[[rootstock]]
+id = "gisela_5"
+name = "Gisela 5"
+also_known_as = ["Gi 5", "Giessen 148-2"]
+origin = "University of Giessen, Germany"
+compatible_species = ["prunus_avium"]
+vigor = "dwarfing"
+grafted_height_m = 3.0
+anchorage = "moderate"
+requires_staking = true
+soil_tolerance = "Needs fertile, well-drained soil; not for wet or compacted sites"
+disease_notes = "Good resistance to bacterial canker and cherry leaf roll virus"
+propagation = "micropropagation or hardwood cuttings"
+notes = "Most common dwarfing cherry rootstock; early fruiting; heavy cropping; needs staking and irrigation"
+
+[[rootstock]]
+id = "gisela_6"
+name = "Gisela 6"
+also_known_as = ["Gi 6", "Giessen 148-8"]
+origin = "University of Giessen, Germany"
+compatible_species = ["prunus_avium"]
+vigor = "semi_vigorous"
+grafted_height_m = 4.5
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Tolerates a range of soils; better than Gisela 5 on poorer sites"
+disease_notes = "Good disease resistance"
+propagation = "micropropagation or hardwood cuttings"
+notes = "Good balance of size and productivity; more adaptable than Gisela 5"
+
+[[rootstock]]
+id = "colt"
+name = "Colt"
+also_known_as = []
+origin = "East Malling Research Station, UK"
+compatible_species = ["prunus_avium", "prunus_domestica"]
+vigor = "semi_vigorous"
+grafted_height_m = 5.0
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Tolerates wetter soils; pH 6.0–7.5; good in heavy clay"
+disease_notes = "Susceptible to bacterial canker on wet sites"
+propagation = "hardwood cuttings"
+notes = "Traditional semi-vigorous cherry rootstock; tolerates heavier/wetter soils better than Gisela series"
+
+[[rootstock]]
+id = "mazzard"
+name = "Mazzard"
+also_known_as = ["Prunus avium seedling", "F12/1"]
+origin = "Wild cherry seedling selection"
+compatible_species = ["prunus_avium"]
+vigor = "very_vigorous"
+grafted_height_m = 10.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Very adaptable; tolerates poor soils; long-lived"
+disease_notes = "Generally healthy"
+propagation = "seed"
+notes = "Full standard cherry trees for food forest canopy layer; very long-lived; late into bearing"
+
+[[rootstock]]
+id = "mahaleb"
+name = "Mahaleb"
+also_known_as = ["Prunus mahaleb", "St. Lucie cherry"]
+origin = "Prunus mahaleb (wild species)"
+compatible_species = ["prunus_avium"]
+vigor = "semi_vigorous"
+grafted_height_m = 5.0
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Best on well-drained, light, alkaline soils; drought tolerant; poor on wet or heavy clay"
+disease_notes = "Good bacterial canker resistance"
+propagation = "seed"
+notes = "Good choice for dry, chalky, or alkaline soils where Mazzard struggles"
+
+# ===========================================================================
+# WALNUT (Juglans regia)
+# ===========================================================================
+
+[[rootstock]]
+id = "juglans_regia_seedling"
+name = "Juglans regia seedling"
+also_known_as = ["Walnut seedling"]
+origin = "Seedling"
+compatible_species = ["juglans_regia"]
+vigor = "vigorous"
+grafted_height_m = 18.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Prefers deep, fertile, well-drained soils; pH 6.0–7.5; poor in waterlogged sites"
+disease_notes = "Generally healthy; susceptible to crown gall"
+propagation = "seed"
+notes = "Standard rootstock for walnuts; grafted trees crop much earlier than seedlings; grafting walnut is difficult (requires specialist technique)"
+
+[[rootstock]]
+id = "juglans_nigra"
+name = "Juglans nigra"
+also_known_as = ["Black walnut"]
+origin = "North America"
+compatible_species = ["juglans_regia"]
+vigor = "very_vigorous"
+grafted_height_m = 20.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Tolerates wetter and heavier soils than J. regia; very adaptable"
+disease_notes = "Good disease resistance; graft compatibility with J. regia can be variable"
+propagation = "seed"
+notes = "Used where J. regia seedling struggles; also allelopathic — site away from sensitive species"
+
+# ===========================================================================
+# SWEET CHESTNUT (Castanea sativa)
+# ===========================================================================
+
+[[rootstock]]
+id = "castanea_sativa_seedling"
+name = "Castanea sativa seedling"
+also_known_as = ["Chestnut seedling"]
+origin = "Seedling"
+compatible_species = ["castanea_sativa"]
+vigor = "vigorous"
+grafted_height_m = 20.0
+anchorage = "excellent"
+requires_staking = false
+soil_tolerance = "Acid to neutral soils (pH 4.5–6.5); well-drained; poor on chalk or waterlogged sites"
+disease_notes = "Phytophthora susceptibility on wet sites"
+propagation = "seed"
+notes = "Grafted chestnuts crop far earlier than seedlings; grafting is done in spring by splice or chip budding"
+
+# ===========================================================================
+# QUINCE / MEDLAR (Cydonia oblonga, Mespilus germanica)
+# ===========================================================================
+
+[[rootstock]]
+id = "quince_own_root"
+name = "Own root (quince)"
+also_known_as = []
+origin = "Cutting-grown"
+compatible_species = ["cydonia_oblonga"]
+vigor = "semi_vigorous"
+grafted_height_m = 4.0
+anchorage = "good"
+requires_staking = false
+soil_tolerance = "Tolerates moist soils; pH 5.5–7.5"
+disease_notes = "Generally healthy"
+propagation = "hardwood cuttings"
+notes = "Quince grows readily on its own roots from hardwood cuttings; grafting onto Quince A is also common"

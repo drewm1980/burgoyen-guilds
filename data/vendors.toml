@@ -1,0 +1,260 @@
+# Kwekerijen — Cohousing Bourgoyen voedselbos
+#
+# Categorieën voor has_fruit_trees / has_nut_trees / has_oak_trees:
+#   true  = bevestigd aanwezig
+#   false = niet gevonden / niet van toepassing
+#   "onbekend" = niet geverifieerd
+#
+# Verifieer altijd het actuele assortiment rechtstreeks bij de kwekerij,
+# want voorraad varieert per seizoen.
+
+# ---------------------------------------------------------------------------
+# BELGISCHE KWEKERIJEN — PRIMAIRE KEUZES
+# ---------------------------------------------------------------------------
+
+[[vendor]]
+id = "calle_steven"
+name = "Calle Steven Boomkwekerij"
+url = "https://www.callesteven.be"
+country = "BE"
+language = "nl"
+ships_to_be = true   # ook particulieren; afhalen of levering op afspraak
+address = "Smetledestraat 55, 9230 Wetteren (Oost-Vlaanderen)"
+distance_from_ghent_km = 15
+has_fruit_trees = true   # appel, peer, kers, zure kers, abrikoos, perzik, kweepeer, mispel, moerbei
+has_nut_trees = true     # walnoot, tamme kastanje, hazelaar, amandel
+has_oak_trees = false    # niet vermeld
+fruit_tree_notes = "Gekende en minder bekende rassen; vormen: snoer, struik, half- en hoogstam, leivormen voor appel/peer"
+nut_tree_notes = "Walnoot 'gegarandeerd grote noten'; kastanje, hazelaar, amandel"
+oak_notes = ""
+sales_method = "Particulieren welkom; catalogus downloadbaar; bezoek op telefonische afspraak"
+contact = "+32 9 369 02 37 | info@callesteven.be"
+notes = "Dichtste geverifieerde kwekerij bij Gent met volledig fruit- en notenassortiment. Geen webshop — cataloog aanvragen."
+
+[[vendor]]
+id = "fruitbomenhof"
+name = "FruitBomenHof"
+url = "https://www.fruitbomenhof.be"
+country = "BE"
+language = "nl"
+ships_to_be = true   # levering op aanvraag; zelfbediening ter plaatse 7/7
+address = "Zonnebloemstraat 34, B-9500 Geraardsbergen"
+distance_from_ghent_km = 35
+has_fruit_trees = true   # appel, peer, pruim, kers, abrikoos, nectarine, perzik, kweepeer, vijg, moerbei
+has_nut_trees = false    # geen noten- of eikenbomen vermeld (op bestelling mogelijk)
+has_oak_trees = false
+fruit_tree_notes = """
+Appel: Elstar, Cox's Orange, Jonagold, Golden Delicious, Rode Boskoop, Granny Smith, Braeburn e.a. (€15-18 laagstam, €26 halfstam)
+Peer: Conference, Doyenne, Williams, zuilvormen (€16-18 / €26)
+Pruim: Victoria, Opal, Czar, Bleue de Belgique, Mirabelle de Nancy, Reine Claude (€16-20 / €26-30)
+Kers: Sunburst, Regina, Burlat, Sylvia, Donissens Gold (€18-20 / €26)
+Kweepeer: appel- en peervorm (€18)
+Vijg: Brown Turkey (€15)
+Moerbei: Morus rotundiloba 'Mojo Berry' dwerg (€25)
+"""
+nut_tree_notes = ""
+oak_notes = ""
+sales_method = "Zelfbediening ter plaatse 7/7; webshop + levering op aanvraag"
+contact = "fruitbomenhof@gmail.com | +32 494 44 16 68"
+notes = "Goede prijzen; breed standaard fruitbomengamma; geen noten- of eikenbomen in vast assortiment."
+
+[[vendor]]
+id = "marechal"
+name = "Plantencentrum Maréchal"
+url = "https://www.marechal.be"
+country = "BE"
+language = "nl"
+ships_to_be = true   # levering beschikbaar; bezoek mogelijk
+address = "Kastelein 114, 2300 Turnhout"
+distance_from_ghent_km = 65
+has_fruit_trees = true   # appel (40+), peer (15+), steenvruchten, kiwi, vijg, mispel, kaki, moerbei
+has_nut_trees = true     # walnoot (3 rassen), hazelaar (5 rassen), tamme kastanje, amandel
+has_oak_trees = true     # Quercus robur bevestigd; breed bomenassortiment
+fruit_tree_notes = "125+ rassen fruitbomen; laagstam, halfstam, hoogstam (wortelgoed of pot)"
+nut_tree_notes = "Juglans (3 rassen), Corylus avellana (5 rassen), Castanea sativa, Prunus dulcis"
+oak_notes = "Quercus robur bevestigd op voorraad; dagelijks bijgevuld assortiment"
+sales_method = "Tuincentrum + webshop; levering op aanvraag"
+contact = "014/44.20.77 | info@marechal.be"
+notes = "Volledigste bevestigde BE-kwekerij voor alle drie categorieën. Iets verder van Gent."
+
+[[vendor]]
+id = "bois_de_rode_bos"
+name = "Bois de Rode Bos"
+url = "https://www.boisderodebos.be"
+country = "BE"
+language = "nl"
+ships_to_be = true   # webshop + Click & Collect
+address = "Linkebeeksedreef 99, 1640 Sint-Genesius-Rode (bij Brussel)"
+distance_from_ghent_km = 60
+has_fruit_trees = true   # appel, peer, pruim, kers, abrikoos, vijg, moerbei, kweepeer, mispel, nashi, kaki, pawpaw, feijoa
+has_nut_trees = true     # walnoot, tamme kastanje, hazelaar, amandel, pecan
+has_oak_trees = false    # niet vermeld
+fruit_tree_notes = "Zeldzame en bijzondere rassen; ook dwerg-kersen uit Canada, pluots (pruim-abrikoos-hybride), hardy citrus"
+nut_tree_notes = "Walnoot, tamme kastanje, hazelaar, amandel, pecan"
+oak_notes = ""
+openingstijden = "Do-Vr 10-17u, Za 9:30-12:30u; gesloten juni-aug en feestdagen"
+sales_method = "Webshop (Click & Collect) + bezoek op openingsdagen"
+contact = "Zie website"
+notes = "Specialist in zeldzame fruitbomen; ideaal voor bijzondere rassen. Gesloten in de zomer."
+
+[[vendor]]
+id = "boomkwekerij_bogaert"
+name = "Boomkwekerij Bogaert"
+url = "https://www.boomkwekerij-bogaert.be"
+country = "BE"
+language = "nl"
+ships_to_be = true   # webshop + afhalen; particulieren za 7-12u en 13:30-17u
+address = "Berg 26, 9860 Balegem/Oosterzele (Oost-Vlaanderen)"
+distance_from_ghent_km = 20
+has_fruit_trees = true   # fruitbomen-categorie aanwezig (2475 producten); incl. Castanea, Asimina, Carya
+has_nut_trees = true     # Castanea sativa ('Lyon', 'Marigoule' €58-74), Carya (pecan), Asimina
+has_oak_trees = true     # uitgebreid Quercus-assortiment: Q. robur, Q. ilex, Q. rubra, Q. cerris, Q. palustris, Q. suber e.a.
+fruit_tree_notes = "Groot assortiment (2475 producten); Castanea sativa 'Lyon', 'Dorée de Lyon' €58-74; Asimina triloba 'Sue', 'Sunflower' €54; Carya illinoinensis (pecan)"
+nut_tree_notes = "Castanea sativa meerdere rassen; Carya illinoinensis (pecan) meerdere rassen; verdere notenbomen op webshop te raadplegen"
+oak_notes = """
+Ruim Quercus-assortiment bevestigd:
+  Q. robur (zomereik) — inheems — alle maten van zaailing t/m 600 cm
+  Q. ilex (steeneik), Q. cerris (turkse eik), Q. pubescens (donseik)
+  Q. rubra (rode eik), Q. palustris (moeraseik), Q. suber (kurkeik)
+  Q. warei 'Regal Prince', Q. myrsinifolia, Q. imbricaria
+  Prijzen: kleine maten ca. €155-360; grote exemplaren €388-12.050
+"""
+sales_method = "Webshop; particulieren za 7-12u en 13:30-17u; andere dagen op afspraak"
+contact = "+32(0)9 362 63 61 | info@boomkwekerij-bogaert.be"
+notes = "Beste bron voor eikenbomen in de regio Gent. Ook fruitbomen en notenbomen. Grootschalige professionele kwekerij (~70 ha), ook voor particulieren."
+
+[[vendor]]
+id = "ecoflora"
+name = "Ecoflora"
+url = "https://www.ecoflora.be"
+country = "BE"
+language = "nl"
+ships_to_be = true
+address = "Ninoofsesteenweg 671, 1500 Halle"
+distance_from_ghent_km = 55
+has_fruit_trees = true   # appel (50+ rassen), peer (30+), pruim (20+), kers/zure kers (25+), perzik, abrikoos, vijg, kweepeer, mispel, kaki, pawpaw
+has_nut_trees = true     # walnoot, tamme kastanje, amandel ('Robijn' €24,50; 'Ferragnes' €69)
+has_oak_trees = false    # niet bevestigd
+fruit_tree_notes = """
+Appel 50+ rassen incl. 'Alkmene', 'Elstar', 'Boskoop Rode', 'Court Pendu Gris' (vanaf €28 wortelgoed)
+Peer 30+ rassen; pruim/mirabelle 20+; kers/zure kers 25+
+Vijg €29,50; kweepeer, mispel, kaki, pawpaw ook aanwezig
+Vormen: laagstam (40-50 cm), halfstam (140-150 cm), hoogstam (180-200 cm)
+Prijzen €24,50-€89
+"""
+nut_tree_notes = "Walnoot, tamme kastanje, amandel ('Robijn' €24,50, 'Ferragnes' €69)"
+oak_notes = ""
+openingstijden = "Di-Za 9-18u"
+sales_method = "Webshop + tuincentrum; biologisch gecertificeerd assortiment"
+contact = "+32(0)2.361.77.61 | info@ecoflora.be"
+notes = "Uitgebreidste bevestigde fruit- en notenassortiment van alle geverifieerde BE-kwekerijen; biologisch geteeld. Iets verder van Gent."
+
+# ---------------------------------------------------------------------------
+# BELGISCHE KWEKERIJEN — AANVULLEND / TE VERIFIËREN
+# ---------------------------------------------------------------------------
+
+[[vendor]]
+id = "terra_silva"
+name = "Terra Silva"
+url = "https://terrasilva.be"
+country = "BE"
+language = "nl"
+ships_to_be = true   # webshop + levering aan huis; afhalen in Leuven
+address = "Leuven (exact adres via website)"
+distance_from_ghent_km = 55
+has_fruit_trees = true   # appel t/m vijg (breed gamma beweerd); website momenteel niet bereikbaar
+has_nut_trees = true     # walnoot bevestigd via persberichten; andere noten te verifiëren
+has_oak_trees = false    # niet vermeld
+fruit_tree_notes = "Bio-dynamisch; 'van appelboom tot vijgstruik'; selectie op ziekteresistentie en oogstwaliteit"
+nut_tree_notes = "Walnoot bevestigd; volledig notenassortiment te verifiëren via webshop"
+oak_notes = ""
+sales_method = "Webshop; levering aan huis of afhalen"
+contact = "Zie terrasilva.be"
+notes = "Jonge biologische kwekerij (gestart 2021, Leuven); website was onbereikbaar tijdens onderzoek — assortiment bevestigen vóór bestelling."
+
+# ---------------------------------------------------------------------------
+# NEDERLANDSE KWEKERIJEN — KUNNEN LEVEREN NAAR BELGIË
+# ---------------------------------------------------------------------------
+
+[[vendor]]
+id = "kwekerij_stekkers"
+name = "Kwekerij Stekkers"
+url = "https://kwekerijstekkers.nl"
+country = "NL"
+language = "nl"
+ships_to_be = false   # leveringsgebied NL; BE te verifiëren
+address = "Gageldijk 3, 3566 ME Utrecht"
+distance_from_ghent_km = 170
+has_fruit_trees = true   # appel, peer, pruim, kers, kweepeer, vijg, moerbei
+has_nut_trees = true     # walnoot, tamme kastanje, hazelaar, amandel, pecan
+has_oak_trees = false    # niet vermeld
+fruit_tree_notes = "Appel (Elstar, Topaz), peer (Conference), pruim (Opal, Victoria, Reine Claude d'Oullins), kers (Celeste, Rivan), kweepeer, vijg, moerbei; potten 2-16 L €9,75-€45,15"
+nut_tree_notes = "Walnoot, tamme kastanje, hazelaar, amandel, pecan"
+oak_notes = ""
+sales_method = "Webshop; biologisch/ecologisch geteeld"
+contact = "info@kwekerijstekkers.nl"
+notes = "Permacultuur-georiënteerd; levering naar BE te bevestigen bij bestelling."
+
+# ---------------------------------------------------------------------------
+# OORSPRONKELIJKE VERMELDINGEN — NIET GEVERIFIEERD / ONBEREIKBAAR
+# ---------------------------------------------------------------------------
+
+[[vendor]]
+id = "de_groene_wijk"
+name = "De Groene Wijk"
+url = "https://www.degroenewijk.be"
+country = "BE"
+language = "nl"
+ships_to_be = true
+has_fruit_trees = "onbekend"
+has_nut_trees = "onbekend"
+has_oak_trees = "onbekend"
+notes = "Website onbereikbaar tijdens onderzoek (april 2026). Beweerd gespecialiseerd in permacultuur en voedselbossen — assortiment te verifiëren."
+
+[[vendor]]
+id = "de_bosrand"
+name = "De Bosrand"
+url = "https://www.debosrand.be"
+country = "BE"
+language = "nl"
+ships_to_be = true
+has_fruit_trees = "onbekend"
+has_nut_trees = "onbekend"
+has_oak_trees = "onbekend"
+notes = "Website leidt naar een brasserie, niet een kwekerij — mogelijk fout adres of gesloten. Te verifiëren."
+
+[[vendor]]
+id = "food_forest_nursery"
+name = "Food Forest Nursery"
+url = "https://www.foodforestnursery.co.uk"
+country = "GB"
+language = "en"
+ships_to_be = false
+has_fruit_trees = "onbekend"
+has_nut_trees = "onbekend"
+has_oak_trees = "onbekend"
+notes = "VK-specialist; levert waarschijnlijk niet naar BE. Alleen als referentie."
+
+[[vendor]]
+id = "lathyrus"
+name = "Lathyrus"
+url = "https://www.lathyrus.nl"
+country = "NL"
+language = "nl"
+ships_to_be = true
+has_fruit_trees = "onbekend"
+has_nut_trees = "onbekend"
+has_oak_trees = "onbekend"
+notes = "Vaste planten en heesters; fruitbomen/notenbomen/eiken niet geverifieerd."
+
+[[vendor]]
+id = "raintree_nursery"
+name = "Raintree Nursery"
+url = "https://www.raintreenursery.com"
+country = "US"
+language = "en"
+ships_to_be = false
+has_fruit_trees = "onbekend"
+has_nut_trees = "onbekond"
+has_oak_trees = "onbekend"
+notes = "Alleen als referentie — VS-kwekerij, levert niet naar BE."

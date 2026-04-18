@@ -1,0 +1,59 @@
+# Vendor plant listings — Cohousing Bourgoyen food forest
+#
+# Links a vendor to a species + optional cultivar with commercial details.
+# Also used for rootstock-only listings (set sold_as_rootstock = true).
+#
+# stock_status values:    in_stock | limited | out_of_stock | unknown
+# delivery_method values: bare_root | pot | rootball | air_pot | unknown
+#
+# rootstock_id: foreign key → rootstocks.id  (omit if own-root or unknown)
+# sold_as_rootstock: true if this listing is a rootstock for grafting,
+#                    not a finished tree
+#
+# Size fields:
+#   height_at_sale_cm        — current height at time of listing
+#   trunk_circumference_cm   — trunk girth (for large specimen trees)
+#   container_size_l         — pot volume in litres (for potted plants)
+#   age_years                — approximate age of plant
+
+# ---------------------------------------------------------------------------
+# Example entry — finished tree
+# ---------------------------------------------------------------------------
+# [[vendor_plant]]
+# id = "fruitbomenhof_prunus_domestica_victoria"
+# vendor_id = "fruitbomenhof"
+# species_id = "prunus_domestica"
+# cultivar = "Victoria"
+# sold_as_rootstock = false
+# product_name = "Pruim 'Victoria' halfstam"
+# delivery_method = "pot"
+# container_size_l = 10.0
+# height_at_sale_cm = 140.0
+# trunk_circumference_cm = 6.0
+# age_years = 3
+# rootstock_id = "st_julien_a"
+# price_eur = 26.00
+# stock_status = "unknown"
+# url = "https://www.fruitbomenhof.be/..."
+# notes = ""
+
+# ---------------------------------------------------------------------------
+# Example entry — rootstock for grafting
+# ---------------------------------------------------------------------------
+# [[vendor_plant]]
+# id = "calle_steven_rootstock_mm106"
+# vendor_id = "calle_steven"
+# species_id = "malus_domestica"       # host species
+# cultivar = ""
+# sold_as_rootstock = true
+# product_name = "Onderstam MM106 wortelgoed"
+# delivery_method = "bare_root"
+# container_size_l = 0.0
+# height_at_sale_cm = 60.0
+# trunk_circumference_cm = 0.0
+# age_years = 1
+# rootstock_id = "mm106"
+# price_eur = 4.50
+# stock_status = "unknown"
+# url = ""
+# notes = "Wortelgoed; levering november–maart"

@@ -1,0 +1,692 @@
+# Plant species database — Cohousing Bourgoyen food forest
+# Site: Gent, Belgium — USDA zone 8a/8b, 51.05°N, temperate oceanic (Cfb)
+#
+# Enum values:
+#   food_forest_layer: canopy | sub_canopy | shrub | herbaceous | groundcover | root | climber
+#   growth_rate:       slow | medium | fast
+#   light:             full_sun | partial_shade | full_shade
+#   soil_moisture:     dry | medium | moist | wet
+#   root_type:         taproot | fibrous | spreading
+
+# ---------------------------------------------------------------------------
+# CANOPY
+# ---------------------------------------------------------------------------
+
+[[species]]
+id = "juglans_regia"
+latin_name = "Juglans regia"
+common_name_nl = "Walnoot"
+common_name_en = "Walnut"
+family = "Juglandaceae"
+food_forest_layer = "canopy"
+mature_height_m_min = 15.0
+mature_height_m_max = 25.0
+mature_spread_m_min = 10.0
+mature_spread_m_max = 15.0
+growth_rate = "medium"
+hardiness_zone_min = 5
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf_tea"]
+wildlife_value = ["bird_food", "squirrel"]
+root_type = "taproot"
+notes = "Allelopathic — keep away from sensitive plants; late to leaf out"
+
+[[species]]
+id = "castanea_sativa"
+latin_name = "Castanea sativa"
+common_name_nl = "Tamme kastanje"
+common_name_en = "Sweet chestnut"
+family = "Fagaceae"
+food_forest_layer = "canopy"
+mature_height_m_min = 20.0
+mature_height_m_max = 35.0
+mature_spread_m_min = 10.0
+mature_spread_m_max = 15.0
+growth_rate = "fast"
+hardiness_zone_min = 5
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 4.5
+soil_ph_max = 6.5
+nitrogen_fixer = false
+edible_parts = ["nut"]
+wildlife_value = ["bird_food", "squirrel", "insect"]
+root_type = "taproot"
+notes = "Excellent mast crop; prefers slightly acid soil"
+
+[[species]]
+id = "quercus_robur"
+latin_name = "Quercus robur"
+common_name_nl = "Zomereik"
+common_name_en = "English oak"
+family = "Fagaceae"
+food_forest_layer = "canopy"
+mature_height_m_min = 20.0
+mature_height_m_max = 40.0
+mature_spread_m_min = 15.0
+mature_spread_m_max = 25.0
+growth_rate = "slow"
+hardiness_zone_min = 5
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 4.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["acorn_flour"]
+wildlife_value = ["insect", "bird_food", "bat"]
+root_type = "taproot"
+notes = "Keystone species; acorns edible after leaching; very long-lived"
+
+# ---------------------------------------------------------------------------
+# SUB-CANOPY
+# ---------------------------------------------------------------------------
+
+[[species]]
+id = "malus_domestica"
+latin_name = "Malus domestica"
+common_name_nl = "Appel"
+common_name_en = "Apple"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 8.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 8.0
+growth_rate = "medium"
+hardiness_zone_min = 3
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Height/spread highly cultivar-dependent; see vendor_plants for cultivar details"
+
+[[species]]
+id = "pyrus_communis"
+latin_name = "Pyrus communis"
+common_name_nl = "Peer"
+common_name_en = "Pear"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 4.0
+mature_height_m_max = 12.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 6.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Needs cross-pollination partner"
+
+[[species]]
+id = "prunus_avium"
+latin_name = "Prunus avium"
+common_name_nl = "Zoete kers"
+common_name_en = "Sweet cherry"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 5.0
+mature_height_m_max = 15.0
+mature_spread_m_min = 4.0
+mature_spread_m_max = 10.0
+growth_rate = "fast"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["bird_food", "pollinator"]
+root_type = "fibrous"
+notes = "Vigorous; prefers well-drained soil"
+
+[[species]]
+id = "prunus_domestica"
+latin_name = "Prunus domestica"
+common_name_nl = "Pruim"
+common_name_en = "European plum"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 8.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 6.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Includes greengages (Reine Claude), mirabelles, and standard plums; many cultivars; some self-fertile"
+
+[[species]]
+id = "prunus_cerasifera"
+latin_name = "Prunus cerasifera"
+common_name_nl = "Kerspruim / Myrobalaan"
+common_name_en = "Cherry plum / Myrobalan"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 4.0
+mature_height_m_max = 8.0
+mature_spread_m_min = 4.0
+mature_spread_m_max = 6.0
+growth_rate = "fast"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "One of the earliest spring blossoms; small tart fruit (cherry-sized) ripens July–Aug; excellent for jam/juice; also used as rootstock for other Prunus; very hardy and adaptable"
+
+[[species]]
+id = "prunus_insititia"
+latin_name = "Prunus insititia"
+common_name_nl = "Sleepruim / Kroosjes"
+common_name_en = "Damson / Bullace"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 5.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Late-ripening (Sept–Oct); fruit intensely flavoured, astringent fresh but superb for jam, gin, and wine; very tough and adaptable; often self-fertile"
+
+[[species]]
+id = "prunus_salicina"
+latin_name = "Prunus salicina"
+common_name_nl = "Japanse pruim"
+common_name_en = "Japanese plum"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 7.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 6.0
+growth_rate = "medium"
+hardiness_zone_min = 5
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Large, sweet, juicy fruit; earlier ripening than P. domestica; needs cross-pollination partner; frost-sensitive blossom — site carefully"
+
+[[species]]
+id = "morus_alba"
+latin_name = "Morus alba"
+common_name_nl = "Witte moerbei"
+common_name_en = "White mulberry"
+family = "Moraceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 5.0
+mature_height_m_max = 15.0
+mature_spread_m_min = 5.0
+mature_spread_m_max = 10.0
+growth_rate = "fast"
+hardiness_zone_min = 5
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf"]
+wildlife_value = ["bird_food", "silkworm"]
+root_type = "spreading"
+notes = "Very productive; fruit stains; wind-resistant"
+
+[[species]]
+id = "morus_nigra"
+latin_name = "Morus nigra"
+common_name_nl = "Zwarte moerbei"
+common_name_en = "Black mulberry"
+family = "Moraceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 4.0
+mature_height_m_max = 10.0
+mature_spread_m_min = 5.0
+mature_spread_m_max = 8.0
+growth_rate = "slow"
+hardiness_zone_min = 6
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["bird_food"]
+root_type = "spreading"
+notes = "Superior fruit flavour; slower than M. alba"
+
+[[species]]
+id = "cydonia_oblonga"
+latin_name = "Cydonia oblonga"
+common_name_nl = "Kweepeer"
+common_name_en = "Quince"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 5.0
+growth_rate = "medium"
+hardiness_zone_min = 5
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator"]
+root_type = "fibrous"
+notes = "Self-fertile; fragrant flowers; fruit for jelly/jam"
+
+[[species]]
+id = "ficus_carica"
+latin_name = "Ficus carica"
+common_name_nl = "Vijg"
+common_name_en = "Fig"
+family = "Moraceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 8.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 8.0
+growth_rate = "medium"
+hardiness_zone_min = 7
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 8.0
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf"]
+wildlife_value = ["bird_food"]
+root_type = "spreading"
+notes = "Zone 8 marginally hardy; wall-trained forms more reliable in Ghent"
+
+[[species]]
+id = "elaeagnus_umbellata"
+latin_name = "Elaeagnus umbellata"
+common_name_nl = "Herfstolief"
+common_name_en = "Autumn olive"
+family = "Elaeagnaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 3.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 5.0
+growth_rate = "fast"
+hardiness_zone_min = 3
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.5
+nitrogen_fixer = true
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Nitrogen fixer; very productive; fruit slightly astringent when unripe"
+
+[[species]]
+id = "amelanchier_lamarckii"
+latin_name = "Amelanchier lamarckii"
+common_name_nl = "Krentenboompje"
+common_name_en = "Juneberry"
+family = "Rosaceae"
+food_forest_layer = "sub_canopy"
+mature_height_m_min = 4.0
+mature_height_m_max = 8.0
+mature_spread_m_min = 4.0
+mature_spread_m_max = 6.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "partial_shade"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Beautiful spring blossom; tasty fruit; tolerates part shade well"
+
+# ---------------------------------------------------------------------------
+# SHRUB
+# ---------------------------------------------------------------------------
+
+[[species]]
+id = "ribes_nigrum"
+latin_name = "Ribes nigrum"
+common_name_nl = "Zwarte bes"
+common_name_en = "Blackcurrant"
+family = "Grossulariaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 1.0
+mature_height_m_max = 1.5
+mature_spread_m_min = 1.0
+mature_spread_m_max = 1.5
+growth_rate = "medium"
+hardiness_zone_min = 3
+light = "partial_shade"
+soil_moisture = "moist"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Tolerates partial shade; very productive"
+
+[[species]]
+id = "ribes_rubrum"
+latin_name = "Ribes rubrum"
+common_name_nl = "Rode bes"
+common_name_en = "Redcurrant"
+family = "Grossulariaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 1.0
+mature_height_m_max = 1.5
+mature_spread_m_min = 1.0
+mature_spread_m_max = 1.5
+growth_rate = "medium"
+hardiness_zone_min = 3
+light = "partial_shade"
+soil_moisture = "moist"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["bird_food"]
+root_type = "fibrous"
+notes = "Tolerates more shade than blackcurrant"
+
+[[species]]
+id = "ribes_uva_crispa"
+latin_name = "Ribes uva-crispa"
+common_name_nl = "Kruisbes"
+common_name_en = "Gooseberry"
+family = "Grossulariaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 0.8
+mature_height_m_max = 1.2
+mature_spread_m_min = 0.8
+mature_spread_m_max = 1.2
+growth_rate = "medium"
+hardiness_zone_min = 3
+light = "partial_shade"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Thorny; fruit excellent"
+
+[[species]]
+id = "sambucus_nigra"
+latin_name = "Sambucus nigra"
+common_name_nl = "Vlier"
+common_name_en = "Elder"
+family = "Adoxaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 3.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 5.0
+growth_rate = "fast"
+hardiness_zone_min = 4
+light = "partial_shade"
+soil_moisture = "moist"
+soil_ph_min = 5.5
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["flower", "fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "spreading"
+notes = "Pioneer species; flowers for cordial/syrup; berries must be cooked"
+
+[[species]]
+id = "corylus_avellana"
+latin_name = "Corylus avellana"
+common_name_nl = "Hazelaar"
+common_name_en = "Hazel"
+family = "Betulaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 3.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 3.0
+mature_spread_m_max = 5.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "partial_shade"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["nut"]
+wildlife_value = ["squirrel", "dormouse", "bird_food"]
+root_type = "fibrous"
+notes = "Wind-pollinated; plant 2+ for good nut set"
+
+[[species]]
+id = "rubus_idaeus"
+latin_name = "Rubus idaeus"
+common_name_nl = "Framboos"
+common_name_en = "Raspberry"
+family = "Rosaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 1.0
+mature_height_m_max = 2.0
+mature_spread_m_min = 0.6
+mature_spread_m_max = 1.0
+growth_rate = "fast"
+hardiness_zone_min = 3
+light = "partial_shade"
+soil_moisture = "moist"
+soil_ph_min = 5.5
+soil_ph_max = 6.5
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf_tea"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "spreading"
+notes = "Suckering; everbearing cultivars available"
+
+[[species]]
+id = "rubus_fruticosus"
+latin_name = "Rubus fruticosus"
+common_name_nl = "Braam"
+common_name_en = "Blackberry"
+family = "Rosaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 1.0
+mature_height_m_max = 3.0
+mature_spread_m_min = 1.0
+mature_spread_m_max = 3.0
+growth_rate = "fast"
+hardiness_zone_min = 5
+light = "partial_shade"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf_tea"]
+wildlife_value = ["pollinator", "bird_food", "hedgehog_habitat"]
+root_type = "spreading"
+notes = "Thornless cultivars preferred for garden use"
+
+[[species]]
+id = "vaccinium_corymbosum"
+latin_name = "Vaccinium corymbosum"
+common_name_nl = "Blauwe bes"
+common_name_en = "Highbush blueberry"
+family = "Ericaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 1.5
+mature_height_m_max = 2.5
+mature_spread_m_min = 1.0
+mature_spread_m_max = 2.0
+growth_rate = "slow"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "moist"
+soil_ph_min = 4.5
+soil_ph_max = 5.5
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Needs acidic soil; plant 2+ for best yield; stunning autumn colour"
+
+[[species]]
+id = "aronia_melanocarpa"
+latin_name = "Aronia melanocarpa"
+common_name_nl = "Zwarte appelbes"
+common_name_en = "Black chokeberry"
+family = "Rosaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 1.5
+mature_height_m_max = 3.0
+mature_spread_m_min = 1.5
+mature_spread_m_max = 2.5
+growth_rate = "medium"
+hardiness_zone_min = 3
+light = "partial_shade"
+soil_moisture = "moist"
+soil_ph_min = 5.0
+soil_ph_max = 7.0
+nitrogen_fixer = false
+edible_parts = ["fruit"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "fibrous"
+notes = "Very hardy; high antioxidants; astringent fresh but excellent processed"
+
+[[species]]
+id = "hippophae_rhamnoides"
+latin_name = "Hippophaë rhamnoides"
+common_name_nl = "Duindoorn"
+common_name_en = "Sea buckthorn"
+family = "Elaeagnaceae"
+food_forest_layer = "shrub"
+mature_height_m_min = 2.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 2.0
+mature_spread_m_max = 5.0
+growth_rate = "fast"
+hardiness_zone_min = 3
+light = "full_sun"
+soil_moisture = "dry"
+soil_ph_min = 6.0
+soil_ph_max = 7.5
+nitrogen_fixer = true
+edible_parts = ["fruit", "seed_oil"]
+wildlife_value = ["bird_food", "insect"]
+root_type = "spreading"
+notes = "Nitrogen fixer; thorny windbreak; plant male + female (ratio ~1:6)"
+
+# ---------------------------------------------------------------------------
+# CLIMBERS
+# ---------------------------------------------------------------------------
+
+[[species]]
+id = "vitis_vinifera"
+latin_name = "Vitis vinifera"
+common_name_nl = "Druif"
+common_name_en = "Grape vine"
+family = "Vitaceae"
+food_forest_layer = "climber"
+mature_height_m_min = 5.0
+mature_height_m_max = 15.0
+mature_spread_m_min = 2.0
+mature_spread_m_max = 5.0
+growth_rate = "fast"
+hardiness_zone_min = 6
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 6.0
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["fruit", "leaf"]
+wildlife_value = ["pollinator", "bird_food"]
+root_type = "taproot"
+notes = "Train on pergola or south-facing structure; table or wine grapes"
+
+[[species]]
+id = "humulus_lupulus"
+latin_name = "Humulus lupulus"
+common_name_nl = "Hop"
+common_name_en = "Hop"
+family = "Cannabaceae"
+food_forest_layer = "climber"
+mature_height_m_min = 4.0
+mature_height_m_max = 8.0
+mature_spread_m_min = 1.0
+mature_spread_m_max = 2.0
+growth_rate = "fast"
+hardiness_zone_min = 3
+light = "full_sun"
+soil_moisture = "moist"
+soil_ph_min = 6.0
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = ["young_shoot", "cone"]
+wildlife_value = ["pollinator"]
+root_type = "spreading"
+notes = "Annual shoots back to roots each year; vigorous"
+
+[[species]]
+id = "lonicera_periclymenum"
+latin_name = "Lonicera periclymenum"
+common_name_nl = "Wilde kamperfoelie"
+common_name_en = "Honeysuckle"
+family = "Caprifoliaceae"
+food_forest_layer = "climber"
+mature_height_m_min = 3.0
+mature_height_m_max = 6.0
+mature_spread_m_min = 1.0
+mature_spread_m_max = 3.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "partial_shade"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 7.5
+nitrogen_fixer = false
+edible_parts = []
+wildlife_value = ["pollinator", "bird_food", "moth"]
+root_type = "fibrous"
+notes = "Native; very fragrant; berries for birds only (toxic to humans)"

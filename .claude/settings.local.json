@@ -18,7 +18,31 @@
       "Bash(pdf-oxide text *)",
       "Bash(pdf-oxide paths *)",
       "Bash(pdf-oxide render *)",
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(pdf-oxide crop *)",
+      "Bash(python *)",
+      "WebFetch(domain:www.google.com)",
+      "Bash(mkdir -p docs tmp viz)",
+      "Bash(mv \"20250619 verslag brainstorm common house en tuin.odt\" docs/)",
+      "Bash(mv \"380_SO_231214-01_ontwerpplan groenburo.pdf\" docs/)",
+      "Bash(mv \"Bourgoyen inplantingsplan met huisnummers.png\" docs/)",
+      "Bash(mv \"oude plannen afmetingen tuin KDZ_OMV_2019156989_plannenset_Nekkersputstraat 176.pdf\" docs/)",
+      "Bash(pdf-oxide split *)",
+      "WebFetch(domain:www.degroenewijk.be)",
+      "WebFetch(domain:www.debosrand.be)",
+      "WebSearch",
+      "WebFetch(domain:www.fruitbomenkopen.be)",
+      "WebFetch(domain:www.callesteven.be)",
+      "WebFetch(domain:www.boomkwekerij-bogaert.be)",
+      "WebFetch(domain:permacultuurnetwerk.eu)",
+      "WebFetch(domain:terrasilva.be)",
+      "WebFetch(domain:www.boisderodebos.be)",
+      "WebFetch(domain:www.ecoflora.be)",
+      "WebFetch(domain:www.fruitbomenhof.be)",
+      "WebFetch(domain:kwekerijstekkers.nl)",
+      "WebFetch(domain:www.marechal.be)",
+      "Bash(grep -v \"^$\")",
+      "Bash(grep -v \"^[[:space:]]*$\")"
     ]
   }
 }
