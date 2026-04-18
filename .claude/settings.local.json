@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import pdf2image; print\\('ok'\\)\")",
+      "Bash(python3 -c \"import fitz; print\\('ok'\\)\")",
+      "Bash(python3 -c \"import pdfplumber; print\\('ok'\\)\")",
+      "Bash(py --version)",
+      "Bash(python -c \"import fitz; print\\('pymupdf ok'\\)\")",
+      "Bash(python -c \"import pdfplumber; print\\('ok'\\)\")",
+      "Bash(python -c \"import pypdf; print\\('ok'\\)\")",
+      "Bash(cargo install *)",
+      "Bash(cargo search *)",
+      "Bash(rustup update *)",
+      "Bash(pdf_oxide \"/c/Users/awagner/Documents/cohousing_bourgoyen/tuin_design/380_SO_231214-01_ontwerpplan groenburo.pdf\")",
+      "Bash(pdf_oxide --help)",
+      "Bash(pdf-oxide --help)",
+      "Bash(pdf-oxide info *)",
+      "Bash(pdf-oxide text *)",
+      "Bash(pdf-oxide paths *)",
+      "Bash(pdf-oxide render *)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
