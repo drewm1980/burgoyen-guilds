@@ -116,6 +116,21 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 ---
 
+# Zijn de hartnoten te groot voor die plek?
+
+- Hoogte volgroeid: 15–20 m.
+- Kroon: ongeveer 15 m breed (bereik 9–20 m).
+- Gidsen raden 15 m of meer tussen bomen aan.
+- Schaaltekening: 15 m eindbreedte, onze beste schatting.
+
+<small>Bronnen: [Eetbaargoed](https://www.eetbaargoed.nl/product/hartnoot-juglans-ailantifolia-schubert/) · [Oregon State](https://landscapeplants.oregonstate.edu/plants/juglans-ailantifolia) · [PFAF](https://pfaf.org/user/Plant.aspx?LatinName=Juglans+ailanthifolia+cordiformis) · [Food Forest Nursery](https://www.foodforestnursery.com/growing-guides/nut-trees/heartnut-trees/)</small>
+
+![bg right:38% fit](img/heartnut_tree.jpg)
+
+<!-- Citaten: Eetbaargoed (pagina's 'Imshu'/'Shubert', verkoper van de overwogen cultivars): "groeit eerst flink de lucht in tot een hoogte van 15 tot 20 meter en vormt dan een mooie brede kroon" (geen breedte). Oregon State: "to 40-65 ft (15-20 m) tall, broad, round crown". PFAF: ongeveer 20 m x 15 m. Food Forest Nursery en tuingidsen (zoekresultaten, pagina's niet volledig gelezen): 30-50 ft hoog, breedte 30-65 ft (9-20 m), 'laag en breed uitgroeiend, zoals een steeneik', aanbevolen afstand 50 ft (15 m) of meer. Geen bron geeft een breedte voor de specifieke cultivars ('Anneke', 'Shubert', 'Campbell CW4', 'Grimo Manchurican'). De 15 m breedte is een gangbaar cijfer; het bereik is groot. Afstanden tot wortels en warmtepompleidingen: zie docs/research_notes/heat_pump_roots.md. De schaaltekening voegt de eigenaar toe. -->
+
+---
+
 # Hartnoot heeft een bestuivingspartner nodig
 
 - Eén enkele hartnoot zet zelden noten.

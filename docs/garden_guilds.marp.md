@@ -115,6 +115,21 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 ---
 
+# Are the heartnuts too big for that spot?
+
+- Height at maturity: 15–20 m.
+- Crown: about 15 m across (range 9–20 m).
+- Guides advise 15 m or more between trees.
+- Scale diagram: 15 m final width, our best guess.
+
+<small>Sources: [Eetbaargoed](https://www.eetbaargoed.nl/product/hartnoot-juglans-ailantifolia-schubert/) · [Oregon State](https://landscapeplants.oregonstate.edu/plants/juglans-ailantifolia) · [PFAF](https://pfaf.org/user/Plant.aspx?LatinName=Juglans+ailanthifolia+cordiformis) · [Food Forest Nursery](https://www.foodforestnursery.com/growing-guides/nut-trees/heartnut-trees/)</small>
+
+![bg right:38% fit](img/heartnut_tree.jpg)
+
+<!-- Quotes: Eetbaargoed ('Imshu'/'Shubert' pages, seller of the cultivars considered): "groeit eerst flink de lucht in tot een hoogte van 15 tot 20 meter en vormt dan een mooie brede kroon" (no width given). Oregon State: "to 40-65 ft (15-20 m) tall, broad, round crown". PFAF: about 20 m x 15 m. Food Forest Nursery and gardening guides (search summaries, pages not read in full): 30-50 ft tall, spread 30-65 ft (9-20 m), 'low and spreading, like a live oak', suggested spacing 50 ft (15 m) or more. No source gives a width for the specific cultivars ('Anneke', 'Shubert', 'Campbell CW4', 'Grimo Manchurican'). The 15 m width is a typical figure; the range is wide. Root and heat pump line distances: see docs/research_notes/heat_pump_roots.md. The scale diagram will be added by the owner. -->
+
+---
+
 # Heartnut needs a pollination partner
 
 - A lone heartnut rarely sets nuts.
