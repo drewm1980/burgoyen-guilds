@@ -89,3 +89,15 @@ Searches for EU-made **double-lever (compound or two-stage) bench crackers** (Ge
 2. **Best off-the-shelf modular option: NUT Technology "Whole Kernel" 3 in 1** (Ukraine, EUR 299): three swappable cones, all-steel, rated for 7-10 tons of walnuts, spare cone bowls sold separately per the single-cone page. It is a crank-and-cone machine rather than a lever and it is unproven on heartnuts and buartnuts, so it complements rather than replaces a lever cracker. Email sale@nuttechnology.com for the Belgium duty/VAT position and the spare-cone price before ordering.
 3. **Sturdy EU machine, not modular:** **WAL MAN** from Feucht Obsttechnik (Germany, 11 kg, welded 4-5 mm steel, ball bearings, 30 kg/h, hand crank). Ask for the price, Belgian shipping, and whether it copes with heartnuts.
 4. **Stainless fixed-jaw levers** from earlier rounds (PITEBA / Tompress) remain the simplest sturdy EU purchase, but are small and not modular.
+
+## Black Cat (Grimo, Canada): now under consideration
+
+The project owner likes the Black Cat and is fine buying from Canada.
+
+- **What it is:** dual-lever cracker, "heavy duty steel construction" on a wooden base, made in Canada, arrives pre-assembled; nuts up to 1 3/4 in (about 4.4 cm); the dual lever copes with nuts varying by up to 3/4 in without adjustment; adjustable anvils. Price CAD 125, or CAD 141-143 in bundles with 2-4 lb of black walnuts or heartnuts. Product page: https://www.grimonut.com/index.php?p=Products&category=nutcrackers
+- **Heartnuts:** the page lists the Black Cat as designed for black walnuts, butternuts and hickories; heartnuts appear only as a bundle option (sold together), and there is no cracking advice or claim that it opens heartnuts whole. Treat heartnut performance as unverified.
+- **Not stated on the page:** weight, dimensions, how it is mounted, warranty, stainless or not (it is not described as stainless; a steel body may need oiling), and whether the anvils are replaceable or only adjustable.
+- **Shipping to Europe is unresolved.** Grimo's FAQ and terms say "We do not ship trees or grafting wood to Europe due to the heavy regulations", which is about plants, not nutcrackers; nothing on shipping crackers to the EU is stated. Ask before ordering: phone +1 905 934 6887 or the contact page https://www.grimonut.com/index.php?p=Contact. Ask for a shipping quote to Belgium (weight, courier), and who pays customs and Belgian VAT (their seed policy says the buyer pays tariffs and VAT).
+- **Returns:** their terms allow exchanges and refunds on nutcrackers, with the customer paying return shipping. From Belgium that return would be expensive, so a test on heartnuts before committing is not cheap.
+- **Payment:** cash, US or Canadian cheque, Visa and MasterCard (per their terms); check that a Belgian card works.
+- **Hedge:** since heartnut cracking is unproven on it, consider ordering the bundle with heartnuts so a real test is possible on arrival, and compare against the NUT Technology 3 in 1 (cone, Ukraine) and a locally built lever cracker.
