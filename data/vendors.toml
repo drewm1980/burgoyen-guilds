@@ -154,6 +154,19 @@ notes = "Uitgebreidste bevestigde fruit- en notenassortiment van alle geverifiee
 # ---------------------------------------------------------------------------
 
 [[vendor]]
+id = "debomelaar"
+name = "De Bomelaar"
+url = "https://debomelaar.be"
+country = "BE"
+language = "nl"
+ships_to_be = true
+address = "Oeselgem"
+has_fruit_trees = true
+has_nut_trees = true
+nut_tree_notes = "Geselecteerde zaailingen van C. mollissima van moederbomen."
+notes = "Lokale expert voor notenbomen; verzending van klein plantgoed mogelijk op aanvraag."
+
+[[vendor]]
 id = "terra_silva"
 name = "Terra Silva"
 url = "https://terrasilva.be"
@@ -177,6 +190,30 @@ notes = "Jonge biologische kwekerij (gestart 2021, Leuven); website was onbereik
 # ---------------------------------------------------------------------------
 
 [[vendor]]
+id = "eetbaargoed"
+name = "Eetbaargoed"
+url = "https://eetbaargoed.nl"
+country = "NL"
+language = "nl"
+ships_to_be = true
+has_fruit_trees = true
+has_nut_trees = true
+nut_tree_notes = "Specialist in Chinese kastanje (C. mollissima) elite zaailingen zoals Grimo, Hebei North en SemRu labels."
+notes = "Top keuze voor hoogwaardige Chinese genetica in de Benelux."
+
+[[vendor]]
+id = "arborealis"
+name = "Arborealis"
+url = "https://arborealis.nl"
+country = "NL"
+language = "nl"
+ships_to_be = true
+has_fruit_trees = true
+has_nut_trees = true
+nut_tree_notes = "Biedt C. mollissima zaailingen aan voor voedselbossen."
+notes = "Betrouwbare leverancier voor biologisch gekweekt plantgoed."
+
+[[vendor]]
 id = "kwekerij_stekkers"
 name = "Kwekerij Stekkers"
 url = "https://kwekerijstekkers.nl"
@@ -194,6 +231,69 @@ oak_notes = ""
 sales_method = "Webshop; biologisch/ecologisch geteeld"
 contact = "info@kwekerijstekkers.nl"
 notes = "Permacultuur-georiënteerd; levering naar BE te bevestigen bij bestelling."
+
+# ---------------------------------------------------------------------------
+# INTERNATIONALE KWEKERIJEN — SPECIALISTEN (PADDENSTOELEN & ELITE)
+# ---------------------------------------------------------------------------
+
+[[vendor]]
+id = "robin_pepinieres"
+name = "Robin Pépinières"
+url = "https://www.robinpepinieres.com"
+country = "FR"
+language = "fr"
+ships_to_be = true
+has_fruit_trees = true
+has_nut_trees = true
+nut_tree_notes = "Marktleider in pre-geïnoculeerde paddenstoelenbomen (PLANTS CHAMPIGNON®)."
+notes = "Dé bron voor kastanjes met eekhoorntjesbrood (Boletus edulis)."
+
+[[vendor]]
+id = "hifas_da_terra"
+name = "Hifas da Terra"
+url = "https://hifasforesta.com"
+country = "ES"
+language = "es"
+ships_to_be = true
+has_fruit_trees = false
+has_nut_trees = true
+nut_tree_notes = "Gemycorrhizeerde hybride kastanjes resistent tegen inktziekte."
+notes = "Specialist in biotechnologie en bosbouw paddenstoelen."
+
+[[vendor]]
+id = "micofora"
+name = "Micofora"
+url = "https://micofora.com"
+country = "ES"
+language = "es"
+ships_to_be = true
+has_fruit_trees = false
+has_nut_trees = false
+notes = "Leverancier van hoogwaardig mycelium en gels voor zelf-inoculatie van eekhoorntjesbrood."
+
+[[vendor]]
+id = "zahradnictvo_limbach"
+name = "Záhradníctvo Limbach"
+url = "https://www.zahradnictvolimbach.sk"
+country = "SK"
+language = "sk"
+ships_to_be = true
+has_fruit_trees = true
+has_nut_trees = true
+nut_tree_notes = "Specialist in zeldzame noten; biedt Castanea mollissima zaailingen aan uit diverse Chinese regio's (Shanxi, Liaoning)."
+notes = "Uitstekende bron voor resistente en kwalitatieve Chinese kastanjes in de EU."
+
+[[vendor]]
+id = "vitaflora"
+name = "Vitaflora"
+url = "https://vitaflora.hu"
+country = "HU"
+language = "hu"
+ships_to_be = true
+has_fruit_trees = true
+has_nut_trees = true
+nut_tree_notes = "Biedt specifieke rassen aan zoals de Chinese kastanje 'Qing'."
+notes = "Een van de weinige EU-bronnen voor specifieke Amerikaanse/Chinese cultivars."
 
 # ---------------------------------------------------------------------------
 # OORSPRONKELIJKE VERMELDINGEN — NIET GEVERIFIEERD / ONBEREIKBAAR

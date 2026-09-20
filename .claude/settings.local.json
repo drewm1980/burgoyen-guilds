@@ -42,7 +42,12 @@
       "WebFetch(domain:kwekerijstekkers.nl)",
       "WebFetch(domain:www.marechal.be)",
       "Bash(grep -v \"^$\")",
-      "Bash(grep -v \"^[[:space:]]*$\")"
+      "Bash(grep -v \"^[[:space:]]*$\")",
+      "Bash(pandoc --version)",
+      "Bash(pip list *)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "Bash(pip install *)",
+      "WebFetch(domain:www.mediawiki.org)"
     ]
   }
 }

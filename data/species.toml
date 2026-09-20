@@ -59,6 +59,29 @@ root_type = "taproot"
 notes = "Excellent mast crop; prefers slightly acid soil"
 
 [[species]]
+id = "castanea_mollissima"
+latin_name = "Castanea mollissima"
+common_name_nl = "Chinese kastanje"
+common_name_en = "Chinese chestnut"
+family = "Fagaceae"
+food_forest_layer = "canopy"
+mature_height_m_min = 12.0
+mature_height_m_max = 20.0
+mature_spread_m_min = 10.0
+mature_spread_m_max = 15.0
+growth_rate = "medium"
+hardiness_zone_min = 4
+light = "full_sun"
+soil_moisture = "medium"
+soil_ph_min = 5.5
+soil_ph_max = 6.5
+nitrogen_fixer = false
+edible_parts = ["nut"]
+wildlife_value = ["bird_food", "squirrel", "insect"]
+root_type = "taproot"
+notes = "More blight-resistant than C. sativa; sweeter nuts; very sensitive to poor drainage"
+
+[[species]]
 id = "quercus_robur"
 latin_name = "Quercus robur"
 common_name_nl = "Zomereik"

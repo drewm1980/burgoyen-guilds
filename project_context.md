@@ -227,9 +227,27 @@ Build a Python-based pipeline to:
 - Title block (schaal, datum, etc.) sits at x ≈ 2288–2384, y ≈ 43–484 (bottom-right corner).
 - Surrounding cadastral parcel areas visible as labels (e.g. 6039 m², 1195 m²) — these are neighbouring plots, not site dimensions.
 
-### Phases
-1. **Phase 1** — Georeference & calibrate: establish PDF-point → meter transform using scale bar or known dimension.
-2. **Phase 2** — Trace footprints: click-trace building outlines as `shapely` polygons in a Jupyter notebook.
-3. **Phase 3** — Extrude to 3D: buildings become `trimesh` meshes using TAW heights above grade.
-4. **Phase 4** — Solar simulation: `pvlib` sun angles + ray casting per garden grid cell.
-5. **Phase 5** — Food forest layer: add parametric trees (position, mature height, canopy radius) and re-run.
+---
+
+## Chestnut Tree Strategy
+
+For the food forest zones (NW/NE), **Chinese Chestnut (*Castanea mollissima*)** is the preferred species due to its high resistance to chestnut blight and superior nut sweetness/peelability compared to the native *C. sativa*.
+
+### Key Design Parameters
+- **Longevity Strategy**: Use **Elite Seedlings** (from high-quality parents) to avoid "Delayed Graft Failure," ensuring trees can live for centuries.
+- **Symbiosis**: Inoculate with **King Bolete (*Boletus edulis*)** for a "double harvest" of nuts and gourmet mushrooms.
+- **Spacing**: Plant at **5–6m** initially for early yields; thin to **10–12m** mature spacing when crowns begin to touch (Year 12–18).
+- **Pruning**: Maintain at **6–10m height** using an **Open Center (Vase)** system to ensure light penetration.
+
+### Top Active Sources
+Detailed research is available in `docs/chestnut_research.md`.
+
+| Source | Type | Link |
+|--------|------|------|
+| **Eetbaargoed** | Elite Seedlings (Grimo/Hebei) | [eetbaargoed.nl](https://eetbaargoed.nl) |
+| **De Bomelaar** | Local Seedlings (Wetteren) | [debomelaar.be](https://debomelaar.be) |
+| **Arborealis** | Food Forest Seedlings | [arborealis.nl](https://arborealis.nl) |
+| **Robin Pépinières**| Pre-Inoculated (Mushroom) Trees | [robinpepinieres.com](https://www.robinpepinieres.com) |
+| **Hifas da Terra** | Pre-Inoculated (Mushroom) Trees | [hifasforesta.com](https://hifasforesta.com) |
+
+---
