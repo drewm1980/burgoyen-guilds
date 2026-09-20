@@ -405,7 +405,7 @@ nitrogen_fixer = false
 edible_parts = ["fruit"]
 wildlife_value = ["pollinator", "bird_food"]
 root_type = "fibrous"
-notes = "Beautiful spring blossom; tasty fruit; tolerates part shade well"
+notes = "Beautiful spring blossom; tasty fruit; tolerates part shade well; Amelanchier is widely listed as juglone-tolerant (mostly black-walnut lists, other species; not tested for A. lamarckii or heartnut)"
 
 # ---------------------------------------------------------------------------
 # SHRUB
