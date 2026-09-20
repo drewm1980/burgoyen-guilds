@@ -51,3 +51,35 @@ The Commons search API rate-limited after about eight quick calls; wait a minute
 | `community_orchard.jpg` | Young trees in a community orchard on a village recreation ground (Fisherton, UK) | https://commons.wikimedia.org/wiki/File:Fisherton_Community_Orchard_2.jpg | CC BY-SA 4.0. Credit: Richard Avery |
 
 Notes: all downloaded through Special:FilePath at 800 px width, three (plum, juneberry, comfrey, hedgerow) recompressed to 700 px; each viewed before keeping. Not found: a whole Amelanchier lamarckii shrub in bloom or fruit with habit visible (the Commons category has such photos, e.g. "Amelanchier lamarckii struik.jpg" CC BY-SA 3.0 and "20170410Amelanchier lamarckii1.jpg" CC0; only the Noordwijk berry photo was kept); a Belgian nursery photo; a Belgian community-orchard photo. Also seen but not kept: "Castanea mollissima in China.jpg" (two chestnuts, close-up, usable for the chestnut-nut comparison), and a comfrey close-up and a wild strawberry macro ("Fragaria vesca fruit - Keila.jpg", CC BY-SA 4.0, Ivar Leidus) as alternates for the understory slide.
+
+## Buartnut photos (fork pass)
+
+| File | What it shows | Source | Licence / credit | Is it Mitchell? |
+| :--- | :--- | :--- | :--- | :--- |
+| `buartnut_tree.jpg` | Mature spreading buartnut tree in a park, multi-stemmed, with a young tree beside it | https://nutcrackernursery.com/products/mitchell-buartnut-juglans-cinerea-x-juglans-ailantifolia-buartnut (`20130131160437_buartnut_petit.jpg`, Nutcracker Nursery, France) | Vendor advertising photo; use permitted per the project owner; credit Nutcracker Nursery | The vendor page shows it as its "Mitchell" buartnut; not independently verified |
+| `buartnut_fruit_cluster.jpg` | Cluster of green husked fruit on the branch | https://grimonut.com/shared/media/categories/10/70/image.jpg (Grimo Nut Nursery, category header for "Buartnut (heartnut x butternut)") | Vendor advertising photo; credit Grimo Nut Nursery | A buartnut, cultivar not stated. **Low resolution (about 270 px wide)**: use small |
+| `buartnut_shells_pile.jpg` | Pile of ridged, pointed shells | https://grimonut.com/shared/media/categories/10/14/image.jpg (Grimo Nut Nursery) | As above | A buartnut, cultivar not stated. **Low resolution (about 290 px wide)** |
+| `buartnut_kernel.jpg` | Scan of a heartnut x butternut hybrid nut, shell split open with the kernel visible inside (landscape, 572 x 438) | https://commons.wikimedia.org/wiki/File:Juglans_cinerea_hybrid_Juglans_ailantifolia_var._cordiformis_1_Nekrasov.jpg (Nekrasov.ig) | CC BY-SA 3.0; credit Nekrasov.ig, Wikimedia Commons. Has a small Cyrillic signature on the scan | A butternut x heartnut hybrid; cultivar not stated. Kernel still inside the shell, not cracked-out halves |
+| `buartnut_kernel_2.jpg` | Same kind of scan, another nut, portrait (432 x 624) | https://commons.wikimedia.org/wiki/File:Juglans_cinerea_hybrid_Juglans_ailantifolia_var._cordiformis_Nekrasov.jpg (Nekrasov.ig) | CC BY-SA 3.0; credit Nekrasov.ig | As above |
+| `buartnut_nuts.jpg` (existing) | Four husked buartnut shells with a ruler | Nutcracker Nursery (see earlier row) | As earlier | Generic buartnut, not labelled Mitchell |
+
+**Not found:** a photo of cracked-out 'Mitchell' kernel halves, and a whole-nut photo of Mitchell specifically. Commons has three photos of a young hybrid tree in a garden (`Juglans ailantifolia x cinerea 01-03.JPG`) but they show only leaves, a branch and bark, so none were kept. Grimo's own 'Mitchell' product photos (`/shared/media/products/12/12/image.jpg`, `/products/10/10/image.jpg`) show only grafted or seedling plants. De Nootsaeck's five 'Mitchell' photos are all of young potted trees. Sheffield's Seed Co. photos are labelled butternut (*J. cinerea*), not buartnut, so not used.
+
+## Whole pawpaw and Judas tree photos (added later)
+
+| File | What it shows | Source | Licence / note |
+| :--- | :--- | :--- | :--- |
+| `pawpaw_tree.jpg` | Whole multi-stemmed pawpaw tree in full leaf, showing habit | https://commons.wikimedia.org/wiki/File:Asimina_triloba_(pawpaw_tree)_1_(39451806582).jpg (James St. John) | CC BY 2.0. Credit required. A European alternative, a young pawpaw in a park at the Wroclaw botanical garden, is https://commons.wikimedia.org/wiki/File:Asimina_triloba_OB_Wroc%C5%82aw.jpg (Crusier, CC BY 4.0), not downloaded. |
+| `judas_tree_whole_bodnant.jpg` | Whole Judas tree in full flower with deep purple-magenta blossom, in a garden; sold as *Cercis siliquastrum* 'Bodnant' | https://www.vdberk.nl/media/22130/cercis-siliquastrum-bodnant.jpg (Van den Berk Boomkwekerijen, product page https://www.vdberk.nl/bomen/cercis-siliquastrum-bodnant/) | Vendor advertising photo; use permitted per the project owner, credit Van den Berk. Colour matches the 'Bodnant' description (deep purple-pink). |
+| `judas_tree_whole_alt.jpg` | Whole Judas tree in flower, lighter pink-magenta, against blue sky and a brick wall (typical form, not confirmed 'Bodnant') | https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum_Judas_tree_at_Myddelton_House,_Enfield,_London,_England.jpg (Acabashi) | CC BY-SA 4.0. Credit required. For colour comparison only. |
+
+Not used: Frank P. Matthews 'Bodnant' photos (https://www.frankpmatthews.com/catalogue/ornamental-trees/cercis/cercis-sil-bodnant/) show only a close-up of deep magenta flowers and leaves, no whole tree. Wikimedia Commons has no photo labelled 'Bodnant'.
+
+## Grimo 'Mitchell' buartnut photos (from the owner's link)
+
+| File | What it shows | Source | Licence / note |
+| :--- | :--- | :--- | :--- |
+| `buartnut_mitchell_nuts_kernel.jpg` | Ridged buartnut shells, one split open showing the pale kernel inside: the missing "inner nut" photo | https://grimonut.com/shared/media/products/12/12/image.jpg (product page for "'Mitchell' Buartnut Hybrid Graft": https://www.grimonut.com/index.php?p=Products&category=buartnut-heartnut-x-butternut) | Vendor advertising photo; use permitted per the project owner; credit Grimo Nut Nursery. Shown on the page for 'Mitchell'; not otherwise captioned. |
+| `buartnut_mitchell_tree.jpg` | Whole mature buartnut tree in a Grimo field in summer | https://grimonut.com/shared/media/products/10/10/image.jpg (page: "Heartnut x Butternut Seedling 'Mitchell'") | Vendor advertising photo; credit Grimo Nut Nursery. Shown on the page for the 'Mitchell' seedlings (the page says 'Mitchell' is the parent of these seedlings). |
+
+Correction: earlier notes said Grimo's 'Mitchell' page shows only a grafted tree and no nuts. The category page https://www.grimonut.com/index.php?p=Products&category=buartnut-heartnut-x-butternut in fact has a nut photo (product 12) and a whole-tree photo (product 10). Prefer these over `buartnut_kernel*.jpg` (unknown-cultivar Commons scans) and over the unlabelled `buartnut_nuts.jpg`.
