@@ -24,3 +24,10 @@ The Commons search API rate-limited after about eight quick calls; wait a minute
 | File | What it shows | Source | Licence / note |
 | :--- | :--- | :--- | :--- |
 | `heartnut_simcoe.jpg`, `heartnut_imshu.jpg`, `heartnut_bernice.jpg`, `heartnut_rose.jpg` | Heartnut shells, cracked halves and whole heart-shaped kernels of cultivars 'Simcoe', 'Imshu', 'Bernice' (Grimo 146), 'Rose' (Grimo 75) | https://www.grimonut.com/index.php?p=Products&category=heartnut (Grimo Nut Nursery, Ontario) | Vendor advertising photos; use permitted per the project owner, credit Grimo Nut Nursery. These cultivars illustrate the type; the varieties sold in NL/BE are 'Anneke', 'Shubert' (an older form of 'Imshu'), 'Campbell CW4', 'Grimo Manchurican'. `heartnut_rose.jpg` is unused. |
+
+## Whole heartnut tree and buartnut nuts (added later)
+
+| File | What it shows | Source | Licence / note |
+| :--- | :--- | :--- | :--- |
+| `heartnut_tree.jpg` | Whole heartnut tree in summer, in a park | https://commons.wikimedia.org/wiki/File:Juglans_ailantifolia_var._cordiformis_2020-09-20_01.jpg (Wroclaw University Botanical Garden) | CC BY-SA 4.0 (per the Commons page as reported earlier; check the file page). Credit required. |
+| `buartnut_nuts.jpg` | Four buartnuts with a ruler: ridged, pointed shells | https://nutcrackernursery.com/products/mitchell-buartnut-juglans-cinerea-x-juglans-ailantifolia-buartnut (Nutcracker Nursery, France) | Vendor advertising photo (`noixnoyerhybride`), not labelled 'Mitchell'. Use permitted per the project owner; credit the nursery. Grimo's 'Mitchell' page (https://grimonut.com/index.php?category=buartnut-heartnut-x-butternut&p=Products) shows only a grafted tree, no nuts. |

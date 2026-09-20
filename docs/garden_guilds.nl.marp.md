@@ -84,7 +84,8 @@ Elke boom krijgt enkele bijbehorende planten.
 
 <small>Kopen: [Eetbaargoed 'Anneke'](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)</small>
 
-![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
+![bg right:38% vertical fit](img/heartnut_tree.jpg)
+![bg fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
 
 <!-- Grootte: ongeveer 3–4 m na 5 jaar, 6–8 m na 10 jaar, 15–20 m volgroeid (schattingen). Exacte plek per geval te bepalen. Bewijs: we vonden geen studie die aantoont dat schaduw of juglon van walnoot duizendknoop onderdrukt; wilg vermindert hem wel, maar verdrijft hem niet. Dit is dus een hoop, geen belofte. Hardheid van de schaal: bronnen verschillen; sommigen noemen de schaal hard, kwekers zeggen dat de kern heel uitvalt als je op de rand kraakt. -->
 
@@ -113,7 +114,9 @@ Elke boom krijgt enkele bijbehorende planten.
 
 <small>Kopen 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
 
-<!-- Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Onze bestaande Europese walnoot bestuift een hartnoot misschien wel of niet: onbevestigd. 'Broadview' is dezelfde soort als onze walnoot. Buartnoot = grijze walnoot x hartnoot, weerstaat de kanker die zuivere grijze walnoot treft. Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. -->
+![bg right:38% fit](img/buartnut_nuts.jpg)
+
+<!-- Foto: buartnoten (Nutcracker Nursery, Frankrijk; niet als 'Mitchell' gelabeld). Grimo zegt dat 'Mitchell' met een grijze walnoot (zaailing of geënt) bestoven moet worden, terwijl De Nootsaeck hem zelfbestuivend noemt: onopgelost. Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Onze bestaande Europese walnoot bestuift een hartnoot misschien wel of niet: onbevestigd. 'Broadview' is dezelfde soort als onze walnoot. Buartnoot = grijze walnoot x hartnoot, weerstaat de kanker die zuivere grijze walnoot treft. Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. -->
 
 ---
 
@@ -273,4 +276,4 @@ Elke boom krijgt enkele bijbehorende planten.
 
 # Fotocredits
 
-<small>Chinese kastanje, Fallopia japonica, kroosje, hartnoot, eekhoorntjesbrood en Judasboombloemen: Wikimedia Commons (diverse auteurs, CC BY-SA / publiek domein; zie docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Kastanjenoten: Chestnut Improvement Network; Canopy Nursery. Europese kastanje: H. Zell, CC BY-SA. Kersen: Fruitbomen.net; Baumschule Eggert. Hartnootfoto's: Grimo Nut Nursery. Judasboom in Nancy: schermafbeelding uit een Franse video.</small>
+<small>Chinese kastanje, Fallopia japonica, kroosje, hartnoot, eekhoorntjesbrood en Judasboombloemen: Wikimedia Commons (diverse auteurs, CC BY-SA / publiek domein; zie docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Kastanjenoten: Chestnut Improvement Network; Canopy Nursery. Europese kastanje: H. Zell, CC BY-SA. Kersen: Fruitbomen.net; Baumschule Eggert. Hartnootfoto's: Grimo Nut Nursery; hele boom: Wikimedia Commons (botanische tuin Wroclaw, CC BY-SA 4.0); buartnoten: Nutcracker Nursery. Judasboom in Nancy: schermafbeelding uit een Franse video.</small>

@@ -83,7 +83,8 @@ Each tree gets a few companion plants.
 
 <small>Buy: [Eetbaargoed 'Anneke'](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)</small>
 
-![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
+![bg right:38% vertical fit](img/heartnut_tree.jpg)
+![bg fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
 
 <!-- Size: about 3-4 m at 5 years, 6-8 m at 10 years, 15-20 m mature (estimates). Exact spot decided case by case. Evidence: we found no study showing that walnut shade or juglone suppresses knotweed; willow has been shown to reduce it but not eliminate it. So this is a hope, not a promise. Shell hardness: sources differ; some call heartnut shells hard, nurseries say the kernel drops out whole when cracked on the edge. -->
 
@@ -112,7 +113,9 @@ Each tree gets a few companion plants.
 
 <small>Buy 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
 
-<!-- Heartnut flowers on one tree open at different times (dichogamy). Our existing European walnut may or may not pollinate a heartnut: unconfirmed. 'Broadview' is the same species as our walnut. Buartnut = butternut x heartnut, resists the canker that hits pure butternut. Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. -->
+![bg right:38% fit](img/buartnut_nuts.jpg)
+
+<!-- Photo: buartnut nuts (Nutcracker Nursery, France; not labelled 'Mitchell'). Grimo says 'Mitchell' should be paired with a butternut seedling or grafted butternut for pollination, while De Nootsaeck calls it self-pollinating: unresolved. Heartnut flowers on one tree open at different times (dichogamy). Our existing European walnut may or may not pollinate a heartnut: unconfirmed. 'Broadview' is the same species as our walnut. Buartnut = butternut x heartnut, resists the canker that hits pure butternut. Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. -->
 
 ---
 
@@ -272,4 +275,4 @@ Each tree gets a few companion plants.
 
 # Photo credits
 
-<small>Chinese chestnut, Fallopia japonica, damson, heartnut, porcini and Judas tree flowers: Wikimedia Commons (various authors, CC BY-SA / public domain; see docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Chestnut nuts: Chestnut Improvement Network; Canopy Nursery. European chestnut: H. Zell, CC BY-SA. Cherries: Fruitbomen.net; Baumschule Eggert. Heartnut photos: Grimo Nut Nursery. Judas tree in Nancy: screenshot from a French video.</small>
+<small>Chinese chestnut, Fallopia japonica, damson, heartnut, porcini and Judas tree flowers: Wikimedia Commons (various authors, CC BY-SA / public domain; see docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Chestnut nuts: Chestnut Improvement Network; Canopy Nursery. European chestnut: H. Zell, CC BY-SA. Cherries: Fruitbomen.net; Baumschule Eggert. Heartnut photos: Grimo Nut Nursery; whole tree: Wikimedia Commons (Wroclaw botanical garden, CC BY-SA 4.0); buartnut nuts: Nutcracker Nursery. Judas tree in Nancy: screenshot from a French video.</small>
