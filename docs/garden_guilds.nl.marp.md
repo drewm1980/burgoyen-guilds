@@ -33,13 +33,16 @@ style: |
   section::after { font-size: 20px; color: #9a8558; right: 40px; bottom: 26px; }
 ---
 
-# Drie beplantingsvoorstellen
-### Naast de fietsenstalling · de noordtuin · een pruimenbosje
+# Drie gilden voor Cohousing Bourgoyen
+### Hartnoot · Kastanje · Pruim
+
+![h:255](img/heartnut_rose.jpg) ![h:255](img/mollissima_qing_nuts.jpg) ![h:255](img/plum_bleue_de_belgique.jpg)
+
+*Hartnootkernen · Chinese kastanjes ('Qing') · pruimen ('Bleue de Belgique')*
 
 [English version](index.html)
 
-![bg right:40% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
-
+<!-- Foto's: hartnootkernen, Grimo Nut Nursery; Chinese kastanje 'Qing'-noten, Chestnut Improvement Network; pruimen 'Bleue de Belgique', Fruitbomen.net. Een gilde is een boom met begeleidende planten die elk een taak hebben. -->
 ---
 
 # De voorstellen

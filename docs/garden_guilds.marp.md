@@ -32,13 +32,16 @@ style: |
   section::after { font-size: 20px; color: #9a8558; right: 40px; bottom: 26px; }
 ---
 
-# Three planting proposals
-### Next to the bike shed · the north garden · a plum patch
+# Three Guilds for the Cohousing Bourgoyen
+### Heartnut · Chestnut · Plum
+
+![h:255](img/heartnut_rose.jpg) ![h:255](img/mollissima_qing_nuts.jpg) ![h:255](img/plum_bleue_de_belgique.jpg)
+
+*Heartnut kernels · Chinese chestnuts ('Qing') · plums ('Bleue de Belgique')*
 
 [Nederlandse versie](index.nl.html)
 
-![bg right:40% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
-
+<!-- Photos: heartnut kernels, Grimo Nut Nursery; Chinese chestnut 'Qing' nuts, Chestnut Improvement Network; plums 'Bleue de Belgique', Fruitbomen.net. A guild is a tree plus companion plants that each do a job. -->
 ---
 
 # The guild proposals
