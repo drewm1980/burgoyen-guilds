@@ -44,11 +44,15 @@ style: |
 
 # De voorstellen
 
-1. **Hartnoot**, naast de fietsenstalling
-2. **Kastanje**, in het noorden
-3. **Gevarieerd pruimenbosje**, 5–6 kleine bomen
+1. **Hartnoot**, naast de fietsenstalling, ten noordwesten van units 1 en 2
+2. **Kastanje**, in de noordhoek
+3. **Gevarieerd pruimenbosje**, 5–6 kleine bomen, ten westen van unit 3
 
-Elke boom krijgt enkele bijbehorende planten.
+Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
+
+![h:250](img/heartnut_tree.jpg) ![h:250](img/chestnut_tree.jpg) ![h:250](img/plum_tree.jpg)
+
+*Hartnoot · Chinese kastanje · kroosje*
 
 <!-- Gilde = een boom met begeleidende planten die elk een taak hebben: stikstof binden, mulch leveren, bestuivers voeden, samenwerken met schimmels. De kersen (twee bomen) komen na de gilden. -->
 
@@ -59,6 +63,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Geen van deze staat op de lijst van invasieve soorten. Duizendknoop wel.
 - Kastanje, walnoot, kerspruim en kroosjes hebben hier een lange geschiedenis.
 - De meeste begeleidende planten zijn inheems.
+
+![bg right:38% fit](img/hedgerow_flanders.jpg)
 
 <!-- Wilde Europese kastanje is erg ziektegevoelig; daarom bestaan er weerbare selecties. Klimaatverandering is een reden om nieuwe soorten en rassen te halen die soorten vervangen die achteruitgaan. Chinese kastanje en hartnoot komen uit een ander deel van Eurazië, hetzelfde continent. Details: onderzoeksdocument (Engels), sectie 0. -->
 
@@ -91,16 +97,19 @@ Elke boom krijgt enkele bijbehorende planten.
 
 ---
 
-# Hoe een hartnoot eruitziet
+# De hartnoot van dichtbij
 
-- Hartvormige noten; de kern komt heel uit de schaal.
+- Hartvormig; de kern komt heel uit de schaal.
 - Verkopers beschrijven een milde, zoete smaak.
+- Op de rand gekraakt in een hefboomkraker (rechts).
 
-![h:250](img/heartnut_simcoe.jpg) ![h:250](img/heartnut_imshu.jpg) ![h:250](img/heartnut_bernice.jpg)
+![h:140](img/heartnut_simcoe.jpg) ![h:140](img/heartnut_imshu.jpg) ![h:140](img/heartnut_bernice.jpg)
 
-*Simcoe, Imshu, Bernice. Foto's: Grimo Nut Nursery*
+*Simcoe, Imshu, Bernice en de Black Cat-kraker. Foto's: Grimo Nut Nursery*
 
-<!-- Deze cultivars komen van een Canadese kwekerij (Grimo) en tonen het type; in NL/BE verkopen ze Anneke, Shubert (een oudere vorm van Imshu), Campbell CW4 en Grimo Manchurican. Verkopers zeggen dat de kern heel uitvalt als je op de rand kraakt; Imshu vraagt zorg. Rijpt eind september, noten vallen en gaan na drogen makkelijk open (Eetbaargoed). -->
+![bg right:36% fit](img/black_cat_cracker.jpg)
+
+<!-- Black Cat: stalen kraker met dubbele hefboom op een houten plank van Grimo (Canada), CAD 125. In overweging; Grimo noemt hem voor zwarte walnoot, grijze walnoot en hickory en verkoopt hem in een bundel met hartnoten, maar claimt niets over het kraken van hartnoten, en levering naar België is onbevestigd. Hartnoten splijten langs de naad als je op de rand drukt. Deze cultivars komen van een Canadese kwekerij (Grimo) en tonen het type; in NL/BE verkopen ze Anneke, Shubert (een oudere vorm van Imshu), Campbell CW4 en Grimo Manchurican. Verkopers zeggen dat de kern heel uitvalt als je op de rand kraakt; Imshu vraagt zorg. Rijpt eind september, noten vallen en gaan na drogen makkelijk open (Eetbaargoed). -->
 
 ---
 
@@ -127,6 +136,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Eetbare besjes, lentebloesem.
 - Verdraagt schaduw en walnoot.
 - Rand van de wadi: waarschijnlijk goed.
+
+![bg right:38% fit](img/juneberry.jpg)
 
 <!-- Krenteboompjes staan op veel lijsten als juglon-tolerant (niet getest bij hartnoot). Zelfvruchtbaar, één boom volstaat. Staat op de RHS-lijst voor natte grond; verdraagt korte overstromingen, verkiest vochtige maar goed doorlatende grond. -->
 
@@ -169,6 +180,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Smeerwortel, braam, klaver, bosaardbei.
 - Goumi bindt stikstof.
 - Houd tomaten en azalea's uit de buurt van de walnoot.
+
+![bg right:38% fit](img/understory_comfrey.jpg)
 
 <!-- Deze concurreren op grondniveau met de duizendknoop. Juglon-gevoelige planten blijven buiten de druiplijn van de hartnoot. -->
 
@@ -254,6 +267,8 @@ Elke boom krijgt enkele bijbehorende planten.
 
 # Waar kopen
 
+![bg right:38% fit](img/nursery.jpg)
+
 - **Hartnoot:** [Eetbaargoed](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)
 - **Walnoot 'Broadview':** [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)
 - **Judasboom:** [Bomen & Enzo](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)
@@ -266,6 +281,8 @@ Elke boom krijgt enkele bijbehorende planten.
 
 # Ter beslissing
 
+![bg right:38% fit](img/community_orchard.jpg)
+
 - Locaties voor de drie voorstellen.
 - De timing van de duizendknoopbestrijding bepaalt wanneer de hartnoot erin gaat.
 - Alle drie samen, of welke eerst?
@@ -274,6 +291,13 @@ Elke boom krijgt enkele bijbehorende planten.
 
 <!-- _class: credits -->
 
+<style scoped>small { font-size: 19px; line-height: 1.35; }</style>
+
 # Fotocredits
 
-<small>Chinese kastanje, Fallopia japonica, kroosje, hartnoot, eekhoorntjesbrood en Judasboombloemen: Wikimedia Commons (diverse auteurs, CC BY-SA / publiek domein; zie docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Kastanjenoten: Chestnut Improvement Network; Canopy Nursery. Europese kastanje: H. Zell, CC BY-SA. Kersen: Fruitbomen.net; Baumschule Eggert. Hartnootfoto's: Grimo Nut Nursery; hele boom: Wikimedia Commons (botanische tuin Wroclaw, CC BY-SA 4.0); buartnoten: Nutcracker Nursery. Judasboom in Nancy: schermafbeelding uit een Franse video.</small>
+![bg right:28% fit](img/heartnut_tree.jpg)
+
+<small>
+Wikimedia Commons: Chinese kastanje (bloeiende tak), Japanse duizendknoop, kroosje, hartnootvruchten, eekhoorntjesbrood, Judasboombloemen (diverse auteurs, CC BY-SA of publiek domein). Hartnootboom: botanische tuin Wroclaw (CC BY-SA 4.0). Chinese kastanjeboom: Richard Webb, Bugwood.org (CC BY 3.0 US). Kroosjesboom: Aniket Mone (CC BY 2.0). Krentenboompje: Rudolphous (CC BY-SA 4.0). Smeerwortel: Agnieszka Kwiecień (CC BY 2.5). Kersenboomgaard: Geert Budenaerts (CC BY 3.0). Kwekerij: Cultureel Gelderland (CC0). Gemeenschapsboomgaard: Richard Avery (CC BY-SA 4.0). Pawpaw: Scott Bauer, USDA ARS. Europese kastanje: H. Zell (CC BY-SA).<br>
+Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Volledige lijst: docs/research_notes/image_sources.md.
+</small>

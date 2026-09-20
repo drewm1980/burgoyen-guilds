@@ -41,13 +41,17 @@ style: |
 
 ---
 
-# The proposals
+# The guild proposals
 
-1. **Heartnut**, next to the bike shed
-2. **Chestnut**, in the north
-3. **Diverse plum patch**, 5–6 small trees
+1. **Heartnut**, next to the bike shed, northwest of Units 1,2
+2. **Chestnut**, in the north corner
+3. **Diverse plum patch**, 5–6 small trees, west of Unit 3
 
-Each tree gets a few companion plants.
+Each tree gets a few companion plants, possibly including smaller trees.
+
+![h:250](img/heartnut_tree.jpg) ![h:250](img/chestnut_tree.jpg) ![h:250](img/plum_tree.jpg)
+
+*Heartnut · Chinese chestnut · damson plum*
 
 <!-- Guild = a tree plus companions that each do a job: fix nitrogen, make mulch, feed pollinators, partner with fungi. Cherries (two trees) come after the guilds. -->
 
@@ -58,6 +62,8 @@ Each tree gets a few companion plants.
 - None of these are on the invasive list. Knotweed is.
 - Chestnut, walnut, cherry plum and kroosjes have long histories here.
 - Most companion plants are native.
+
+![bg right:38% fit](img/hedgerow_flanders.jpg)
 
 <!-- Wild-type European chestnut is very disease-prone, which is why resilient selections exist. Climate change is a reason to bring in new species and varieties to replace ones now declining. Chinese chestnut and heartnut come from elsewhere in Eurasia, the same continent. Details: research doc section 0. -->
 
@@ -90,16 +96,19 @@ Each tree gets a few companion plants.
 
 ---
 
-# What a heartnut looks like
+# Heartnuts up close
 
-- Heart-shaped nuts; the kernel comes out whole.
+- Heart-shaped; the kernel comes out whole.
 - Vendors describe a mild, sweet flavour.
+- Cracked on the edge in a bench lever cracker (right).
 
-![h:250](img/heartnut_simcoe.jpg) ![h:250](img/heartnut_imshu.jpg) ![h:250](img/heartnut_bernice.jpg)
+![h:140](img/heartnut_simcoe.jpg) ![h:140](img/heartnut_imshu.jpg) ![h:140](img/heartnut_bernice.jpg)
 
-*Simcoe, Imshu, Bernice. Photos: Grimo Nut Nursery*
+*Simcoe, Imshu, Bernice, and the Black Cat cracker. Photos: Grimo Nut Nursery*
 
-<!-- These cultivars are from a Canadian nursery (Grimo) and illustrate the type; the varieties sold in NL/BE are Anneke, Shubert (an older form of Imshu), Campbell CW4 and Grimo Manchurican. Vendors say kernels drop out whole when cracked on the edge; Imshu needs care. Ripens late September, nuts fall and open easily after drying (Eetbaargoed). -->
+![bg right:36% fit](img/black_cat_cracker.jpg)
+
+<!-- Black Cat: dual-lever steel cracker on a wooden base from Grimo (Canada), CAD 125. Under consideration; Grimo lists it for black walnuts, butternuts and hickories and sells it in a bundle with heartnuts, but gives no heartnut cracking claim, and shipping to Belgium is unconfirmed. Heartnuts split along the seam when pressed on the edge. These cultivars are from a Canadian nursery (Grimo) and illustrate the type; the varieties sold in NL/BE are Anneke, Shubert (an older form of Imshu), Campbell CW4 and Grimo Manchurican. Vendors say kernels drop out whole when cracked on the edge; Imshu needs care. Ripens late September, nuts fall and open easily after drying (Eetbaargoed). -->
 
 ---
 
@@ -126,6 +135,8 @@ Each tree gets a few companion plants.
 - Edible berries, spring blossom.
 - Tolerates shade and walnut.
 - Wadi edge: probably fine.
+
+![bg right:38% fit](img/juneberry.jpg)
 
 <!-- Serviceberries are widely listed as juglone-tolerant (not tested on heartnut). Self-fertile, one tree is enough. On the RHS wet-soil list; copes with short floods, prefers moist but drained ground. -->
 
@@ -168,6 +179,8 @@ Each tree gets a few companion plants.
 - Comfrey, bramble, clover, wild strawberry.
 - Goumi fixes nitrogen.
 - Keep tomatoes and azaleas away from the walnut.
+
+![bg right:38% fit](img/understory_comfrey.jpg)
 
 <!-- These do the ground-level competing with knotweed. Juglone-sensitive plants stay outside the heartnut's drip line. -->
 
@@ -253,6 +266,8 @@ Each tree gets a few companion plants.
 
 # Where to buy
 
+![bg right:38% fit](img/nursery.jpg)
+
 - **Heartnut:** [Eetbaargoed](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)
 - **'Broadview' walnut:** [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)
 - **Judas tree:** [Bomen & Enzo](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)
@@ -265,6 +280,8 @@ Each tree gets a few companion plants.
 
 # For decision
 
+![bg right:38% fit](img/community_orchard.jpg)
+
 - Locations for the three proposals.
 - The knotweed timing decides when the heartnut goes in.
 - All three together, or which first?
@@ -273,6 +290,13 @@ Each tree gets a few companion plants.
 
 <!-- _class: credits -->
 
+<style scoped>small { font-size: 19px; line-height: 1.35; }</style>
+
 # Photo credits
 
-<small>Chinese chestnut, Fallopia japonica, damson, heartnut, porcini and Judas tree flowers: Wikimedia Commons (various authors, CC BY-SA / public domain; see docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Chestnut nuts: Chestnut Improvement Network; Canopy Nursery. European chestnut: H. Zell, CC BY-SA. Cherries: Fruitbomen.net; Baumschule Eggert. Heartnut photos: Grimo Nut Nursery; whole tree: Wikimedia Commons (Wroclaw botanical garden, CC BY-SA 4.0); buartnut nuts: Nutcracker Nursery. Judas tree in Nancy: screenshot from a French video.</small>
+![bg right:28% fit](img/heartnut_tree.jpg)
+
+<small>
+Wikimedia Commons: Chinese chestnut (flowering branch), Japanese knotweed, damson, heartnut fruit, porcini, Judas tree flowers (various authors, CC BY-SA or public domain). Heartnut tree: Wroclaw Botanical Garden (CC BY-SA 4.0). Chinese chestnut tree: Richard Webb, Bugwood.org (CC BY 3.0 US). Damson tree: Aniket Mone (CC BY 2.0). Juneberry: Rudolphous (CC BY-SA 4.0). Comfrey: Agnieszka Kwiecień (CC BY 2.5). Cherry orchard: Geert Budenaerts (CC BY 3.0). Nursery: Cultureel Gelderland (CC0). Community orchard: Richard Avery (CC BY-SA 4.0). Pawpaw: Scott Bauer, USDA ARS. European chestnut: H. Zell (CC BY-SA).<br>
+Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Full list: docs/research_notes/image_sources.md.
+</small>
