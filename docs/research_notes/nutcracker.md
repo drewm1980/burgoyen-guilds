@@ -26,7 +26,23 @@ Requirements from the project owner: EU sellers only (so the US, Canadian and Uk
 - **What "lifetime" needs:** the pages say nothing about stainless grade, wear parts or long-term durability. Ask the seller for the grade, how the lever pivot is made (bushing or pin, material) and whether wear parts are sold. Tompress selling a lever separately is a good sign.
 - **Evidence is thin:** all performance claims are the sellers' own; no independent tests, and no EU model mentions heartnuts. Test a few nuts on their edge first. PITEBA's shipping cost to Belgium shows only at checkout.
 
-## Heartnut-specific notes
+## Heartnuts: cone crackers or edge pressure?
+
+Question: do heartnuts work in a cone-and-bowl cracker (like the NUT Technology 3 in 1), or do they need to be cracked by pressure on the edge/seam?
+
+**What the sources say**
+- The shell is two halves joined by a seam around the rim of the "heart". Pressure on the edge or sides separates the halves like a locket and the kernel dumps out whole: "Heartnut has the best shell structure for easy cracking. Given a good selection, pressure on the sides of the heart will release the shell into two halves. The kernel will dump free" and "Plier pressure on the edge separates the shell halves and the kernel dumps" (Society of Ontario Nut Growers: http://www.songonline.ca/songnews/nutgrowing.html). Another SONG-affiliated page says heartnuts break in two with a light hammer strike on the nut held on edge, and that Imshu will crack out whole meats that drop freely if cracked carefully (https://quench.me/magazine/nut-growing-in-ontario/ and Grimo cultivar notes https://www.grimonut.com/index.php?p=Products&category=heartnut).
+- Nothing I found describes cracking heartnuts end-to-end (tip to base). The advice is consistently edge or side pressure across the seam.
+- Grimo's own cracker page names only one lever cracker for heartnuts (the dual-lever Black Cat, sold in a bundle with heartnuts) and gives no orientation advice; its cone machines (large, commercial) are not described as heartnut crackers. A search summary claimed that Grimo's smaller "Duke" cracker can also crack heartnuts, but I could not confirm that on the product pages.
+- NUT Technology's pages for the 3 in 1 only say that turning the handle cracks the shell in a conical bowl while the kernel stays whole; they say nothing about how a nut is oriented, its suture, or heartnuts (https://nuttechnology.com/product/nutcracker-whole-kernel-3-in-1-for-hazelnuts-almonds-walnuts/). The cones also stop at 5.5 cm.
+
+**My inference (untested)**
+- A cone-and-bowl cracker squeezes the nut from whatever orientation it sits in, and rolls it as the cone turns, so it probably will not reliably put pressure across a heartnut's seam. It may crush or fragment heartnuts, or crack some whole and some in pieces.
+- A lever cracker with an adjustable stop, where you place each nut on its edge with the seam between the jaws, matches the documented technique better. That favors a lever design (or hand pliers/hammer as the reference method) for heartnuts, and a cone cracker for walnuts and hazelnuts.
+
+**How to find out:** email NUT Technology (sale@nuttechnology.com) and ask whether they have tested heartnuts and whether they offer a trial or return; or buy a few pounds of heartnuts (Grimo sells them) and test. Any purchase should be conditional on a test with real heartnuts.
+
+## Heartnut-specific notes (earlier)
 
 - I found no dedicated heartnut cracker. General advice: place the nut on its edge with the seam toward the jaws, and use the minimum force needed, so the kernel comes out whole (see https://nuttechnology.com/production/equipment/home-equipment-nutcrackers/ and https://practicalselfreliance.com/cracking-black-walnuts/).
 - Grimo Nut Nursery cultivar notes say kernels drop out whole "when cracked on the edges" (https://www.grimonut.com/index.php?p=Products&category=heartnut).
