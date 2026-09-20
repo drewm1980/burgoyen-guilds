@@ -28,7 +28,7 @@ Ripening spread from late July to September, mix of small kroosjes and drying kw
 3. **Bleue de Belgique**: mid to late August; good pollen for the others; disease-resistant.
 4. **Kroosje, blauw**: small, freestone, end of August, self-fertile.
 5. **Altesse Double**: end of August to September; the dried/baked plum; late bloom.
-6. **A *P. cerasifera* fruiting selection**: only if a named cultivar and source turn up; otherwise substitute Mirabelle de Nancy (small, sweet) or Sainte Cathérine (late, drying).
+6. **A *P. cerasifera* fruiting selection**: only if a named cultivar and source turn up; otherwise substitute Sainte Cathérine (late, drying). Mirabelle de Nancy was ruled out by the owner, who has seen it fail locally. Local cherry-plum note: a tree in Runa's family, thought to be a kerspruim, gave buckets of fruit that were not tasty; a propagated plant exists and cuttings could be taken in a few years (taste risk for the cerasifera slot).
 
 Sourness: most sources describe these as sweet, sweet-tart or mild, not sharply sour. The earlier survey note that kroosjes are astringent and tart raw was not confirmed here.
 

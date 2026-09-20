@@ -273,17 +273,17 @@ Each tree gets a few companion plants, possibly including smaller trees.
 | :--: | :--: | :--: |
 | ![h:190](img/plum_kroosje_blue_engraving.jpg) | ![h:190](img/plum_altesse_double.jpg) | ![h:190](img/plum_cerasifera_red.jpg) |
 
-<!-- Ripening, late July to September. Sint-Hubertus: earliest (late July/early August), needs a partner; Bleue de Belgique is a listed partner. Red kroosje: mid-August, small, sweet-tart, clingstone, self-fertile. Bleue de Belgique: mid to late August, sweet and mild, disease-resistant, good pollen for others. Blue kroosje: end of August, small, freestone, self-fertile. Altesse Double: end of August to September, firm flesh for drying and baking, late bloom, self-fertile. Cherry plum: small yellow, red or purple fruit; no named cultivar or Belgian source found yet. Photo notes: 'Cirette' stands in for the red kroosje (a red cherry-plum type); the blue kroosje picture is an old engraving, not a photo; the Altesse Double and Bleue de Belgique photos are nursery pictures and only indicative; the cherry plum photo shows the species, not a named selection. Sources: docs/research_notes/plums.md. -->
+<!-- Ripening, late July to September. Sint-Hubertus: earliest (late July/early August), needs a partner; Bleue de Belgique is a listed partner. Red kroosje: mid-August, small, sweet-tart, clingstone, self-fertile. Bleue de Belgique: mid to late August, sweet and mild, disease-resistant, good pollen for others. Blue kroosje: end of August, small, freestone, self-fertile. Altesse Double: end of August to September, firm flesh for drying and baking, late bloom, self-fertile. Cherry plum: small yellow, red or purple fruit; no named cultivar or Belgian source found yet. A tree in Runa's family (thought to be a kerspruim) gave buckets of fruit that were not tasty; a plant propagated from it exists and cuttings could be taken in a few years, so judge the taste before committing. Photo notes: 'Cirette' stands in for the red kroosje (a red cherry-plum type); the blue kroosje picture is an old engraving, not a photo; the Altesse Double and Bleue de Belgique photos are nursery pictures and only indicative; the cherry plum photo shows the species, not a named selection. Sources: docs/research_notes/plums.md. -->
 
 ---
 
 # Partners and fallbacks
 
-| Yellow kroosje | Belle de Louvain | Mirabelle de Nancy |
-| :--: | :--: | :--: |
-| ![h:190](img/plum_kroosje_yellow.jpg) | ![h:190](img/plum_belle_de_louvain.jpg) | ![h:190](img/plum_mirabelle_de_nancy.jpg) |
+| Yellow kroosje | Belle de Louvain |
+| :--: | :--: |
+| ![h:250](img/plum_kroosje_yellow.jpg) | ![h:250](img/plum_belle_de_louvain.jpg) |
 
-<!-- Yellow kroosje: small, round, yellow, clingstone, many thorns; also used as rootstock; sold as 'Gele Kroos' by De Bomenshop; the photo shows a yellow cherry plum type. Belle de Louvain: very large, red-blue, firm, second half of August; too big for a small-fruit brief but a useful pollen partner (partners: Opal, Reine Claude d'Althan, Victoria); susceptible to plum moth. Mirabelle de Nancy: small, round, yellow, mid-August, notably sweet, self-fertile, easy stone release; a fallback if no cherry-plum selection is found. Sainte Cathérine (late, drying, October) is the other fallback; no photo yet. -->
+<!-- Yellow kroosje: small, round, yellow, clingstone, many thorns; also used as rootstock; sold as 'Gele Kroos' by De Bomenshop; the photo shows a yellow cherry plum type. Belle de Louvain: very large, red-blue, firm, second half of August; too big for a small-fruit brief but a useful pollen partner (partners: Opal, Reine Claude d'Althan, Victoria); susceptible to plum moth. Mirabelle de Nancy was dropped: the owner has seen it fail locally. Sainte Cathérine (late, drying, October) remains a possible fallback; no photo yet. -->
 
 ---
 
@@ -318,5 +318,5 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 <small>
 Wikimedia Commons: Chinese chestnut (flowering branch), Japanese knotweed, damson, heartnut fruit, porcini, Judas tree flowers (various authors, CC BY-SA or public domain). Heartnut tree: Wroclaw Botanical Garden (CC BY-SA 4.0). Damson tree: Aniket Mone (CC BY 2.0). Juneberry: Rudolphous (CC BY-SA 4.0). Comfrey: Agnieszka Kwiecień (CC BY 2.5). Cherry orchard: Geert Budenaerts (CC BY 3.0). Pawpaw: Scott Bauer, USDA ARS. European chestnut: H. Zell (CC BY-SA).<br>
-Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Buartnut 'Mitchell' tree and nut: Grimo Nut Nursery. Pawpaw tree: James St. John (CC BY 2.0). Judas tree 'Bodnant': Van den Berk. Chestnut canopy: Melissa McMasters (CC BY, iNaturalist). Plums: National Fruit Collection (OGL v2.0) and plates via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Stanislas Perrin (CC BY-SA 3.0); Régine Fabri (CC BY-SA 4.0). Full list: docs/research_notes/image_sources.md.
+Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Buartnut 'Mitchell' tree and nut: Grimo Nut Nursery. Pawpaw tree: James St. John (CC BY 2.0). Judas tree 'Bodnant': Van den Berk. Chestnut canopy: Melissa McMasters (CC BY, iNaturalist). Plums: National Fruit Collection (OGL v2.0) and plates via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Régine Fabri (CC BY-SA 4.0). Full list: docs/research_notes/image_sources.md.
 </small>

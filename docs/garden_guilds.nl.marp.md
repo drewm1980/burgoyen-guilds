@@ -274,17 +274,17 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 | :--: | :--: | :--: |
 | ![h:190](img/plum_kroosje_blue_engraving.jpg) | ![h:190](img/plum_altesse_double.jpg) | ![h:190](img/plum_cerasifera_red.jpg) |
 
-<!-- Rijping van eind juli tot september. Sint-Hubertus: vroegst (eind juli/begin augustus), heeft een partner nodig; Bleue de Belgique staat als partner in de lijst. Rode kroosje: half augustus, klein, zoetzuur, vaste pit, zelfvruchtbaar. Bleue de Belgique: half tot eind augustus, zoet en mild, ziektebestendig, goede pollen voor anderen. Blauwe kroosje: eind augustus, klein, losse pit, zelfvruchtbaar. Altesse Double: eind augustus tot september, stevig vlees voor drogen en bakken, late bloei, zelfvruchtbaar. Kerspruim: kleine gele, rode of paarse vruchten; nog geen benoemd ras of Belgische bron gevonden. Fotoopmerkingen: 'Cirette' staat voor de rode kroosje (een rood kerspruimtype); de blauwe kroosje is een oude prent, geen foto; de foto's van Altesse Double en Bleue de Belgique zijn kwekersfoto's en slechts indicatief; de kerspruimfoto toont de soort, geen benoemde selectie. Bronnen: docs/research_notes/plums.md. -->
+<!-- Rijping van eind juli tot september. Sint-Hubertus: vroegst (eind juli/begin augustus), heeft een partner nodig; Bleue de Belgique staat als partner in de lijst. Rode kroosje: half augustus, klein, zoetzuur, vaste pit, zelfvruchtbaar. Bleue de Belgique: half tot eind augustus, zoet en mild, ziektebestendig, goede pollen voor anderen. Blauwe kroosje: eind augustus, klein, losse pit, zelfvruchtbaar. Altesse Double: eind augustus tot september, stevig vlees voor drogen en bakken, late bloei, zelfvruchtbaar. Kerspruim: kleine gele, rode of paarse vruchten; nog geen benoemd ras of Belgische bron gevonden. Een boom in Runa's familie (vermoedelijk een kerspruim) gaf emmers vol vruchten die niet lekker waren; er bestaat een plant die ervan gekweekt is en over een paar jaar kunnen stekken genomen worden, dus beoordeel de smaak voor je je vastlegt. Fotoopmerkingen: 'Cirette' staat voor de rode kroosje (een rood kerspruimtype); de blauwe kroosje is een oude prent, geen foto; de foto's van Altesse Double en Bleue de Belgique zijn kwekersfoto's en slechts indicatief; de kerspruimfoto toont de soort, geen benoemde selectie. Bronnen: docs/research_notes/plums.md. -->
 
 ---
 
 # Partners en alternatieven
 
-| Gele kroosje | Belle de Louvain | Mirabelle de Nancy |
-| :--: | :--: | :--: |
-| ![h:190](img/plum_kroosje_yellow.jpg) | ![h:190](img/plum_belle_de_louvain.jpg) | ![h:190](img/plum_mirabelle_de_nancy.jpg) |
+| Gele kroosje | Belle de Louvain |
+| :--: | :--: |
+| ![h:250](img/plum_kroosje_yellow.jpg) | ![h:250](img/plum_belle_de_louvain.jpg) |
 
-<!-- Gele kroosje: klein, rond, geel, vaste pit, veel doorns; ook onderstam; verkocht als 'Gele Kroos' door De Bomenshop; de foto toont een geel kerspruimtype. Belle de Louvain: zeer groot, roodblauw, stevig, tweede helft augustus; te groot voor kleine vruchten maar nuttige bestuiver (partners: Opal, Reine Claude d'Althan, Victoria); gevoelig voor pruimenmot. Mirabelle de Nancy: klein, rond, geel, half augustus, opvallend zoet, zelfvruchtbaar, steen laat makkelijk los; alternatief als er geen kerspruimselectie is. Sainte Cathérine (laat, drogen, oktober) is het andere alternatief; nog geen foto. -->
+<!-- Gele kroosje: klein, rond, geel, vaste pit, veel doorns; ook onderstam; verkocht als 'Gele Kroos' door De Bomenshop; de foto toont een geel kerspruimtype. Belle de Louvain: zeer groot, roodblauw, stevig, tweede helft augustus; te groot voor kleine vruchten maar nuttige bestuiver (partners: Opal, Reine Claude d'Althan, Victoria); gevoelig voor pruimenmot. Mirabelle de Nancy is geschrapt: de eigenaar heeft hem hier zien mislukken. Sainte Cathérine (laat, drogen, oktober) blijft een mogelijk alternatief; nog geen foto. -->
 
 ---
 
@@ -319,5 +319,5 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 <small>
 Wikimedia Commons: Chinese kastanje (bloeiende tak), Japanse duizendknoop, kroosje, hartnootvruchten, eekhoorntjesbrood, Judasboombloemen (diverse auteurs, CC BY-SA of publiek domein). Hartnootboom: botanische tuin Wroclaw (CC BY-SA 4.0). Kroosjesboom: Aniket Mone (CC BY 2.0). Krentenboompje: Rudolphous (CC BY-SA 4.0). Smeerwortel: Agnieszka Kwiecień (CC BY 2.5). Kersenboomgaard: Geert Budenaerts (CC BY 3.0). Pawpaw: Scott Bauer, USDA ARS. Europese kastanje: H. Zell (CC BY-SA).<br>
-Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Buartnoot 'Mitchell' boom en noot: Grimo Nut Nursery. Pawpawboom: James St. John (CC BY 2.0). Judasboom 'Bodnant': Van den Berk. Kastanjekruin: Melissa McMasters (CC BY, iNaturalist). Pruimen: National Fruit Collection (OGL v2.0) en prenten via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Stanislas Perrin (CC BY-SA 3.0); Régine Fabri (CC BY-SA 4.0). Volledige lijst: docs/research_notes/image_sources.md.
+Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Buartnoot 'Mitchell' boom en noot: Grimo Nut Nursery. Pawpawboom: James St. John (CC BY 2.0). Judasboom 'Bodnant': Van den Berk. Kastanjekruin: Melissa McMasters (CC BY, iNaturalist). Pruimen: National Fruit Collection (OGL v2.0) en prenten via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Régine Fabri (CC BY-SA 4.0). Volledige lijst: docs/research_notes/image_sources.md.
 </small>
