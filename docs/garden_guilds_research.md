@@ -18,7 +18,7 @@ Several members care about native planting, and that is a reasonable value to we
 Japanese knotweed (*Fallopia japonica* / *Reynoutria japonica*) is present next to the bike shed (the shed itself is staying — this guild goes in the adjacent ground, not in its place). It is a **legally regulated invasive species in Flanders** (on the regional invasive-alien-species list): disturbing its rhizomes without care can spread it further, and mechanical/soil work near it needs to be done deliberately (rhizome fragments as small as a few cm can resprout).
 
 ### Why heartnut, and what it can realistically do
-*   **Heartnut** (*Juglans ailantifolia* var. *cordiformis*) is a Japanese walnut relative that produces easy-to-crack, heart-shaped nuts and grows into a broad, dense-canopied tree (15–20m at maturity, though manageable smaller with pruning).
+*   **Heartnut** (*Juglans ailantifolia* var. *cordiformis*) is a Japanese walnut relative that produces heart-shaped nuts whose kernels come out whole when cracked on the edge (sources differ on how hard the shell is) and grows into a broad, dense-canopied tree (15–20m at maturity, though manageable smaller with pruning).
 *   Like other walnuts, it produces **juglone**, a mildly allelopathic compound (weaker than black walnut's, but present in leaf litter and root exudate) that suppresses some competing plant germination.
 *   Its **dense summer canopy** cuts light to anything growing beneath it — knotweed is light-hungry and its vigor drops sharply in shade.
 *   **Realistic expectation, stated plainly for the pitch**: juglone + shade + a competitively planted guild can suppress and hold back knotweed regrowth once it's established, but a mature knotweed stand will not be eliminated by planting alone. The guild needs to be paired with an initial mechanical/root-barrier knotweed knock-down (repeated cutting over 1–2 seasons, or a root barrier membrane) *before* underplanting — otherwise young guild plants will simply be outcompeted by resprouting knotweed. It is worth saying this plainly: "plant a tree and the knotweed goes away" would oversell what the trees can do.
@@ -135,7 +135,7 @@ Unlike a commercial chestnut orchard (vase-trained, topped at 6–10m, thinned o
 | **Nitrogen fixer** | Goumi (*Elaeagnus multiflora*), red/white clover | Feeds trees without fertilizer; Black Locust deliberately avoided (potentially invasive in Flanders) |
 | **Dynamic accumulator** | Comfrey (*Symphytum*), yarrow (*Achillea millefolium*) | Deep-rooted mineral accumulation, chop-and-drop mulch |
 | **Pollinator attractor** | Borage, phacelia, wildflower strip | Supports pollinators during the wind-pollinated flowering window |
-| **Pest deterrent** | Chives/garlic, daffodil | Discourages root-boring pests and browsing near young trunks |
+| **Pest deterrent** | Chives, garlic chives | Discourages root-boring pests and browsing near young trunks (daffodils dropped: bulbs are toxic and easily mistaken for onions by children) |
 | **Ground cover** | Wild strawberry, white clover | Weed suppression, moisture retention, low machinery-clearance zone |
 | **Fungal partner** | King Bolete (*Boletus edulis*) mycorrhizae | Ectomycorrhizal network; secondary mushroom harvest ("double harvest") |
 
@@ -198,7 +198,7 @@ The long-term aim is roughly six varieties so cross-pollination is ample. Severa
 | **Dynamic accumulator** | Comfrey, yarrow | Mulch source, mineral cycling |
 | **Pollinator/pest support** | Chives, nasturtium (aphid trap crop), tansy at the patch margin | Early-spring pollinator draw (plums flower early) and integrated pest management |
 | **Ground cover** | Wild strawberry, clover | Weed suppression around the multiple small trunks |
-| **Bulb layer** | Daffodil | Deters rodent/deer browsing on young bark, no competition (dormant when trees leaf out) |
+| **Bulb layer** | Chives, garlic chives (edible alliums) | Ground-level cover that is not competitive; no daffodils, because the bulbs are toxic and children could mistake them for onions |
 
 ### Expected size over time (small plum, own-root or on cerasifera rootstock)
 For siting each of the 5–6 trees individually as spots are chosen — not a grid:

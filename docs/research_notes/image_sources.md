@@ -18,3 +18,9 @@ All in `docs/img/`, each under 500 KB. Commons files were fetched at width 900 v
 - **Existing images over 500 KB (not touched by this pass):** `judas_tree_nancy.png` (2.0 MB), `sativa_nuts.jpg` (2.3 MB), `sativa_bur.jpg` (2.0 MB). Worth shrinking for the web page.
 
 The Commons search API rate-limited after about eight quick calls; wait a minute between batches.
+
+## Heartnut photos (added later)
+
+| File | What it shows | Source | Licence / note |
+| :--- | :--- | :--- | :--- |
+| `heartnut_simcoe.jpg`, `heartnut_imshu.jpg`, `heartnut_bernice.jpg`, `heartnut_rose.jpg` | Heartnut shells, cracked halves and whole heart-shaped kernels of cultivars 'Simcoe', 'Imshu', 'Bernice' (Grimo 146), 'Rose' (Grimo 75) | https://www.grimonut.com/index.php?p=Products&category=heartnut (Grimo Nut Nursery, Ontario) | Vendor advertising photos; use permitted per the project owner, credit Grimo Nut Nursery. These cultivars illustrate the type; the varieties sold in NL/BE are 'Anneke', 'Shubert' (an older form of 'Imshu'), 'Campbell CW4', 'Grimo Manchurican'. `heartnut_rose.jpg` is unused. |

@@ -78,12 +78,27 @@ Each tree gets a few companion plants.
 # 1. Heartnut next to the bike shed
 
 - Shade and a dense planting should help hold knotweed back.
-- Heart-shaped nuts that crack easily.
+- Heart-shaped nuts with whole kernels.
 - Helps the contractors' work, doesn't replace it.
+
+<small>Buy: [Eetbaargoed 'Anneke'](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
 
-<!-- Size: about 3-4 m at 5 years, 6-8 m at 10 years, 15-20 m mature (estimates). Exact spot decided case by case. Evidence: we found no study showing that walnut shade or juglone suppresses knotweed; willow has been shown to reduce it but not eliminate it. So this is a hope, not a promise. -->
+<!-- Size: about 3-4 m at 5 years, 6-8 m at 10 years, 15-20 m mature (estimates). Exact spot decided case by case. Evidence: we found no study showing that walnut shade or juglone suppresses knotweed; willow has been shown to reduce it but not eliminate it. So this is a hope, not a promise. Shell hardness: sources differ; some call heartnut shells hard, nurseries say the kernel drops out whole when cracked on the edge. -->
+
+---
+
+# What a heartnut looks like
+
+- Heart-shaped nuts; the kernel comes out whole.
+- Vendors describe a mild, sweet flavour.
+
+![h:250](img/heartnut_simcoe.jpg) ![h:250](img/heartnut_imshu.jpg) ![h:250](img/heartnut_bernice.jpg)
+
+*Simcoe, Imshu, Bernice. Photos: Grimo Nut Nursery*
+
+<!-- These cultivars are from a Canadian nursery (Grimo) and illustrate the type; the varieties sold in NL/BE are Anneke, Shubert (an older form of Imshu), Campbell CW4 and Grimo Manchurican. Vendors say kernels drop out whole when cracked on the edge; Imshu needs care. Ripens late September, nuts fall and open easily after drying (Eetbaargoed). -->
 
 ---
 
@@ -92,6 +107,10 @@ Each tree gets a few companion plants.
 - A lone heartnut rarely sets nuts.
 - Second heartnut or buartnut, planted close (~5–6 m).
 - Or one easy-shell walnut ('Broadview') that pairs with our existing walnut.
+
+<small>Buy buartnut: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
+
+<small>Buy 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
 
 <!-- Heartnut flowers on one tree open at different times (dichogamy). Our existing European walnut may or may not pollinate a heartnut: unconfirmed. 'Broadview' is the same species as our walnut. Buartnut = butternut x heartnut, resists the canker that hits pure butternut. Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. -->
 
@@ -117,6 +136,8 @@ Each tree gets a few companion plants.
 - Tolerates shade and walnut.
 - Needs a second pawpaw within ~10–15 m.
 
+<small>Buy: [De Nootsaeck 'Sunflower'](https://www.denootsaeck.com/nl/pawpaw-boom-asimina-triloba-sunflower.html) · [Eetbaargoed](https://www.eetbaargoed.nl/product/pawpaw-asimina-tribola-kopen/) · [Kwekerij Asimina](https://www.kwekerij-asimina.nl/)</small>
+
 ![bg right:38% fit](img/pawpaw_fruit.jpg)
 
 <!-- 'Sunflower' sets fruit alone but yields more with a partner. Flies and beetles pollinate, so hand-pollination may be needed. Ripens early Sept to mid Oct in the Netherlands; reliability in Ghent not confirmed. Grafted trees fruit in 3-4 years, seedlings 5-8. Fruits much less in deep shade. Wadi: upper edge only. German growers say a rainy, cool summer makes ripening difficult; no Belgian yield data found. Sold by De Nootsaeck ('Sunflower'), Eetbaargoed and Kwekerij Asimina. -->
@@ -130,6 +151,8 @@ Each tree gets a few companion plants.
 - Pink blossom on bare branches, for the neighbours.
 - Flowers are edible, sweet-sour.
 - Not for the wadi.
+
+<small>Buy: [Bomen & Enzo 'Bodnant'](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)</small>
 
 ![bg right:38% fit](img/judas_tree_nancy.jpg)
 
@@ -152,6 +175,8 @@ Each tree gets a few companion plants.
 - Elite seedlings, own roots, no grafts.
 - Left unpruned: a real forest tree.
 - For the grandchildren.
+
+<small>Buy: [Eetbaargoed Grimo](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-grimo-serie/) · [Eetbaargoed SemRu](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-mollisima-label-semru-unieke-genenpoel-afkomstig-uit-noordelijk-beijing/) · [De Bomelaar](https://debomelaar.be/webshop/zaailing-Chinese-kastanje-mollissima-p706207844)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
 
@@ -180,6 +205,8 @@ Each tree gets a few companion plants.
 - Chestnuts partner with porcini fungi.
 - Pre-inoculated trees exist.
 
+<small>Buy: [Robin Pépinières](https://www.robinpepinieres.com) · [Hifas da Terra](https://hifasforesta.com)</small>
+
 ![bg right:38% fit](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Boletus_edulis_var._grandedulis_27911.jpg/960px-Boletus_edulis_var._grandedulis_27911.jpg)
 
 <!-- The tree gives the fungus sugars; the fungus gives minerals and water. Managed groves in Spain and China report up to 40 kg of porcini per hectare. Root colonisation of inoculated European chestnut is documented; we found no reports of mushrooms fruiting here or on Chinese chestnut, so treat the mushroom harvest as a possible bonus. Sources are French and Spanish nurseries. -->
@@ -191,6 +218,8 @@ Each tree gets a few companion plants.
 - About six kinds, so pollination is ample.
 - Small trees: 4–6 m at full size.
 - Heritage Belgian plums, good fresh and dried.
+
+<small>Buy: [Willaert 'Bleue de Belgique'](https://www.willaert.be/nl/plant/PRUNUS+DOMESTICA+%27BLUE+DE+BELGIQUE%27/prdbbelg) · [Houtmeyers 'Altesse Double'](https://houtmeyers.be/product/altesse-double/) · [Fruitbomen.net 'Belle de Louvain'](https://fruitbomen.net/webwinkel/pruimenbomen/belle-de-louvain) · [kroosjes (De Bomenshop)](https://www.debomenshop.nl/pruimenboom/1305-prunus-insititia-gele-kroos-kroosjes-pruim.html)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_domestica_subsp_insititia.jpg)
 
@@ -209,6 +238,8 @@ Each tree gets a few companion plants.
 | Burlat + Early Rivers | Very early | Dark red |
 | Sunburst or Stella (self-fertile) | Early–mid | Dark red |
 | Dönissens Gelbe (needs a partner) | Mid-July | Yellow |
+
+<small>Buy: [Burlat](https://fruitbomen.net/webwinkel/kersenbomen/bigarreau-burlat) · [Early Rivers](https://fruitbomen.net/webwinkel/kersenbomen/early-rivers) · [Sunburst](https://fruitbomen.net/webwinkel/kersenbomen/sunburst) · [Stella](https://fruitbomen.net/webwinkel/kersenbomen/kersenboom-stella) · [Dönissens](https://fruitbomen.net/webwinkel/kersenbomen/donissens) (all Fruitbomen.net)</small>
 
 ![bg right:26% vertical fit](img/burlat_cherry_fruitbomen.jpg)
 ![bg right:26% fit](img/donissens_gelbe_eggert.jpg)
@@ -241,4 +272,4 @@ Each tree gets a few companion plants.
 
 # Photo credits
 
-<small>Chinese chestnut, Fallopia japonica, damson, heartnut, porcini and Judas tree flowers: Wikimedia Commons (various authors, CC BY-SA / public domain; see docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Chestnut nuts: Chestnut Improvement Network; Canopy Nursery. European chestnut: H. Zell, CC BY-SA. Cherries: Fruitbomen.net; Baumschule Eggert. Judas tree in Nancy: screenshot from a French video.</small>
+<small>Chinese chestnut, Fallopia japonica, damson, heartnut, porcini and Judas tree flowers: Wikimedia Commons (various authors, CC BY-SA / public domain; see docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Chestnut nuts: Chestnut Improvement Network; Canopy Nursery. European chestnut: H. Zell, CC BY-SA. Cherries: Fruitbomen.net; Baumschule Eggert. Heartnut photos: Grimo Nut Nursery. Judas tree in Nancy: screenshot from a French video.</small>

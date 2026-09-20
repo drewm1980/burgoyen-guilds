@@ -79,12 +79,27 @@ Elke boom krijgt enkele bijbehorende planten.
 # 1. Hartnoot naast de fietsenstalling
 
 - Schaduw en een dichte beplanting helpen duizendknoop terug te dringen.
-- Hartvormige noten die makkelijk kraken.
+- Hartvormige noten met hele kernen.
 - Vult het werk van de aannemers aan, vervangt het niet.
+
+<small>Kopen: [Eetbaargoed 'Anneke'](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
 
-<!-- Grootte: ongeveer 3–4 m na 5 jaar, 6–8 m na 10 jaar, 15–20 m volgroeid (schattingen). Exacte plek per geval te bepalen. Bewijs: we vonden geen studie die aantoont dat schaduw of juglon van walnoot duizendknoop onderdrukt; wilg vermindert hem wel, maar verdrijft hem niet. Dit is dus een hoop, geen belofte. -->
+<!-- Grootte: ongeveer 3–4 m na 5 jaar, 6–8 m na 10 jaar, 15–20 m volgroeid (schattingen). Exacte plek per geval te bepalen. Bewijs: we vonden geen studie die aantoont dat schaduw of juglon van walnoot duizendknoop onderdrukt; wilg vermindert hem wel, maar verdrijft hem niet. Dit is dus een hoop, geen belofte. Hardheid van de schaal: bronnen verschillen; sommigen noemen de schaal hard, kwekers zeggen dat de kern heel uitvalt als je op de rand kraakt. -->
+
+---
+
+# Hoe een hartnoot eruitziet
+
+- Hartvormige noten; de kern komt heel uit de schaal.
+- Verkopers beschrijven een milde, zoete smaak.
+
+![h:250](img/heartnut_simcoe.jpg) ![h:250](img/heartnut_imshu.jpg) ![h:250](img/heartnut_bernice.jpg)
+
+*Simcoe, Imshu, Bernice. Foto's: Grimo Nut Nursery*
+
+<!-- Deze cultivars komen van een Canadese kwekerij (Grimo) en tonen het type; in NL/BE verkopen ze Anneke, Shubert (een oudere vorm van Imshu), Campbell CW4 en Grimo Manchurican. Verkopers zeggen dat de kern heel uitvalt als je op de rand kraakt; Imshu vraagt zorg. Rijpt eind september, noten vallen en gaan na drogen makkelijk open (Eetbaargoed). -->
 
 ---
 
@@ -93,6 +108,10 @@ Elke boom krijgt enkele bijbehorende planten.
 - Eén enkele hartnoot zet zelden noten.
 - Tweede hartnoot of buartnoot, dicht erbij (~5–6 m).
 - Of één walnoot met makkelijk kraakbare noten ('Broadview') die past bij onze bestaande walnoot.
+
+<small>Kopen buartnoot: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
+
+<small>Kopen 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
 
 <!-- Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Onze bestaande Europese walnoot bestuift een hartnoot misschien wel of niet: onbevestigd. 'Broadview' is dezelfde soort als onze walnoot. Buartnoot = grijze walnoot x hartnoot, weerstaat de kanker die zuivere grijze walnoot treft. Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. -->
 
@@ -118,6 +137,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Verdraagt schaduw en walnoot.
 - Heeft een tweede pawpaw nodig binnen ~10–15 m.
 
+<small>Kopen: [De Nootsaeck 'Sunflower'](https://www.denootsaeck.com/nl/pawpaw-boom-asimina-triloba-sunflower.html) · [Eetbaargoed](https://www.eetbaargoed.nl/product/pawpaw-asimina-tribola-kopen/) · [Kwekerij Asimina](https://www.kwekerij-asimina.nl/)</small>
+
 ![bg right:38% fit](img/pawpaw_fruit.jpg)
 
 <!-- 'Sunflower' zet alleen vrucht, maar geeft meer met een partner. Vliegen en kevers bestuiven, dus handbestuiving kan nodig zijn. Rijpt begin september tot half oktober in Nederland; betrouwbaarheid in Gent niet bevestigd. Geënte bomen dragen na 3–4 jaar, zaailingen na 5–8. Draagt veel minder in diepe schaduw. Wadi: alleen bovenrand. Duitse kwekers zeggen dat een regenachtige, koele zomer rijping moeilijk maakt; geen Belgische opbrengstgegevens gevonden. Verkrijgbaar bij De Nootsaeck ('Sunflower'), Eetbaargoed en Kwekerij Asimina. -->
@@ -131,6 +152,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Roze bloesem op kale takken, voor de buren.
 - De bloemen zijn eetbaar, zoetzuur.
 - Niet voor de wadi.
+
+<small>Kopen: [Bomen & Enzo 'Bodnant'](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)</small>
 
 ![bg right:38% fit](img/judas_tree_nancy.jpg)
 
@@ -153,6 +176,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Elite-zaailingen, eigen wortels, niet geënt.
 - Ongesnoeid: een echte bosboom.
 - Voor de kleinkinderen.
+
+<small>Kopen: [Eetbaargoed Grimo](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-grimo-serie/) · [Eetbaargoed SemRu](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-mollisima-label-semru-unieke-genenpoel-afkomstig-uit-noordelijk-beijing/) · [De Bomelaar](https://debomelaar.be/webshop/zaailing-Chinese-kastanje-mollissima-p706207844)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
 
@@ -181,6 +206,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Kastanjes gaan een samenwerking aan met eekhoorntjesbrood.
 - Vooraf geïnoculeerde bomen bestaan.
 
+<small>Kopen: [Robin Pépinières](https://www.robinpepinieres.com) · [Hifas da Terra](https://hifasforesta.com)</small>
+
 ![bg right:38% fit](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Boletus_edulis_var._grandedulis_27911.jpg/960px-Boletus_edulis_var._grandedulis_27911.jpg)
 
 <!-- De boom geeft de schimmel suikers; de schimmel geeft mineralen en water. Beheerde bossen in Spanje en China melden tot 40 kg eekhoorntjesbrood per hectare. Wortelkolonisatie van geïnoculeerde Europese kastanje is gedocumenteerd; we vonden geen meldingen van paddenstoelen die hier of bij Chinese kastanje verschijnen, dus zie de paddenstoelenoogst als mogelijke bonus. Bronnen zijn Franse en Spaanse kwekerijen. -->
@@ -192,6 +219,8 @@ Elke boom krijgt enkele bijbehorende planten.
 - Ongeveer zes soorten, zodat bestuiving ruim volstaat.
 - Kleine bomen: 4–6 m volgroeid.
 - Oude Belgische pruimen, goed vers en gedroogd.
+
+<small>Kopen: [Willaert 'Bleue de Belgique'](https://www.willaert.be/nl/plant/PRUNUS+DOMESTICA+%27BLUE+DE+BELGIQUE%27/prdbbelg) · [Houtmeyers 'Altesse Double'](https://houtmeyers.be/product/altesse-double/) · [Fruitbomen.net 'Belle de Louvain'](https://fruitbomen.net/webwinkel/pruimenbomen/belle-de-louvain) · [kroosjes (De Bomenshop)](https://www.debomenshop.nl/pruimenboom/1305-prunus-insititia-gele-kroos-kroosjes-pruim.html)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_domestica_subsp_insititia.jpg)
 
@@ -210,6 +239,8 @@ Elke boom krijgt enkele bijbehorende planten.
 | Burlat + Early Rivers | Zeer vroeg | Donkerrood |
 | Sunburst of Stella (zelfvruchtbaar) | Vroeg–midden | Donkerrood |
 | Dönissens Gelbe (heeft een partner nodig) | Half juli | Geel |
+
+<small>Kopen: [Burlat](https://fruitbomen.net/webwinkel/kersenbomen/bigarreau-burlat) · [Early Rivers](https://fruitbomen.net/webwinkel/kersenbomen/early-rivers) · [Sunburst](https://fruitbomen.net/webwinkel/kersenbomen/sunburst) · [Stella](https://fruitbomen.net/webwinkel/kersenbomen/kersenboom-stella) · [Dönissens](https://fruitbomen.net/webwinkel/kersenbomen/donissens) (all Fruitbomen.net)</small>
 
 ![bg right:26% vertical fit](img/burlat_cherry_fruitbomen.jpg)
 ![bg right:26% fit](img/donissens_gelbe_eggert.jpg)
@@ -242,4 +273,4 @@ Elke boom krijgt enkele bijbehorende planten.
 
 # Fotocredits
 
-<small>Chinese kastanje, Fallopia japonica, kroosje, hartnoot, eekhoorntjesbrood en Judasboombloemen: Wikimedia Commons (diverse auteurs, CC BY-SA / publiek domein; zie docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Kastanjenoten: Chestnut Improvement Network; Canopy Nursery. Europese kastanje: H. Zell, CC BY-SA. Kersen: Fruitbomen.net; Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video.</small>
+<small>Chinese kastanje, Fallopia japonica, kroosje, hartnoot, eekhoorntjesbrood en Judasboombloemen: Wikimedia Commons (diverse auteurs, CC BY-SA / publiek domein; zie docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Kastanjenoten: Chestnut Improvement Network; Canopy Nursery. Europese kastanje: H. Zell, CC BY-SA. Kersen: Fruitbomen.net; Baumschule Eggert. Hartnootfoto's: Grimo Nut Nursery. Judasboom in Nancy: schermafbeelding uit een Franse video.</small>
