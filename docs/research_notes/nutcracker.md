@@ -16,7 +16,8 @@ Searched EU (BE/NL/DE/FR) first, then well-known specialist models. Prices as sh
 
 - **Primary pick: Tompress (#1).** It is the only one that is bench-mounted by design, sold inside the EU with delivery and a 2-year warranty, and needs no import duty. Caveat: nothing says it handles heartnuts (crack on the seam or edge) or black-walnut-tough shells; test with a few nuts and use its return option if it fails.
 - **If the shells prove too tough** (buartnut is a butternut hybrid): the Grimo **Black Cat (#3)** is built for butternuts and black walnuts, but ask about shipping and VAT first.
-- **Budget alternative:** a cast-iron table lever cracker such as this one from Fourniresto (https://www.fourniresto.com/30529-casse-noix-en-fonte-l-180-mm.html): €12.51 TTC, 0.22 kg, for walnuts, hazelnuts and almonds, shipping €13.40 excl. VAT. **Not bench-mounted or strong enough for tough shells;** it would need screwing to a board. Also sold: Drosselmeyer cast-iron double-lever crackers (~US$40–50; the Dutch stock at https://www.meesterslijpers.nl/en/drosselmeyer-notenkraker-zwart was out of stock), also hand-held.
+- **Scope (from the project owner):** bench-mounted lever crackers only. Hand-held crackers are not practical for a full harvest, and electric machines are overkill and likely to be vetoed. The hand-held models the search turned up (a Fourniresto cast-iron cracker at €12.51, Drosselmeyer double-lever crackers) are therefore not recommended.
+- **Cheaper bench option:** the Master Nutcracker (#5, US$120) is the least expensive bench-type model here, but it is aluminium on a board and shipped from the US; shipping to Belgium and durability under heavy communal use are unverified.
 
 ## Heartnut-specific notes
 
