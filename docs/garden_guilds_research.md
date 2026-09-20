@@ -75,6 +75,13 @@ For siting near the bike shed and any nearby paths/fences — not a spacing pres
 | 20 years | ~10–14m | ~8–10m |
 | Mature (30+ years) | ~15–20m | ~12–15m |
 
+**Mature size figures found (for the scale diagram), heartnut in general:**
+*   **Seller of the cultivars considered (Eetbaargoed, 'Imshu'; the 'Shubert' page uses the same text):** "groeit eerst flink de lucht in tot een hoogte van 15 tot 20 meter en vormt dan een mooie brede kroon" (grows tall to 15–20 m, then forms a broad crown). No width given. https://www.eetbaargoed.nl/product/hartnoot-juglans-ailantifolia-schubert/
+*   **Oregon State University Landscape Plants:** "to 40-65 ft (15-20 m) tall, broad, round crown". https://landscapeplants.oregonstate.edu/plants/juglans-ailantifolia
+*   **PFAF:** about 20 m x 15 m. https://pfaf.org/user/Plant.aspx?LatinName=Juglans+ailanthifolia+cordiformis
+*   **Food Forest Nursery / gardening guides (search summaries):** 30–50 ft tall (9–15 m), spread 30–65 ft (9–20 m); "low and spreading, like a live oak"; recommended spacing 50 ft (15 m) or more, with 70 ft (21 m) called ideal. Some sources quote 65–100 ft spreads for old trees, and one lists 'Campbell CW1' at 80 ft x 50 ft after 100 years. These are search-result summaries, not read on the pages themselves.
+*   **Suggested figures for the diagram:** height 15–20 m, crown diameter about 15 m typical (range 9–20 m), and the trunk at the centre. A constrained scenario (pruned or crowded, as discussed above) is my suggestion, not a sourced figure. No source gives a cultivar-specific width for 'Anneke', 'Shubert', 'Campbell CW4' or 'Grimo Manchurican'; Grimo's own PDF ("Heartnut Farming for profit 2017") could not be read by the fetch tool and may have spacing figures.
+
 ### Guild layout (heartnut + competitive/functional companions)
 | Role | Species | Function |
 | :--- | :--- | :--- |
