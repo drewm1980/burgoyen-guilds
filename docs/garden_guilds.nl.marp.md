@@ -50,7 +50,7 @@ style: |
 
 Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
-![h:250](img/heartnut_tree.jpg) ![h:250](img/chestnut_tree.jpg) ![h:250](img/plum_tree.jpg)
+![h:250](img/heartnut_tree.jpg) ![h:250](img/chestnut_tree_nice.jpg) ![h:250](img/plum_tree.jpg)
 
 *Hartnoot · Chinese kastanje · kroosje*
 
@@ -113,20 +113,36 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 ---
 
-# Hartnoot heeft een partner nodig
+# Hartnoot heeft een bestuivingspartner nodig
 
-- Eén enkele hartnoot zet zelden noten.
-- Tweede hartnoot of buartnoot, dicht erbij (~5–6 m).
-- Of één walnoot met makkelijk kraakbare noten ('Broadview') die past bij onze bestaande walnoot.
-
-<small>Kopen buartnoot: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
+- Beste: een tweede hartnoot, dicht erbij (~5–6 m).
+- Tweede keus: een buartnoot (volgende dia).
+- Derde keus: een walnoot met makkelijk kraakbare noten ('Broadview') die past bij onze bestaande walnoot.
 
 <small>Kopen 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
 
-![bg right:38% fit](img/buartnut_nuts.jpg)
+![bg right:38% fit](img/heartnut_rose.jpg)
 
-<!-- Foto: buartnoten (Nutcracker Nursery, Frankrijk; niet als 'Mitchell' gelabeld). Grimo zegt dat 'Mitchell' met een grijze walnoot (zaailing of geënt) bestoven moet worden, terwijl De Nootsaeck hem zelfbestuivend noemt: onopgelost. Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Onze bestaande Europese walnoot bestuift een hartnoot misschien wel of niet: onbevestigd. 'Broadview' is dezelfde soort als onze walnoot. Buartnoot = grijze walnoot x hartnoot, weerstaat de kanker die zuivere grijze walnoot treft. Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. -->
+<!-- Voorkeursvolgorde van de eigenaar: 1 tweede hartnoot, 2 buartnoot, 3 één 'Broadview'-walnoot. Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Onze bestaande Europese walnoot bestuift een hartnoot misschien wel of niet: onbevestigd. 'Broadview' is dezelfde soort als onze walnoot. Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. Foto: hartnootkernen, Grimo Nut Nursery. -->
 
+---
+
+# Tweede keus: buartnoot
+
+- Kruising hartnoot x grijze walnoot ('Mitchell').
+- Rijke, boterige smaak; bestand tegen kanker.
+- Vóór één walnoot, na twee hartnoten.
+
+<small>Kopen: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
+
+![bg right:38% vertical fit](img/buartnut_mitchell_tree.jpg)
+![bg fit](img/buartnut_fruit_cluster.jpg)
+
+![h:105](img/buartnut_mitchell_nuts_kernel.jpg) ![h:105](img/buartnut_nuts.jpg)
+
+*Buartnoot: boom, vrucht, schalen, noot binnenin*
+
+<!-- Beschrijvingen van verkopers: de 'Mitchell'-noot "kraakt goed, maakt goed schoon en geeft mooie stukken kern" (Nutcracker Nursery); "wat romige, boterige maar zoete" smaak (De Nootsaeck); noten vallen begin oktober. Buartnoot = grijze walnoot x hartnoot, erft kankerresistentie van de hartnootkant. BEWERINGEN OVER BESTUIVING TEGENSTRIJDIG: Grimo zegt dat de geënte 'Mitchell' met een grijze walnoot bestoven moet worden, De Nootsaeck zegt zelfvruchtbaar. Onopgelost; vraag beide en reken er niet op dat één buartnoot alleen noten zet. Hij zou een hartnoot wel moeten bestuiven (gedocumenteerde kruising). Grote bomen: de verkoper noemt 10-12 m. Foto's: de hele boom en de schaal met de kern erin komen van Grimo's 'Mitchell'-pagina's (daar niet bijgeschreven); de vruchttros (Grimo, lage resolutie, cultivar onbekend) en de vier schalen (Nutcracker Nursery, niet als 'Mitchell' gelabeld) zijn vervangers. -->
 ---
 
 # Begeleider: krentenboompje
@@ -151,9 +167,10 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 - Verdraagt schaduw en walnoot.
 - Heeft een tweede pawpaw nodig binnen ~10–15 m.
 
-<small>Kopen: [De Nootsaeck 'Sunflower'](https://www.denootsaeck.com/nl/pawpaw-boom-asimina-triloba-sunflower.html) · [Eetbaargoed](https://www.eetbaargoed.nl/product/pawpaw-asimina-tribola-kopen/) · [Kwekerij Asimina](https://www.kwekerij-asimina.nl/)</small>
+<small>Kopen: [De Nootsaeck 'Sunflower'](https://www.denootsaeck.com/nl/pawpaw-boom-asimina-triloba-sunflower.html) · [Eetbaargoed](https://www.eetbaargoed.nl/product/pawpaw-asimina-tribola-kopen/) · [Kwekerij Asimina](https://www.kwekerij-asimina.nl/) · [Bogaert (BE)](https://www.boomkwekerij-bogaert.be)</small>
 
-![bg right:38% fit](img/pawpaw_fruit.jpg)
+![bg right:38% vertical fit](img/pawpaw_tree.jpg)
+![bg fit](img/pawpaw_fruit.jpg)
 
 <!-- 'Sunflower' zet alleen vrucht, maar geeft meer met een partner. Vliegen en kevers bestuiven, dus handbestuiving kan nodig zijn. Rijpt begin september tot half oktober in Nederland; betrouwbaarheid in Gent niet bevestigd. Geënte bomen dragen na 3–4 jaar, zaailingen na 5–8. Draagt veel minder in diepe schaduw. Wadi: alleen bovenrand. Duitse kwekers zeggen dat een regenachtige, koele zomer rijping moeilijk maakt; geen Belgische opbrengstgegevens gevonden. Verkrijgbaar bij De Nootsaeck ('Sunflower'), Eetbaargoed en Kwekerij Asimina. -->
 
@@ -169,7 +186,8 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 <small>Kopen: [Bomen & Enzo 'Bodnant'](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)</small>
 
-![bg right:38% fit](img/judas_tree_nancy.jpg)
+![bg right:38% vertical fit](img/judas_tree_whole_bodnant.jpg)
+![bg fit](img/judas_tree_nancy.jpg)
 
 <!-- Cultivars: 'Bodnant' (donkerpaars), 'Alba' (wit). In salades; knoppen ingelegd als kappertjes. Peulen zouden bitter zijn. Eén anekdote: een Franse video uit Nancy waarin een man de bloemen van de boom eet en zegt dat ze lekker zijn. Smaak is verder onbewezen dan beschrijvingen. Groeit volgens meldingen onder walnoten (op geslachtsniveau, niet getest). Houdt van zon en goed gedraineerde grond; houdt niet van natte klei. Eén boom volstaat voor de bloemen. Zaailingen kunnen ~15 jaar nodig hebben om te bloeien; koop een grotere kwekerijboom. 'Bodnant' groeit langzaam, ongeveer 3 m na 10 jaar; verwacht de hoogte dus laat. -->
 
@@ -192,12 +210,14 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 - Elite-zaailingen, eigen wortels, niet geënt.
 - Ongesnoeid: een echte bosboom.
 - Voor de kleinkinderen.
+- Op lange termijn: ruimte voor een slackline tussen twee stammen.
 
-<small>Kopen: [Eetbaargoed Grimo](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-grimo-serie/) · [Eetbaargoed SemRu](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-mollisima-label-semru-unieke-genenpoel-afkomstig-uit-noordelijk-beijing/) · [De Bomelaar](https://debomelaar.be/webshop/zaailing-Chinese-kastanje-mollissima-p706207844)</small>
+<small>Kopen: [Eetbaargoed Grimo](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-grimo-serie/) · [Eetbaargoed SemRu](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-mollisima-label-semru-unieke-genenpoel-afkomstig-uit-noordelijk-beijing/) · [De Bomelaar](https://debomelaar.be/webshop/zaailing-Chinese-kastanje-mollissima-p706207844) · [Calle Steven (BE)](https://www.callesteven.be)</small>
 
-![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
+![bg right:38% vertical fit](img/chestnut_tree_nice.jpg)
+![bg fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
 
-<!-- Zaailingen vermijden enting-uitval en kunnen eeuwen leven. Grootte: ongeveer 2–3 m na 5 jaar, 5–7 m na 10 jaar, 20–30 m volgroeid. Plaatsing informeel. Minstens twee genetisch verschillende bomen nodig voor noten. De foto toont de soort Castanea mollissima; er zijn geen openbare foto's van de genoemde zaailinglijnen. -->
+<!-- Zaailingen vermijden enting-uitval en kunnen eeuwen leven. Grootte: ongeveer 2–3 m na 5 jaar, 5–7 m na 10 jaar, 20–30 m volgroeid. Plaatsing informeel. Minstens twee genetisch verschillende bomen nodig voor noten. De foto toont de soort Castanea mollissima; er zijn geen openbare foto's van de genoemde zaailinglijnen. Lange-termijnidee van de eigenaar: een slackline tussen twee kastanjebomen; daarvoor zijn stevige stammen nodig (dikte niet onderzocht) en boombescherming. -->
 
 ---
 
@@ -236,11 +256,35 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 - Kleine bomen: 4–6 m volgroeid.
 - Oude Belgische pruimen, goed vers en gedroogd.
 
-<small>Kopen: [Willaert 'Bleue de Belgique'](https://www.willaert.be/nl/plant/PRUNUS+DOMESTICA+%27BLUE+DE+BELGIQUE%27/prdbbelg) · [Houtmeyers 'Altesse Double'](https://houtmeyers.be/product/altesse-double/) · [Fruitbomen.net 'Belle de Louvain'](https://fruitbomen.net/webwinkel/pruimenbomen/belle-de-louvain) · [kroosjes (De Bomenshop)](https://www.debomenshop.nl/pruimenboom/1305-prunus-insititia-gele-kroos-kroosjes-pruim.html)</small>
+<small>Kopen: [Willaert 'Bleue de Belgique'](https://www.willaert.be/nl/plant/PRUNUS+DOMESTICA+%27BLUE+DE+BELGIQUE%27/prdbbelg) · [Houtmeyers 'Altesse Double'](https://houtmeyers.be/product/altesse-double/) · [Fruitbomen.net 'Belle de Louvain'](https://fruitbomen.net/webwinkel/pruimenbomen/belle-de-louvain) · [kroosjes (De Bomenshop)](https://www.debomenshop.nl/pruimenboom/1305-prunus-insititia-gele-kroos-kroosjes-pruim.html) · [Calle Steven (BE)](https://www.callesteven.be)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_domestica_subsp_insititia.jpg)
 
 <!-- Kroosjes en Belgische kwetsen ('Altesse Double', 'Bleue de Belgique') hebben een losse pit en drogen goed. Prunus cerasifera is sappiger, met vaste pit: vers eten en onderstam. Nieuwe rassen kunnen na verloop van tijd op worteluitlopers geënt worden, één ras per stam, zodat het een nette groep aparte bomen blijft. Kandidaat-zes (eind juli tot september, voorlopig): 'Sint-Hubertus', rode kroosje, 'Bleue de Belgique', blauwe kroosje, 'Altesse Double', één kerspruim-selectie. De meeste zijn zelfvruchtbaar; bloeidata per ras niet gecontroleerd. Mogelijke verkopers: Willaert, Houtmeyers, Ecoflora, Fruitbomen.net; vraag Calle Steven in Wetteren welke pruimen ze hebben. -->
+
+---
+
+# De pruimen die we overwegen
+
+| Sint-Hubertus | Rode kroosje | Bleue de Belgique |
+| :--: | :--: | :--: |
+| ![h:190](img/plum_sanctus_hubertus.jpg) | ![h:190](img/plum_kroosje_red_cirette.jpg) | ![h:190](img/plum_bleue_de_belgique.jpg) |
+
+| Blauwe kroosje | Altesse Double | Kerspruim (*P. cerasifera*) |
+| :--: | :--: | :--: |
+| ![h:190](img/plum_kroosje_blue_engraving.jpg) | ![h:190](img/plum_altesse_double.jpg) | ![h:190](img/plum_cerasifera_red.jpg) |
+
+<!-- Rijping van eind juli tot september. Sint-Hubertus: vroegst (eind juli/begin augustus), heeft een partner nodig; Bleue de Belgique staat als partner in de lijst. Rode kroosje: half augustus, klein, zoetzuur, vaste pit, zelfvruchtbaar. Bleue de Belgique: half tot eind augustus, zoet en mild, ziektebestendig, goede pollen voor anderen. Blauwe kroosje: eind augustus, klein, losse pit, zelfvruchtbaar. Altesse Double: eind augustus tot september, stevig vlees voor drogen en bakken, late bloei, zelfvruchtbaar. Kerspruim: kleine gele, rode of paarse vruchten; nog geen benoemd ras of Belgische bron gevonden. Fotoopmerkingen: 'Cirette' staat voor de rode kroosje (een rood kerspruimtype); de blauwe kroosje is een oude prent, geen foto; de foto's van Altesse Double en Bleue de Belgique zijn kwekersfoto's en slechts indicatief; de kerspruimfoto toont de soort, geen benoemde selectie. Bronnen: docs/research_notes/plums.md. -->
+
+---
+
+# Partners en alternatieven
+
+| Gele kroosje | Belle de Louvain | Mirabelle de Nancy |
+| :--: | :--: | :--: |
+| ![h:190](img/plum_kroosje_yellow.jpg) | ![h:190](img/plum_belle_de_louvain.jpg) | ![h:190](img/plum_mirabelle_de_nancy.jpg) |
+
+<!-- Gele kroosje: klein, rond, geel, vaste pit, veel doorns; ook onderstam; verkocht als 'Gele Kroos' door De Bomenshop; de foto toont een geel kerspruimtype. Belle de Louvain: zeer groot, roodblauw, stevig, tweede helft augustus; te groot voor kleine vruchten maar nuttige bestuiver (partners: Opal, Reine Claude d'Althan, Victoria); gevoelig voor pruimenmot. Mirabelle de Nancy: klein, rond, geel, half augustus, opvallend zoet, zelfvruchtbaar, steen laat makkelijk los; alternatief als er geen kerspruimselectie is. Sainte Cathérine (laat, drogen, oktober) is het andere alternatief; nog geen foto. -->
 
 ---
 
@@ -265,39 +309,15 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 ---
 
-# Waar kopen
-
-![bg right:38% fit](img/nursery.jpg)
-
-- **Hartnoot:** [Eetbaargoed](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)
-- **Walnoot 'Broadview':** [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)
-- **Judasboom:** [Bomen & Enzo](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)
-- **Kastanje, pruimen, pawpaw:** [Calle Steven](https://www.callesteven.be) · [Bogaert](https://www.boomkwekerij-bogaert.be) · [Eetbaargoed](https://eetbaargoed.nl)
-- **Geïnoculeerde kastanje:** [Robin Pépinières](https://www.robinpepinieres.com)
-
-<!-- Prijzen en voorraad niet gecontroleerd. Volledige leverancierslijst: onderzoeksdocument sectie 5 en data/vendors.toml. -->
-
----
-
-# Ter beslissing
-
-![bg right:38% fit](img/community_orchard.jpg)
-
-- Locaties voor de drie voorstellen.
-- De timing van de duizendknoopbestrijding bepaalt wanneer de hartnoot erin gaat.
-- Alle drie samen, of welke eerst?
-
----
-
 <!-- _class: credits -->
 
-<style scoped>small { font-size: 19px; line-height: 1.35; }</style>
+<style scoped>small { font-size: 16px; line-height: 1.3; }</style>
 
 # Fotocredits
 
 ![bg right:28% fit](img/heartnut_tree.jpg)
 
 <small>
-Wikimedia Commons: Chinese kastanje (bloeiende tak), Japanse duizendknoop, kroosje, hartnootvruchten, eekhoorntjesbrood, Judasboombloemen (diverse auteurs, CC BY-SA of publiek domein). Hartnootboom: botanische tuin Wroclaw (CC BY-SA 4.0). Chinese kastanjeboom: Richard Webb, Bugwood.org (CC BY 3.0 US). Kroosjesboom: Aniket Mone (CC BY 2.0). Krentenboompje: Rudolphous (CC BY-SA 4.0). Smeerwortel: Agnieszka Kwiecień (CC BY 2.5). Kersenboomgaard: Geert Budenaerts (CC BY 3.0). Kwekerij: Cultureel Gelderland (CC0). Gemeenschapsboomgaard: Richard Avery (CC BY-SA 4.0). Pawpaw: Scott Bauer, USDA ARS. Europese kastanje: H. Zell (CC BY-SA).<br>
-Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Volledige lijst: docs/research_notes/image_sources.md.
+Wikimedia Commons: Chinese kastanje (bloeiende tak), Japanse duizendknoop, kroosje, hartnootvruchten, eekhoorntjesbrood, Judasboombloemen (diverse auteurs, CC BY-SA of publiek domein). Hartnootboom: botanische tuin Wroclaw (CC BY-SA 4.0). Kroosjesboom: Aniket Mone (CC BY 2.0). Krentenboompje: Rudolphous (CC BY-SA 4.0). Smeerwortel: Agnieszka Kwiecień (CC BY 2.5). Kersenboomgaard: Geert Budenaerts (CC BY 3.0). Pawpaw: Scott Bauer, USDA ARS. Europese kastanje: H. Zell (CC BY-SA).<br>
+Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Buartnoot 'Mitchell' boom en noot: Grimo Nut Nursery. Pawpawboom: James St. John (CC BY 2.0). Judasboom 'Bodnant': Van den Berk. Kastanjekruin: Melissa McMasters (CC BY, iNaturalist). Pruimen: National Fruit Collection (OGL v2.0) en prenten via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Stanislas Perrin (CC BY-SA 3.0); Régine Fabri (CC BY-SA 4.0). Volledige lijst: docs/research_notes/image_sources.md.
 </small>

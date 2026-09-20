@@ -43,13 +43,13 @@ style: |
 
 # The guild proposals
 
-1. **Heartnut**, next to the bike shed, northwest of Units 1,2
-2. **Chestnut**, in the north corner
-3. **Diverse plum patch**, 5–6 small trees, west of Unit 3
+1. **Heartnut Guild**, next to the bike shed, northwest of Units 1,2
+2. **Chestnut Guild**, in the north corner
+3. **Plum Guild**, 5–6 small trees, west of Unit 3
 
 Each tree gets a few companion plants, possibly including smaller trees.
 
-![h:250](img/heartnut_tree.jpg) ![h:250](img/chestnut_tree.jpg) ![h:250](img/plum_tree.jpg)
+![h:250](img/heartnut_tree.jpg) ![h:250](img/chestnut_tree_nice.jpg) ![h:250](img/plum_tree.jpg)
 
 *Heartnut · Chinese chestnut · damson plum*
 
@@ -112,20 +112,36 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 ---
 
-# Heartnut needs a partner
+# Heartnut needs a pollination partner
 
-- A lone heartnut rarely sets nuts.
-- Second heartnut or buartnut, planted close (~5–6 m).
-- Or one easy-shell walnut ('Broadview') that pairs with our existing walnut.
+- Best: a second heartnut, planted close (~5–6 m).
+- Second choice: a buartnut (next slide).
+- Third choice: an easy-shell walnut ('Broadview') that pollinates with our existing walnut.
 
-<small>Buy buartnut: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
+<small>Buy 'Broadview' walnut: [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
 
-<small>Buy 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
+![bg right:38% fit](img/heartnut_rose.jpg)
 
-![bg right:38% fit](img/buartnut_nuts.jpg)
+<!-- Preference order from the owner: 1 second heartnut, 2 buartnut, 3 single Broadview walnut. Heartnut flowers on one tree open at different times (dichogamy). Our existing European walnut may or may not pollinate a heartnut: unconfirmed. 'Broadview' is the same species as our walnut. Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. Photo: heartnut kernels, Grimo Nut Nursery. -->
 
-<!-- Photo: buartnut nuts (Nutcracker Nursery, France; not labelled 'Mitchell'). Grimo says 'Mitchell' should be paired with a butternut seedling or grafted butternut for pollination, while De Nootsaeck calls it self-pollinating: unresolved. Heartnut flowers on one tree open at different times (dichogamy). Our existing European walnut may or may not pollinate a heartnut: unconfirmed. 'Broadview' is the same species as our walnut. Buartnut = butternut x heartnut, resists the canker that hits pure butternut. Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. -->
+---
 
+# Second choice: buartnut
+
+- Heartnut x butternut hybrid ('Mitchell').
+- Rich, buttery flavour; canker-resistant.
+- Ahead of a single walnut, behind two heartnuts.
+
+<small>Buy: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
+
+![bg right:38% vertical fit](img/buartnut_mitchell_tree.jpg)
+![bg fit](img/buartnut_fruit_cluster.jpg)
+
+![h:105](img/buartnut_mitchell_nuts_kernel.jpg) ![h:105](img/buartnut_nuts.jpg)
+
+*Buartnut: tree, fruit, shells, inner nut*
+
+<!-- Vendor descriptions: the 'Mitchell' nut "cracks well, cleans well and releases beautiful pieces of kernels" (Nutcracker Nursery); "somewhat creamy, buttery but sweet" flavour (De Nootsaeck); nuts fall in early October. Buartnut = butternut x heartnut, inherits canker resistance from the heartnut side. POLLINATION CLAIMS CONFLICT: Grimo says the grafted 'Mitchell' should be matched with a butternut for pollination, De Nootsaeck says self-fertile. Unresolved; ask both, and do not count on a single buartnut setting nuts alone. It should still pollinate a heartnut (documented cross). Trees are big: the seller quotes 10-12 m. Photos: whole tree and the shell split open with the kernel inside come from Grimo's 'Mitchell' pages (not captioned there); the fruit cluster (Grimo, low resolution, cultivar not stated) and the four shells (Nutcracker Nursery, not labelled 'Mitchell') are stand-ins. -->
 ---
 
 # Companion: juneberry
@@ -150,9 +166,10 @@ Each tree gets a few companion plants, possibly including smaller trees.
 - Tolerates shade and walnut.
 - Needs a second pawpaw within ~10–15 m.
 
-<small>Buy: [De Nootsaeck 'Sunflower'](https://www.denootsaeck.com/nl/pawpaw-boom-asimina-triloba-sunflower.html) · [Eetbaargoed](https://www.eetbaargoed.nl/product/pawpaw-asimina-tribola-kopen/) · [Kwekerij Asimina](https://www.kwekerij-asimina.nl/)</small>
+<small>Buy: [De Nootsaeck 'Sunflower'](https://www.denootsaeck.com/nl/pawpaw-boom-asimina-triloba-sunflower.html) · [Eetbaargoed](https://www.eetbaargoed.nl/product/pawpaw-asimina-tribola-kopen/) · [Kwekerij Asimina](https://www.kwekerij-asimina.nl/) · [Bogaert (BE)](https://www.boomkwekerij-bogaert.be)</small>
 
-![bg right:38% fit](img/pawpaw_fruit.jpg)
+![bg right:38% vertical fit](img/pawpaw_tree.jpg)
+![bg fit](img/pawpaw_fruit.jpg)
 
 <!-- 'Sunflower' sets fruit alone but yields more with a partner. Flies and beetles pollinate, so hand-pollination may be needed. Ripens early Sept to mid Oct in the Netherlands; reliability in Ghent not confirmed. Grafted trees fruit in 3-4 years, seedlings 5-8. Fruits much less in deep shade. Wadi: upper edge only. German growers say a rainy, cool summer makes ripening difficult; no Belgian yield data found. Sold by De Nootsaeck ('Sunflower'), Eetbaargoed and Kwekerij Asimina. -->
 
@@ -168,7 +185,8 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 <small>Buy: [Bomen & Enzo 'Bodnant'](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)</small>
 
-![bg right:38% fit](img/judas_tree_nancy.jpg)
+![bg right:38% vertical fit](img/judas_tree_whole_bodnant.jpg)
+![bg fit](img/judas_tree_nancy.jpg)
 
 <!-- Cultivars: 'Bodnant' (dark purple), 'Alba' (white). Salads; buds pickled like capers. Pods are reported bitter. One anecdote: a French video from Nancy where a man eats the flowers off the tree and says they are good. Taste is untested beyond descriptions. Reported growing under walnuts (genus-level, not tested). Likes sun and drained soil; dislikes wet clay. One tree is enough for flowers. Seed-grown trees can take ~15 years to flower; buy a larger nursery tree. 'Bodnant' grows slowly, about 3 m after 10 years, so expect the size figure late. -->
 
@@ -191,12 +209,14 @@ Each tree gets a few companion plants, possibly including smaller trees.
 - Elite seedlings, own roots, no grafts.
 - Left unpruned: a real forest tree.
 - For the grandchildren.
+- Long-term: room for a slackline between two trunks.
 
-<small>Buy: [Eetbaargoed Grimo](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-grimo-serie/) · [Eetbaargoed SemRu](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-mollisima-label-semru-unieke-genenpoel-afkomstig-uit-noordelijk-beijing/) · [De Bomelaar](https://debomelaar.be/webshop/zaailing-Chinese-kastanje-mollissima-p706207844)</small>
+<small>Buy: [Eetbaargoed Grimo](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-grimo-serie/) · [Eetbaargoed SemRu](https://www.eetbaargoed.nl/product/tamme-kastanje-castanea-mollisima-label-semru-unieke-genenpoel-afkomstig-uit-noordelijk-beijing/) · [De Bomelaar](https://debomelaar.be/webshop/zaailing-Chinese-kastanje-mollissima-p706207844) · [Calle Steven (BE)](https://www.callesteven.be)</small>
 
-![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
+![bg right:38% vertical fit](img/chestnut_tree_nice.jpg)
+![bg fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
 
-<!-- Seedlings avoid graft failure and can live for centuries. Size: about 2-3 m at 5 years, 5-7 m at 10 years, 20-30 m mature. Placement informal. Needs at least two genetically different trees for nuts. Photo is the species, Castanea mollissima; no public photos of the named seedling lines. -->
+<!-- Seedlings avoid graft failure and can live for centuries. Size: about 2-3 m at 5 years, 5-7 m at 10 years, 20-30 m mature. Placement informal. Needs at least two genetically different trees for nuts. Photo is the species, Castanea mollissima; no public photos of the named seedling lines. Long-term idea from the owner: a slackline between two chestnut trees; it needs sturdy trunks (thickness not researched) and tree protection. -->
 
 ---
 
@@ -235,11 +255,35 @@ Each tree gets a few companion plants, possibly including smaller trees.
 - Small trees: 4–6 m at full size.
 - Heritage Belgian plums, good fresh and dried.
 
-<small>Buy: [Willaert 'Bleue de Belgique'](https://www.willaert.be/nl/plant/PRUNUS+DOMESTICA+%27BLUE+DE+BELGIQUE%27/prdbbelg) · [Houtmeyers 'Altesse Double'](https://houtmeyers.be/product/altesse-double/) · [Fruitbomen.net 'Belle de Louvain'](https://fruitbomen.net/webwinkel/pruimenbomen/belle-de-louvain) · [kroosjes (De Bomenshop)](https://www.debomenshop.nl/pruimenboom/1305-prunus-insititia-gele-kroos-kroosjes-pruim.html)</small>
+<small>Buy: [Willaert 'Bleue de Belgique'](https://www.willaert.be/nl/plant/PRUNUS+DOMESTICA+%27BLUE+DE+BELGIQUE%27/prdbbelg) · [Houtmeyers 'Altesse Double'](https://houtmeyers.be/product/altesse-double/) · [Fruitbomen.net 'Belle de Louvain'](https://fruitbomen.net/webwinkel/pruimenbomen/belle-de-louvain) · [kroosjes (De Bomenshop)](https://www.debomenshop.nl/pruimenboom/1305-prunus-insititia-gele-kroos-kroosjes-pruim.html) · [Calle Steven (BE)](https://www.callesteven.be)</small>
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_domestica_subsp_insititia.jpg)
 
 <!-- Kroosjes and Belgian kwetsen ('Altesse Double', 'Bleue de Belgique') are freestone and dry well. Prunus cerasifera is juicier, clingstone: fresh eating and rootstock. New varieties can be grafted onto root suckers over time, one variety per stem, so it stays a tidy cluster of distinct trees. Candidate six (late July to September, provisional): 'Sint-Hubertus', red kroosje, 'Bleue de Belgique', blue kroosje, 'Altesse Double', one cherry-plum selection. Most are self-fertile; bloom dates not checked per variety. Possible sellers: Willaert, Houtmeyers, Ecoflora, Fruitbomen.net; ask Calle Steven in Wetteren what plums they hold. -->
+
+---
+
+# The plums we are considering
+
+| Sint-Hubertus | Red kroosje | Bleue de Belgique |
+| :--: | :--: | :--: |
+| ![h:190](img/plum_sanctus_hubertus.jpg) | ![h:190](img/plum_kroosje_red_cirette.jpg) | ![h:190](img/plum_bleue_de_belgique.jpg) |
+
+| Blue kroosje | Altesse Double | Cherry plum (*P. cerasifera*) |
+| :--: | :--: | :--: |
+| ![h:190](img/plum_kroosje_blue_engraving.jpg) | ![h:190](img/plum_altesse_double.jpg) | ![h:190](img/plum_cerasifera_red.jpg) |
+
+<!-- Ripening, late July to September. Sint-Hubertus: earliest (late July/early August), needs a partner; Bleue de Belgique is a listed partner. Red kroosje: mid-August, small, sweet-tart, clingstone, self-fertile. Bleue de Belgique: mid to late August, sweet and mild, disease-resistant, good pollen for others. Blue kroosje: end of August, small, freestone, self-fertile. Altesse Double: end of August to September, firm flesh for drying and baking, late bloom, self-fertile. Cherry plum: small yellow, red or purple fruit; no named cultivar or Belgian source found yet. Photo notes: 'Cirette' stands in for the red kroosje (a red cherry-plum type); the blue kroosje picture is an old engraving, not a photo; the Altesse Double and Bleue de Belgique photos are nursery pictures and only indicative; the cherry plum photo shows the species, not a named selection. Sources: docs/research_notes/plums.md. -->
+
+---
+
+# Partners and fallbacks
+
+| Yellow kroosje | Belle de Louvain | Mirabelle de Nancy |
+| :--: | :--: | :--: |
+| ![h:190](img/plum_kroosje_yellow.jpg) | ![h:190](img/plum_belle_de_louvain.jpg) | ![h:190](img/plum_mirabelle_de_nancy.jpg) |
+
+<!-- Yellow kroosje: small, round, yellow, clingstone, many thorns; also used as rootstock; sold as 'Gele Kroos' by De Bomenshop; the photo shows a yellow cherry plum type. Belle de Louvain: very large, red-blue, firm, second half of August; too big for a small-fruit brief but a useful pollen partner (partners: Opal, Reine Claude d'Althan, Victoria); susceptible to plum moth. Mirabelle de Nancy: small, round, yellow, mid-August, notably sweet, self-fertile, easy stone release; a fallback if no cherry-plum selection is found. Sainte Cathérine (late, drying, October) is the other fallback; no photo yet. -->
 
 ---
 
@@ -264,39 +308,15 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 ---
 
-# Where to buy
-
-![bg right:38% fit](img/nursery.jpg)
-
-- **Heartnut:** [Eetbaargoed](https://www.eetbaargoed.nl/product/japanse-hartnoot-heartnut-juglans-ailantifolia-anneke/) · [Arborealis](https://www.arborealis.nl/juglans-ailantifolia-cordiformis-c4-60-80)
-- **'Broadview' walnut:** [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)
-- **Judas tree:** [Bomen & Enzo](https://www.bomenenzo.nl/cercis-bodnant) · [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/)
-- **Chestnut, plums, pawpaw:** [Calle Steven](https://www.callesteven.be) · [Bogaert](https://www.boomkwekerij-bogaert.be) · [Eetbaargoed](https://eetbaargoed.nl)
-- **Inoculated chestnut:** [Robin Pépinières](https://www.robinpepinieres.com)
-
-<!-- Prices and stock not checked. Full vendor list and notes: research doc section 5 and data/vendors.toml. -->
-
----
-
-# For decision
-
-![bg right:38% fit](img/community_orchard.jpg)
-
-- Locations for the three proposals.
-- The knotweed timing decides when the heartnut goes in.
-- All three together, or which first?
-
----
-
 <!-- _class: credits -->
 
-<style scoped>small { font-size: 19px; line-height: 1.35; }</style>
+<style scoped>small { font-size: 16px; line-height: 1.3; }</style>
 
 # Photo credits
 
 ![bg right:28% fit](img/heartnut_tree.jpg)
 
 <small>
-Wikimedia Commons: Chinese chestnut (flowering branch), Japanese knotweed, damson, heartnut fruit, porcini, Judas tree flowers (various authors, CC BY-SA or public domain). Heartnut tree: Wroclaw Botanical Garden (CC BY-SA 4.0). Chinese chestnut tree: Richard Webb, Bugwood.org (CC BY 3.0 US). Damson tree: Aniket Mone (CC BY 2.0). Juneberry: Rudolphous (CC BY-SA 4.0). Comfrey: Agnieszka Kwiecień (CC BY 2.5). Cherry orchard: Geert Budenaerts (CC BY 3.0). Nursery: Cultureel Gelderland (CC0). Community orchard: Richard Avery (CC BY-SA 4.0). Pawpaw: Scott Bauer, USDA ARS. European chestnut: H. Zell (CC BY-SA).<br>
-Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Full list: docs/research_notes/image_sources.md.
+Wikimedia Commons: Chinese chestnut (flowering branch), Japanese knotweed, damson, heartnut fruit, porcini, Judas tree flowers (various authors, CC BY-SA or public domain). Heartnut tree: Wroclaw Botanical Garden (CC BY-SA 4.0). Damson tree: Aniket Mone (CC BY 2.0). Juneberry: Rudolphous (CC BY-SA 4.0). Comfrey: Agnieszka Kwiecień (CC BY 2.5). Cherry orchard: Geert Budenaerts (CC BY 3.0). Pawpaw: Scott Bauer, USDA ARS. European chestnut: H. Zell (CC BY-SA).<br>
+Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Buartnut 'Mitchell' tree and nut: Grimo Nut Nursery. Pawpaw tree: James St. John (CC BY 2.0). Judas tree 'Bodnant': Van den Berk. Chestnut canopy: Melissa McMasters (CC BY, iNaturalist). Plums: National Fruit Collection (OGL v2.0) and plates via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Stanislas Perrin (CC BY-SA 3.0); Régine Fabri (CC BY-SA 4.0). Full list: docs/research_notes/image_sources.md.
 </small>

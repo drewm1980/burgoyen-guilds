@@ -83,3 +83,36 @@ Not used: Frank P. Matthews 'Bodnant' photos (https://www.frankpmatthews.com/cat
 | `buartnut_mitchell_tree.jpg` | Whole mature buartnut tree in a Grimo field in summer | https://grimonut.com/shared/media/products/10/10/image.jpg (page: "Heartnut x Butternut Seedling 'Mitchell'") | Vendor advertising photo; credit Grimo Nut Nursery. Shown on the page for the 'Mitchell' seedlings (the page says 'Mitchell' is the parent of these seedlings). |
 
 Correction: earlier notes said Grimo's 'Mitchell' page shows only a grafted tree and no nuts. The category page https://www.grimonut.com/index.php?p=Products&category=buartnut-heartnut-x-butternut in fact has a nut photo (product 12) and a whole-tree photo (product 10). Prefer these over `buartnut_kernel*.jpg` (unknown-cultivar Commons scans) and over the unlabelled `buartnut_nuts.jpg`.
+
+## Better Chinese chestnut tree photos (added later)
+
+| File | What it shows | Source | Licence / note |
+| :--- | :--- | :--- | :--- |
+| `chestnut_tree_nice.jpg` | Chinese chestnut canopy laden with green burs in a state park; a fruiting canopy, not a full silhouette (no good free whole-tree photo of a mature C. mollissima was found) | https://www.inaturalist.org/observations/98236108 (Melissa McMasters, Meeman-Shelby State Park, Tennessee) | CC BY. Research-grade iNaturalist identification as Castanea mollissima, so species confidence is fairly high. Credit: (c) Melissa McMasters, CC BY. |
+| `chestnut_tree_nice_alt.jpg` | Flowering Chinese chestnut canopy with catkins, dark green glossy leaves, Hangzhou Botanical Garden | https://commons.wikimedia.org/wiki/File:Castanea_mollissima,_Hangzhou_Botanical_Garden_2018.06.03_15-38-22.jpg (Zhangzhugang) | CC BY-SA 4.0 (per the Commons page as reported earlier; check the file page). Species certain (botanical garden). Crop of the canopy, not a whole tree. |
+
+Rejected: a young tree in a meadow on forestag.com (species unverified, sparse), iNaturalist winter silhouette by a car park (obs. 68446292), Commons photos of catkins/burs/nuts, and Pixabay 'chestnut tree' photos (species unverified, likely European sweet chestnut). Chinese-language searches (板栗树, 板栗园) returned only stock-photo sites (Pixabay, 16pic, 588ku) with unclear licences; none used.
+
+
+## Plum patch photos (added for the plum gallery slide)
+
+All in `docs/img/`, 640-700 px wide, under 200 KB. "Match" says how sure I am that the photo really shows the named variety.
+
+| File | Shows | Source | Licence / credit | Match |
+| :--- | :--- | :--- | :--- | :--- |
+| `plum_cerasifera_red.jpg` | Red-fruited cherry plum (*Prunus cerasifera*) in a garden, fruit on the branches | https://commons.wikimedia.org/wiki/File:Prunus_cerasifera_-_red_fruits.jpg | CC BY-SA 4.0, Régine Fabri | Species right; no cultivar named |
+| `plum_cerasifera_green.jpg` | A bowl of unripe/greenish cherry plums | https://commons.wikimedia.org/wiki/File:Prunus_cerasifera_fruits.jpg | CC BY-SA 2.0, FotoosVanRobin | Species right; unripe fruit in a bowl, no tree |
+| `plum_kroosje_yellow.jpg` | 'Yellow Cherry Plum' specimen plate: whole fruit, stones, halved fruit, with scale | https://www.vriendenvanhetoudefruit.nl/wp-content/pruimen/kroosje%20Yellow%20Cherry%20Plum.jpeg (the Vrienden van het Oude Fruit kroosjes page) | Looks like a National Fruit Collection (Brogdale) plate; those plates are published under the Open Government Licence v2.0, but this exact file's licence is unverified. Credit "National Fruit Collection". | Yellow cherry plum type, not proven to be the Dutch 'gele kroos' |
+| `plum_kroosje_red_cirette.jpg` | 'Cirette' specimen plate (red cherry plum) | https://www.vriendenvanhetoudefruit.nl/wp-content/pruimen/cirette.jpg | As above (National Fruit Collection style; licence unverified) | A named red cherry-plum type filed under red kroosjes on that page; not a Belgian kroosje as such |
+| `plum_kroosje_blue_engraving.jpg` | Historical hand-coloured plate "Die kleine Kirsch-Pflaume": dark blue small plums on a twig | https://www.vriendenvanhetoudefruit.nl/wp-content/pruimen/kroosje%20Kleine%20Kirschpflaume2.jpg | Old engraving (public domain by age, presumably; scan source not stated) | An illustration, not a photo; blue-black cherry plum type |
+| `plum_bleue_de_belgique.jpg` | Blue plums on a branch, the vendor's product photo for 'Bleue de Belgique' | https://fruitbomen.net/web/images/x598-real-plum-8995-960-720-full.jpg (Fruitbomen.net) | Vendor advertising photo; use permitted per the project owner; credit Fruitbomen.net | Vendor's own image (file name says "real-plum"); may be a generic blue plum |
+| `plum_altesse_double.jpg` | Large blue-violet plums on a branch | https://www.verstraeten-putte.be/image/cache/catalog/Prunus%20Altesse%20double%20de%20Liege-570x741.jpg (Verstraeten, Putte) | Vendor advertising photo; use permitted per the project owner; credit Verstraeten Putte | Vendor's photo for 'Altesse Double de Liège'; the fruit looks rounder than the elongated fruit the sources describe, so treat as indicative |
+| `plum_sanctus_hubertus.jpg` | 'Sanctus Hubertus' specimen plate: fruit, stones, halved fruit | https://fruitbomen.net/web/images/367-sanctus-hubertus-full.jpg (cropped) | Fruitbomen.net says: "Foto van nationalfruitcollection.org.uk. Open Government Licence 2.0"; credit National Fruit Collection | Good |
+| `plum_belle_de_louvain.jpg` | Large red-violet oval plums on a branch | https://fruitbomen.net/web/images/x358-belle-de-louvain-full.jpg (Fruitbomen.net) | Fruitbomen.net credits nationalfruitcollection.org.uk; the picture is a tree photo, unlike the usual plates, so the credit is as stated but unverified | Plausible |
+| `plum_mirabelle_de_nancy.jpg` | Yellow mirabelles on the tree, blue sky | https://fruitbomen.net/web/images/x91-mirabelle-de-nancy-full.jpg (Fruitbomen.net) | "Mirabelles de Lorraine sur l'arbre", Stanislas Perrin, CC BY-SA 3.0 | Right type (mirabelle from Lorraine) |
+
+### Not found (plums)
+- **Altesse Double fruit close-up** in an independent photo: only nursery product photos (young plants in pots, or the Verstraeten picture above). Houtmeyers has no photo.
+- **A real photo of a blue kroosje**: only an engraving. A Commons photo of dark cherry plums in a bowl (`Kirschpflaumen (Prunus cerasifera).jpg`, taken indoors beside a glass, on a carpet) was rejected as unsuitable.
+- **Named Belgian/Dutch *P. cerasifera* fruiting selection:** none found (see plums.md), so the cerasifera photos show the species.
+- **Whole-tree photos** of these varieties: only the damson tree (`plum_tree.jpg`, used earlier) and cherry-plum branches.
