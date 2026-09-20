@@ -63,14 +63,14 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 # Inheems of niet?
 
+- Twee doelen: inheems bos herstellen, of hier voedsel telen.
+- Onze zandige plek zou van nature beuken-eikenbos zijn.
+- Voedsel van hier verlicht de druk op land elders.
 - Geen van deze staat op de lijst van invasieve soorten. Duizendknoop wel.
-- Kastanje, walnoot, kerspruim en kroosjes hebben hier een lange geschiedenis.
-- De meeste begeleidende planten zijn inheems.
 
 ![bg right:38% fit](img/hedgerow_flanders.jpg)
 
-<!-- Wilde Europese kastanje is erg ziektegevoelig; daarom bestaan er weerbare selecties. Klimaatverandering is een reden om nieuwe soorten en rassen te halen die soorten vervangen die achteruitgaan. Chinese kastanje en hartnoot komen uit een ander deel van Eurazië, hetzelfde continent. Details: onderzoeksdocument (Engels), sectie 0. -->
-
+<!-- Het argument van de eigenaar: ons voedsel wordt ergens geteeld, en de rand van een regenwoud of oud bos is voor de natuur meer waard dan onze bouwplek, dus alles wat we zelf telen en eten verlaagt de druk op land elders (een argument, hier niet gekwantificeerd). Als het doel was de toestand van vóór de beschaving te herstellen op een hoge zandige plek zoals de onze, dan wordt het een beuken-eikenbos, zoals delen van de Bourgoyen; eiken-beukenbos is de climaxvegetatie op zandgronden in Vlaanderen (INBO natuurtypologie bossen; Ecopedia, natuurtype Eiken-Beukenbos). De werkelijke bodem van de plek is niet gecontroleerd. Elke andere beplanting is een compromis tussen die toestand en cultuur. Als het doel voedsel is, telen we dat zo bekwaam mogelijk, wat inhoudt dat we beproefde, weerbare voedselplanten kiezen. Verder: kastanje, walnoot, kerspruim en kroosjes hebben hier een lange geschiedenis; de meeste begeleidende planten zijn inheems; wilde Europese kastanje is erg ziektegevoelig; klimaatverandering is een reden om nieuwe soorten en rassen te halen die soorten vervangen die achteruitgaan; Chinese kastanje en hartnoot komen uit een ander deel van Eurazië, hetzelfde continent. Details: onderzoeksdocument (Engels), sectie 0. -->
 ---
 
 # De duizendknoop

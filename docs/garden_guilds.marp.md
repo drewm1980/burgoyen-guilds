@@ -62,14 +62,14 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 # Native or not?
 
+- Two goals: restore native woodland, or grow food here.
+- Our sandy site would naturally be beech-oak forest.
+- Food grown here eases pressure on land elsewhere.
 - None of these are on the invasive list. Knotweed is.
-- Chestnut, walnut, cherry plum and kroosjes have long histories here.
-- Most companion plants are native.
 
 ![bg right:38% fit](img/hedgerow_flanders.jpg)
 
-<!-- Wild-type European chestnut is very disease-prone, which is why resilient selections exist. Climate change is a reason to bring in new species and varieties to replace ones now declining. Chinese chestnut and heartnut come from elsewhere in Eurasia, the same continent. Details: research doc section 0. -->
-
+<!-- The owner's argument: our food is grown somewhere, and the edge of a rainforest or old-growth forest is worth more to nature than our building site, so everything we grow and eat ourselves reduces pressure on land elsewhere (an argument, not quantified here). If the aim were to restore the pre-civilization state on a high sandy spot like ours, the result would be a beech-oak forest, similar to parts of the Bourgoyen; oak-beech forest is the climax vegetation on sandy soils in Flanders (INBO natuurtypologie bossen; Ecopedia, natuurtype Eiken-Beukenbos). The site's actual soil has not been verified. Any other planting is a compromise between that state and cultivation. If the goal is food, grow it as competently as we can, which includes choosing well-proven, resilient food plants. Also: chestnut, walnut, cherry plum and kroosjes have long histories here; most companion plants are native; wild-type European chestnut is very disease-prone; climate change is a reason to bring in new species and varieties to replace ones now declining; Chinese chestnut and heartnut come from elsewhere in Eurasia, the same continent. Details: research doc section 0. -->
 ---
 
 # The knotweed
