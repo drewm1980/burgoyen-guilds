@@ -115,34 +115,47 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 # Hartnoot heeft een bestuivingspartner nodig
 
-- Beste: een tweede hartnoot, dicht erbij (~5–6 m).
-- Tweede keus: een buartnoot (volgende dia).
-- Derde keus: een walnoot met makkelijk kraakbare noten ('Broadview') die past bij onze bestaande walnoot.
-
-<small>Kopen 'Broadview': [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
+- Eén enkele hartnoot zet zelden noten.
+- Beste partner: een tweede hartnoot, dicht erbij (~5–6 m).
+- Een buartnoot kan ook (volgende dia).
 
 ![bg right:38% fit](img/heartnut_rose.jpg)
 
-<!-- Voorkeursvolgorde van de eigenaar: 1 tweede hartnoot, 2 buartnoot, 3 één 'Broadview'-walnoot. Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Onze bestaande Europese walnoot bestuift een hartnoot misschien wel of niet: onbevestigd. 'Broadview' is dezelfde soort als onze walnoot. Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. Foto: hartnootkernen, Grimo Nut Nursery. -->
+<!-- Mannelijke en vrouwelijke bloemen op één hartnootboom bloeien op verschillende momenten (dichogamie). Dicht op elkaar planten of knotten houdt de voetafdruk klein; kost wat noten en geeft scheve kronen. Een walnoot is geen partner voor een hartnoot: de kruising met onze Europese walnoot is onbevestigd (zie de walnootdia). Foto: hartnootkernen, Grimo Nut Nursery. -->
 
 ---
 
-# Tweede keus: buartnoot
+# Buartnoot
 
 - Kruising hartnoot x grijze walnoot ('Mitchell').
 - Rijke, boterige smaak; bestand tegen kanker.
-- Vóór één walnoot, na twee hartnoten.
+- Kan een hartnoot bestuiven.
 
 <small>Kopen: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
 
 ![bg right:38% vertical fit](img/buartnut_mitchell_tree.jpg)
 ![bg fit](img/buartnut_fruit_cluster.jpg)
 
-![h:105](img/buartnut_mitchell_nuts_kernel.jpg) ![h:105](img/buartnut_nuts.jpg)
+![h:170](img/buartnut_mitchell_nuts_kernel.jpg) ![h:170](img/buartnut_nuts.jpg)
 
-*Buartnoot: boom, vrucht, schalen, noot binnenin*
+*Schalen, en de noot binnenin*
 
 <!-- Beschrijvingen van verkopers: de 'Mitchell'-noot "kraakt goed, maakt goed schoon en geeft mooie stukken kern" (Nutcracker Nursery); "wat romige, boterige maar zoete" smaak (De Nootsaeck); noten vallen begin oktober. Buartnoot = grijze walnoot x hartnoot, erft kankerresistentie van de hartnootkant. BEWERINGEN OVER BESTUIVING TEGENSTRIJDIG: Grimo zegt dat de geënte 'Mitchell' met een grijze walnoot bestoven moet worden, De Nootsaeck zegt zelfvruchtbaar. Onopgelost; vraag beide en reken er niet op dat één buartnoot alleen noten zet. Hij zou een hartnoot wel moeten bestuiven (gedocumenteerde kruising). Grote bomen: de verkoper noemt 10-12 m. Foto's: de hele boom en de schaal met de kern erin komen van Grimo's 'Mitchell'-pagina's (daar niet bijgeschreven); de vruchttros (Grimo, lage resolutie, cultivar onbekend) en de vier schalen (Nutcracker Nursery, niet als 'Mitchell' gelabeld) zijn vervangers. -->
+
+---
+
+# Alternatief: een walnoot in plaats van hartnoten
+
+- Eén dunschalige walnoot ('Broadview'), 8–12 m.
+- Bestuift met onze bestaande walnoot.
+- Hij vervangt de hartnoten; hij is hun partner niet.
+
+<small>Kopen: [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
+
+![bg right:38% fit](img/walnut_broadview.jpg)
+
+<!-- 'Broadview' is een compacte, gedeeltelijk zelfvruchtbare Europese walnoot die jong draagt en erg winterhard is; bronnen beschrijven dunschalige noten met zo'n 50% kernrendement. Dezelfde soort als onze bestaande walnoot, dus die twee zouden elkaar moeten bestuiven; overlap van de bloei niet gecontroleerd. Of Europees walnootstuifmeel op een hartnoot werkt is onbevestigd, dus reken er niet op als partner voor een hartnoot. Foto: Bomen & Enzo. Bronnen: RHS, Bomen & Enzo, Trees and Shrubs Online. -->
+
 ---
 
 # Begeleider: krentenboompje
@@ -319,5 +332,5 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 <small>
 Wikimedia Commons: Chinese kastanje (bloeiende tak), Japanse duizendknoop, kroosje, hartnootvruchten, eekhoorntjesbrood, Judasboombloemen (diverse auteurs, CC BY-SA of publiek domein). Hartnootboom: botanische tuin Wroclaw (CC BY-SA 4.0). Kroosjesboom: Aniket Mone (CC BY 2.0). Krentenboompje: Rudolphous (CC BY-SA 4.0). Smeerwortel: Agnieszka Kwiecień (CC BY 2.5). Kersenboomgaard: Geert Budenaerts (CC BY 3.0). Pawpaw: Scott Bauer, USDA ARS. Europese kastanje: H. Zell (CC BY-SA).<br>
-Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Buartnoot 'Mitchell' boom en noot: Grimo Nut Nursery. Pawpawboom: James St. John (CC BY 2.0). Judasboom 'Bodnant': Van den Berk. Kastanjekruin: Melissa McMasters (CC BY, iNaturalist). Pruimen: National Fruit Collection (OGL v2.0) en prenten via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Régine Fabri (CC BY-SA 4.0). Volledige lijst: docs/research_notes/image_sources.md.
+Verkopers: hartnootcultivars en Black Cat-kraker, Grimo Nut Nursery; 'Qing'-noten, Chestnut Improvement Network; kastanjebolster, Canopy Nursery; buartnoten, Nutcracker Nursery; kersen, Fruitbomen.net en Baumschule Eggert. Judasboom in Nancy: schermafbeelding uit een Franse video. Buartnoot 'Mitchell' boom en noot: Grimo Nut Nursery. Pawpawboom: James St. John (CC BY 2.0). Judasboom 'Bodnant': Van den Berk. Kastanjekruin: Melissa McMasters (CC BY, iNaturalist). Pruimen: National Fruit Collection (OGL v2.0) en prenten via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Régine Fabri (CC BY-SA 4.0). Walnoot 'Broadview': Bomen & Enzo. Volledige lijst: docs/research_notes/image_sources.md.
 </small>

@@ -114,34 +114,47 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 # Heartnut needs a pollination partner
 
-- Best: a second heartnut, planted close (~5–6 m).
-- Second choice: a buartnut (next slide).
-- Third choice: an easy-shell walnut ('Broadview') that pollinates with our existing walnut.
-
-<small>Buy 'Broadview' walnut: [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
+- A lone heartnut rarely sets nuts.
+- Best partner: a second heartnut, planted close (~5–6 m).
+- A buartnut also works (next slide).
 
 ![bg right:38% fit](img/heartnut_rose.jpg)
 
-<!-- Preference order from the owner: 1 second heartnut, 2 buartnut, 3 single Broadview walnut. Heartnut flowers on one tree open at different times (dichogamy). Our existing European walnut may or may not pollinate a heartnut: unconfirmed. 'Broadview' is the same species as our walnut. Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. Photo: heartnut kernels, Grimo Nut Nursery. -->
+<!-- Heartnut flowers on one tree open at different times (dichogamy). Crowding or pollarding the second tree keeps the footprint small; costs some nuts and gives lopsided crowns. A walnut is not a heartnut partner: the cross with our European walnut is unconfirmed (see the walnut slide). Photo: heartnut kernels, Grimo Nut Nursery. -->
 
 ---
 
-# Second choice: buartnut
+# Buartnut
 
 - Heartnut x butternut hybrid ('Mitchell').
 - Rich, buttery flavour; canker-resistant.
-- Ahead of a single walnut, behind two heartnuts.
+- Can pollinate a heartnut.
 
 <small>Buy: [De Nootsaeck 'Mitchell'](https://www.denootsaeck.com/nl/walnootboom-mitchell-buartnut.html)</small>
 
 ![bg right:38% vertical fit](img/buartnut_mitchell_tree.jpg)
 ![bg fit](img/buartnut_fruit_cluster.jpg)
 
-![h:105](img/buartnut_mitchell_nuts_kernel.jpg) ![h:105](img/buartnut_nuts.jpg)
+![h:170](img/buartnut_mitchell_nuts_kernel.jpg) ![h:170](img/buartnut_nuts.jpg)
 
-*Buartnut: tree, fruit, shells, inner nut*
+*Shells, and the nut inside*
 
 <!-- Vendor descriptions: the 'Mitchell' nut "cracks well, cleans well and releases beautiful pieces of kernels" (Nutcracker Nursery); "somewhat creamy, buttery but sweet" flavour (De Nootsaeck); nuts fall in early October. Buartnut = butternut x heartnut, inherits canker resistance from the heartnut side. POLLINATION CLAIMS CONFLICT: Grimo says the grafted 'Mitchell' should be matched with a butternut for pollination, De Nootsaeck says self-fertile. Unresolved; ask both, and do not count on a single buartnut setting nuts alone. It should still pollinate a heartnut (documented cross). Trees are big: the seller quotes 10-12 m. Photos: whole tree and the shell split open with the kernel inside come from Grimo's 'Mitchell' pages (not captioned there); the fruit cluster (Grimo, low resolution, cultivar not stated) and the four shells (Nutcracker Nursery, not labelled 'Mitchell') are stand-ins. -->
+
+---
+
+# Alternative: a walnut instead of heartnuts
+
+- One thin-shelled walnut ('Broadview'), 8–12 m.
+- Pollinates with our existing walnut.
+- It replaces the heartnuts; it is not their partner.
+
+<small>Buy: [Bomen & Enzo](https://www.bomenenzo.nl/walnotenboom-broadview) · [Boomkwekerij Joos](https://www.boomkwekerijjoos.be/nl/referenties/referenties-cat/meerstammige-bomen-cat/juglans-regia-broadview.htm)</small>
+
+![bg right:38% fit](img/walnut_broadview.jpg)
+
+<!-- 'Broadview' is a compact, partially self-fertile European walnut that crops young and is very hardy; sources describe thin-shelled nuts with about 50% kernel yield. It is the same species as our existing walnut, so the two should pollinate each other; bloom overlap not checked. Whether European walnut pollen works on a heartnut is unconfirmed, so do not count on it as a heartnut partner. Photo: Bomen & Enzo. Sources: RHS, Bomen & Enzo, Trees and Shrubs Online. -->
+
 ---
 
 # Companion: juneberry
@@ -318,5 +331,5 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 <small>
 Wikimedia Commons: Chinese chestnut (flowering branch), Japanese knotweed, damson, heartnut fruit, porcini, Judas tree flowers (various authors, CC BY-SA or public domain). Heartnut tree: Wroclaw Botanical Garden (CC BY-SA 4.0). Damson tree: Aniket Mone (CC BY 2.0). Juneberry: Rudolphous (CC BY-SA 4.0). Comfrey: Agnieszka Kwiecień (CC BY 2.5). Cherry orchard: Geert Budenaerts (CC BY 3.0). Pawpaw: Scott Bauer, USDA ARS. European chestnut: H. Zell (CC BY-SA).<br>
-Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Buartnut 'Mitchell' tree and nut: Grimo Nut Nursery. Pawpaw tree: James St. John (CC BY 2.0). Judas tree 'Bodnant': Van den Berk. Chestnut canopy: Melissa McMasters (CC BY, iNaturalist). Plums: National Fruit Collection (OGL v2.0) and plates via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Régine Fabri (CC BY-SA 4.0). Full list: docs/research_notes/image_sources.md.
+Vendors: heartnut cultivars and Black Cat cracker, Grimo Nut Nursery; 'Qing' nuts, Chestnut Improvement Network; chestnut bur, Canopy Nursery; buartnut nuts, Nutcracker Nursery; cherries, Fruitbomen.net and Baumschule Eggert. Judas tree in Nancy: screenshot from a French video. Buartnut 'Mitchell' tree and nut: Grimo Nut Nursery. Pawpaw tree: James St. John (CC BY 2.0). Judas tree 'Bodnant': Van den Berk. Chestnut canopy: Melissa McMasters (CC BY, iNaturalist). Plums: National Fruit Collection (OGL v2.0) and plates via Vrienden van het Oude Fruit; Fruitbomen.net; Verstraeten Putte; Régine Fabri (CC BY-SA 4.0). Walnut 'Broadview': Bomen & Enzo. Full list: docs/research_notes/image_sources.md.
 </small>
