@@ -4,14 +4,38 @@ theme: default
 paginate: true
 size: 16:9
 style: |
-  section { font-size: 30px; }
-  h1 { color: #2B1E0F; }
-  h3 { color: #7a5c1e; font-weight: normal; }
+  section {
+    font-size: 31px;
+    background: #FBF6EA;
+    color: #2B1E0F;
+    padding: 64px 72px 72px 72px;
+    border-left: 14px solid #B7791F;
+    line-height: 1.4;
+  }
+  h1 { color: #2B1E0F; font-size: 58px; line-height: 1.15; margin-bottom: 0.15em; }
+  h3 { color: #7a5c1e; font-weight: normal; font-size: 32px; margin-top: 0; }
   em { color: #7a5c1e; }
+  strong { color: #2B1E0F; }
+  ul, ol { margin-top: 0.4em; }
+  li { margin: 0.35em 0; }
+  li::marker { color: #B7791F; }
+  a { color: #3E6B48; text-decoration: underline; }
+  table { display: table; width: 100%; font-size: 28px; border-collapse: collapse; margin: 0.4em 0 0.6em 0; }
+  th { background: #EADCB8; color: #2B1E0F; padding: 8px 14px; border: 1px solid #E5D8B5; }
+  td { background: #FFFDF6; padding: 8px 14px; border: 1px solid #E5D8B5; }
+  p img { border-radius: 10px; margin: 2px 6px 2px 0; }
+  section a[href$="index.nl.html"], section a[href$="index.html"] {
+    display: inline-block; margin-top: 0.8em; padding: 6px 20px;
+    background: #B7791F; color: #FFFDF6; border-radius: 999px;
+    text-decoration: none; font-size: 26px;
+  }
+  section::after { font-size: 20px; color: #9a8558; right: 40px; bottom: 26px; }
 ---
 
 # Three planting proposals
 ### Next to the bike shed · the north garden · a plum patch
+
+[Nederlandse versie](index.nl.html)
 
 ![bg right:40% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Castanea_mollissima_(Chinese_Chestnut)_(27826373314).jpg)
 
@@ -53,13 +77,13 @@ Each tree gets a few companion plants.
 
 # 1. Heartnut next to the bike shed
 
-- Dense shade and mild juglone slow knotweed.
+- Shade and a dense planting should help hold knotweed back.
 - Heart-shaped nuts that crack easily.
 - Helps the contractors' work, doesn't replace it.
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Juglans_ailantifolia_var._cordiformis_2019-07-18_03.jpg)
 
-<!-- Size: about 3-4 m at 5 years, 6-8 m at 10 years, 15-20 m mature (estimates). Exact spot decided case by case. Heartnut's juglone is weaker than black walnut's. -->
+<!-- Size: about 3-4 m at 5 years, 6-8 m at 10 years, 15-20 m mature (estimates). Exact spot decided case by case. Evidence: we found no study showing that walnut shade or juglone suppresses knotweed; willow has been shown to reduce it but not eliminate it. So this is a hope, not a promise. -->
 
 ---
 
@@ -93,7 +117,9 @@ Each tree gets a few companion plants.
 - Tolerates shade and walnut.
 - Needs a second pawpaw within ~10–15 m.
 
-<!-- 'Sunflower' sets fruit alone but yields more with a partner. Flies and beetles pollinate, so hand-pollination may be needed. Ripens early Sept to mid Oct in the Netherlands; reliability in Ghent not confirmed. Grafted trees fruit in 3-4 years, seedlings 5-8. Fruits much less in deep shade. Wadi: upper edge only. -->
+![bg right:38% fit](img/pawpaw_fruit.jpg)
+
+<!-- 'Sunflower' sets fruit alone but yields more with a partner. Flies and beetles pollinate, so hand-pollination may be needed. Ripens early Sept to mid Oct in the Netherlands; reliability in Ghent not confirmed. Grafted trees fruit in 3-4 years, seedlings 5-8. Fruits much less in deep shade. Wadi: upper edge only. German growers say a rainy, cool summer makes ripening difficult; no Belgian yield data found. Sold by De Nootsaeck ('Sunflower'), Eetbaargoed and Kwekerij Asimina. -->
 
 ---
 
@@ -105,9 +131,9 @@ Each tree gets a few companion plants.
 - Flowers are edible, sweet-sour.
 - Not for the wadi.
 
-![bg right:38% fit](img/judas_tree_nancy.png)
+![bg right:38% fit](img/judas_tree_nancy.jpg)
 
-<!-- Cultivars: 'Bodnant' (dark purple), 'Alba' (white). Salads; buds pickled like capers. Pods are reported bitter. One anecdote: a French video from Nancy where a man eats the flowers off the tree and says they are good. Taste is untested beyond descriptions. Reported growing under walnuts (genus-level, not tested). Likes sun and drained soil; dislikes wet clay. One tree is enough for flowers. Seed-grown trees can take ~15 years to flower; buy a larger nursery tree. -->
+<!-- Cultivars: 'Bodnant' (dark purple), 'Alba' (white). Salads; buds pickled like capers. Pods are reported bitter. One anecdote: a French video from Nancy where a man eats the flowers off the tree and says they are good. Taste is untested beyond descriptions. Reported growing under walnuts (genus-level, not tested). Likes sun and drained soil; dislikes wet clay. One tree is enough for flowers. Seed-grown trees can take ~15 years to flower; buy a larger nursery tree. 'Bodnant' grows slowly, about 3 m after 10 years, so expect the size figure late. -->
 
 ---
 
@@ -137,7 +163,7 @@ Each tree gets a few companion plants.
 
 | | Chinese (*mollissima*) | European (*sativa*) |
 | :--- | :--- | :--- |
-| Peeling | Easy | Often harder |
+| Peeling | Usually easy | Varies |
 | Blight | Resistant | Susceptible |
 | Ink disease | More resistant | Very susceptible |
 
@@ -145,7 +171,7 @@ Each tree gets a few companion plants.
 
 *Chinese 'Qing' nuts and a bur · European nuts and bur*
 
-<!-- Chinese nuts are described as sweet and waxy. European nuts are often larger. Photo credits: 'Qing' nuts, Chestnut Improvement Network; bur, Canopy Nursery; sativa photos, H. Zell (CC BY-SA). -->
+<!-- Chinese nuts are described as sweet and waxy. Nut sizes are similar in both; many cultivars of both peel easily. Chinese chestnut resists blight and ink disease but is sensitive to waterlogging, so the north garden's drainage should be checked before planting. We found no independent reports of the Grimo, Hebei North or SemRu lines in Belgium, NL or Germany. Photo credits: 'Qing' nuts, Chestnut Improvement Network; bur, Canopy Nursery; sativa photos, H. Zell (CC BY-SA). -->
 
 ---
 
@@ -156,7 +182,7 @@ Each tree gets a few companion plants.
 
 ![bg right:38% fit](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Boletus_edulis_var._grandedulis_27911.jpg/960px-Boletus_edulis_var._grandedulis_27911.jpg)
 
-<!-- The tree gives the fungus sugars; the fungus gives minerals and water. Managed groves in Spain and China report up to 40 kg of porcini per hectare. Mushrooms typically take 5-10 years from inoculation. Sources are French and Spanish nurseries. -->
+<!-- The tree gives the fungus sugars; the fungus gives minerals and water. Managed groves in Spain and China report up to 40 kg of porcini per hectare. Root colonisation of inoculated European chestnut is documented; we found no reports of mushrooms fruiting here or on Chinese chestnut, so treat the mushroom harvest as a possible bonus. Sources are French and Spanish nurseries. -->
 
 ---
 
@@ -168,7 +194,7 @@ Each tree gets a few companion plants.
 
 ![bg right:38% fit](https://commons.wikimedia.org/wiki/Special:FilePath/Prunus_domestica_subsp_insititia.jpg)
 
-<!-- Kroosjes and Belgian kwetsen ('Altesse Double', 'Bleue de Belgique') are freestone and dry well. Prunus cerasifera is juicier, clingstone: fresh eating and rootstock. New varieties can be grafted onto root suckers over time, one variety per stem, so it stays a tidy cluster of distinct trees. Calle Steven in Wetteren stocks heritage plums. Ripening dates not yet checked. -->
+<!-- Kroosjes and Belgian kwetsen ('Altesse Double', 'Bleue de Belgique') are freestone and dry well. Prunus cerasifera is juicier, clingstone: fresh eating and rootstock. New varieties can be grafted onto root suckers over time, one variety per stem, so it stays a tidy cluster of distinct trees. Candidate six (late July to September, provisional): 'Sint-Hubertus', red kroosje, 'Bleue de Belgique', blue kroosje, 'Altesse Double', one cherry-plum selection. Most are self-fertile; bloom dates not checked per variety. Possible sellers: Willaert, Houtmeyers, Ecoflora, Fruitbomen.net; ask Calle Steven in Wetteren what plums they hold. -->
 
 ---
 
@@ -184,7 +210,10 @@ Each tree gets a few companion plants.
 | Sunburst or Stella (self-fertile) | Early–mid | Dark red |
 | Dönissens Gelbe (needs a partner) | Mid-July | Yellow |
 
-<!-- Trade-off: the earliest are dark red; the yellow one is later. Burlat splits in rain. Our existing 'bigarreau blanc et rose' may pollinate a new tree if close enough for bees (identity unconfirmed; possibly Napoleon). No early yellow cherry with a verified partner found. Details: research doc section 3.4. -->
+![bg right:26% vertical fit](img/burlat_cherry_fruitbomen.jpg)
+![bg right:26% fit](img/donissens_gelbe_eggert.jpg)
+
+<!-- Trade-off: the earliest are dark red; the yellow one is later. Burlat splits in rain. Our existing 'bigarreau blanc et rose' may pollinate a new tree if close enough for bees (identity unconfirmed; possibly Napoleon). No early yellow cherry with a verified partner found. Burlat (S3S9) and Early Rivers (S1S2) share no S-allele, so they are fully cross-compatible; Burlat with Napoleon (S3S4) is only half compatible. Bloom timing not confirmed for any pair. Burlat's canker resistance is contested. Fully yellow cherries may escape birds; blushed ones are attacked once they colour. Details: research doc section 3.4 and docs/research_notes/cherries.md. -->
 
 ---
 
@@ -205,3 +234,11 @@ Each tree gets a few companion plants.
 - Locations for the three proposals.
 - The knotweed timing decides when the heartnut goes in.
 - All three together, or which first?
+
+---
+
+<!-- _class: credits -->
+
+# Photo credits
+
+<small>Chinese chestnut, Fallopia japonica, damson, heartnut, porcini and Judas tree flowers: Wikimedia Commons (various authors, CC BY-SA / public domain; see docs/research_notes/image_sources.md). Pawpaw: Scott Bauer, USDA ARS. Chestnut nuts: Chestnut Improvement Network; Canopy Nursery. European chestnut: H. Zell, CC BY-SA. Cherries: Fruitbomen.net; Baumschule Eggert. Judas tree in Nancy: screenshot from a French video.</small>

@@ -113,7 +113,7 @@ For siting near the bike shed and any nearby paths/fences — not a spacing pres
 *   **Pawpaw**: tolerates periodic flooding better than most fruit trees per extension sources, but prefers good drainage and waterlogged roots can rot; possibly the upper edge only.
 *   **Redbud (*C. canadensis*)**: does not tolerate flooding or poorly aerated soil; keep out of the wadi.
 *   **Judas tree (*C. siliquastrum*)**: checked separately. Grows in light, medium and heavy soils and is very drought-tolerant once established, but dislikes wet soil, especially wet clay, and very compact or waterlogged soil causes root rot. Keep it out of the wadi; needs a warm, sunny, well-drained spot.
-*   **Taste of the flowers (limited evidence):** sources describe them as sweetish-acid and pleasant, raw or as fritters; buds taste best just opening; tea is mild, slightly sweet and tangy. That is mild and not peppery like nasturtium, but I found no taste tests or surveys, only descriptions, so "most people will enjoy them" is untested. Cheap check: try flowers from a public Judas tree in bloom (April–May). One data point from the user: a French video (https://www.youtube.com/watch?v=nsxPeOhVUiQ, tree in Nancy) shows a man eating the flowers straight from the tree and saying they're good; not independently verified, since I can't read the video. Screenshot saved as `docs/img/judas_tree_nancy.png`.
+*   **Taste of the flowers (limited evidence):** sources describe them as sweetish-acid and pleasant, raw or as fritters; buds taste best just opening; tea is mild, slightly sweet and tangy. That is mild and not peppery like nasturtium, but I found no taste tests or surveys, only descriptions, so "most people will enjoy them" is untested. Cheap check: try flowers from a public Judas tree in bloom (April–May). One data point from the user: a French video (https://www.youtube.com/watch?v=nsxPeOhVUiQ, tree in Nancy) shows a man eating the flowers straight from the tree and saying they're good; not independently verified, since I can't read the video. Screenshot saved as `docs/img/judas_tree_nancy.jpg`.
 *   **Where to buy *C. siliquastrum*:** [Bomen & Enzo 'Bodnant'](https://www.bomenenzo.nl/cercis-bodnant) (NL, ships to BE), [DirectPlant](https://www.directplant.nl/judasboom-cercis-siliquastrum.html) (NL/BE pickup points), [ATuin](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/) (BE garden centre), [Willaert Boomkwekerij](https://www.willaert.be/nl/plant/cercis+siliquastrum/cersiliq) (BE trade nursery; order via a local garden centre). Prices not checked.
 *   **Framing:** the site is under construction and the wadi's water timing is unknown. Another local cohousing project reportedly gets standing water in only about one in five or six of its wadis. So wadi tolerance is a bonus, not a planting criterion: don't rely on the wadi being wet or dry.
 *   Sources are general plant guides, not trials for our site; how long and how deep the water stands in the wadi matters more than the species lists. Chestnut (*C. mollissima*) is also very sensitive to poor drainage per `species.toml`, and ink disease favours wet soil, so none of the nut trees belong in the wadi either.
@@ -252,6 +252,20 @@ Raised because of a rumored local orchardist's pecan experiment and the record-h
 *   **If revisited**: ask the orchardist for the cultivar and whether nuts fully filled and split their shucks.
 
 Sources: [KMI summer 2026](https://www.meteo.be/nl/klimaat/klimaat-van-belgie/klimatologisch-overzicht/2026/ete), [KMI winter 2025–26](https://www.meteo.be/nl/klimaat/klimaat-van-belgie/klimatologisch-overzicht/2026/winter), [Northern Pecans: climatic adaptation](https://northernpecans.blogspot.com/2012/09/northern-pecans-climatic-adapation.html), [Germany shifts to nut cultivation (FreshPlaza)](https://www.freshplaza.com/europe/article/9832276/germany-shifts-to-nut-cultivation-as-climate-conditions-change/)
+
+## 3.6 Follow-up research notes (August–September 2026 pass)
+
+Detailed notes with sources are in `docs/research_notes/`: `plums.md`, `cherries.md`, `guild1.md`, `chestnut_verify.md`, `image_sources.md`. Corrections that supersede statements elsewhere in this document:
+
+*   **Knotweed suppression by heartnut:** no study found showing that walnut shade or juglone suppresses knotweed; willow has been shown to reduce but not eliminate it. Treat the heartnut's role as a hope, not a promise.
+*   **Chestnut nuts:** *C. mollissima* and *C. sativa* nut sizes are described as similar (not "European often larger"); many cultivars of both peel easily. *C. mollissima* resists blight and ink disease but is sensitive to waterlogging: check the north garden's drainage. No independent regional reports for Grimo, Hebei North or SemRu.
+*   **Porcini:** root colonisation of inoculated *C. sativa* is documented; no fruiting reports found, so the "5–10 years to mushrooms" figure is unsupported.
+*   **Pecan:** no confirmed ripening in Belgium, NL or northern Germany; German forum reports of trees that never ripen a nut.
+*   **Judas tree:** 'Bodnant' grows slowly (about 3 m at 10 years); no age-to-first-bloom figure found. Does not fix nitrogen (fairly confident).
+*   **Pawpaw:** well supplied in NL/BE; German growers say ripening is difficult in a cool rainy summer.
+*   **Plums:** provisional six: 'Sint-Hubertus', a red kroosje, 'Bleue de Belgique', a blue kroosje, 'Altesse Double', one *P. cerasifera* selection. Described as sweet to sweet-tart, not sharply sour. Bloom dates per variety not found.
+*   **Cherries:** Burlat (S3S9) and Early Rivers (S1S2) are fully cross-compatible; Burlat with Napoleon (S3S4) only half. No early yellow cherry with a verified partner found.
+*   **"Smaller fruit escape pests by chance":** no support found; early ripening and firm skin are better supported.
 
 ## 4. Legal Regulations (Ghent, Belgium)
 
