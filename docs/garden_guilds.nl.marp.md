@@ -116,16 +116,17 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 ---
 
-# Zijn de hartnoten te groot voor die plek?
+# Te groot voor die plek?
 
-- Hoogte volgroeid: 15–20 m.
-- Kroon: ongeveer 15 m breed (bereik 9–20 m).
-- Gidsen raden 15 m of meer tussen bomen aan.
-- Schaaltekening: 15 m eindbreedte, onze beste schatting. Volle grootte duurt tientallen jaren.
+- Hoogte: 15–20 m.
+- Kroon: ~15 m (bereik 9–20 m).
+- Gidsen: 15 m+ tussen bomen.
 
 <small>Bronnen: [Eetbaargoed](https://www.eetbaargoed.nl/product/hartnoot-juglans-ailantifolia-schubert/) · [Oregon State](https://landscapeplants.oregonstate.edu/plants/juglans-ailantifolia) · [PFAF](https://pfaf.org/user/Plant.aspx?LatinName=Juglans+ailanthifolia+cordiformis) · [Food Forest Nursery](https://www.foodforestnursery.com/growing-guides/nut-trees/heartnut-trees/)</small>
 
-![bg right:38% fit](img/heartnut_tree.jpg)
+**Er is een kans dat de boom over 100 jaar de ruimte vult.**
+
+![bg right:55% fit](img/heartnut_scale_drawing.jpg)
 
 <!-- Citaten: Eetbaargoed (pagina's 'Imshu'/'Shubert', verkoper van de overwogen cultivars): "groeit eerst flink de lucht in tot een hoogte van 15 tot 20 meter en vormt dan een mooie brede kroon" (geen breedte). Oregon State: "to 40-65 ft (15-20 m) tall, broad, round crown". PFAF: ongeveer 20 m x 15 m. Food Forest Nursery en tuingidsen (zoekresultaten, pagina's niet volledig gelezen): 30-50 ft hoog, breedte 30-65 ft (9-20 m), 'laag en breed uitgroeiend, zoals een steeneik', aanbevolen afstand 50 ft (15 m) of meer. Geen bron geeft een breedte voor de specifieke cultivars ('Anneke', 'Shubert', 'Campbell CW4', 'Grimo Manchurican'). De 15 m breedte is een gangbaar cijfer; het bereik is groot. Afstanden tot wortels en warmtepompleidingen: zie docs/research_notes/heat_pump_roots.md. Tijd tot volle grootte: geen bron geeft jaren tot volwassenheid. Jonge bomen kunnen 6-8 ft (1,8-2,4 m) hoogte per jaar toevoegen met vocht en onkruidbeheer (Red Fern Farm, Iowa); een oude boom met 100 ft breedte kan slechts 20-30 ft hoog zijn (Red Fern Farm); Cricket Hill Garden noemt 'Campbell CW1' 80 ft hoog en 50 ft breed 'bij volwassenheid (100 jaar)'. De hoogte komt dus binnen enkele decennia, de volle breedte over vele decennia. Geënte bomen dragen na ongeveer 3-4 jaar noten. De eigenaar voegt de schaaltekening toe. -->
 

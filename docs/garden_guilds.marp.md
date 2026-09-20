@@ -115,16 +115,17 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 ---
 
-# Are the heartnuts too big for that spot?
+# Too big for that spot?
 
-- Height at maturity: 15–20 m.
-- Crown: about 15 m across (range 9–20 m).
-- Guides advise 15 m or more between trees.
-- Scale diagram: 15 m final width, our best guess. Full size takes decades.
+- Height: 15–20 m.
+- Crown: ~15 m (range 9–20 m).
+- Guides: 15 m+ between trees.
 
 <small>Sources: [Eetbaargoed](https://www.eetbaargoed.nl/product/hartnoot-juglans-ailantifolia-schubert/) · [Oregon State](https://landscapeplants.oregonstate.edu/plants/juglans-ailantifolia) · [PFAF](https://pfaf.org/user/Plant.aspx?LatinName=Juglans+ailanthifolia+cordiformis) · [Food Forest Nursery](https://www.foodforestnursery.com/growing-guides/nut-trees/heartnut-trees/)</small>
 
-![bg right:38% fit](img/heartnut_tree.jpg)
+**There is a chance it will fill the space 100 years from now.**
+
+![bg right:55% fit](img/heartnut_scale_drawing.jpg)
 
 <!-- Quotes: Eetbaargoed ('Imshu'/'Shubert' pages, seller of the cultivars considered): "groeit eerst flink de lucht in tot een hoogte van 15 tot 20 meter en vormt dan een mooie brede kroon" (no width given). Oregon State: "to 40-65 ft (15-20 m) tall, broad, round crown". PFAF: about 20 m x 15 m. Food Forest Nursery and gardening guides (search summaries, pages not read in full): 30-50 ft tall, spread 30-65 ft (9-20 m), 'low and spreading, like a live oak', suggested spacing 50 ft (15 m) or more. No source gives a width for the specific cultivars ('Anneke', 'Shubert', 'Campbell CW4', 'Grimo Manchurican'). The 15 m width is a typical figure; the range is wide. Root and heat pump line distances: see docs/research_notes/heat_pump_roots.md. Time to size: no source gives years to maturity. Young trees can add 6-8 ft (1.8-2.4 m) of height a year with moisture and weed control (Red Fern Farm, Iowa); an old tree with a 100 ft spread may be only 20-30 ft tall (Red Fern Farm); Cricket Hill Garden gives 'Campbell CW1' as 80 ft tall and 50 ft wide 'at maturity (100 years)'. So height comes within a few decades, full spread over many decades. Grafted trees bear nuts in about 3-4 years. The owner will add the scale diagram. -->
 
