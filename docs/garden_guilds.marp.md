@@ -162,7 +162,7 @@ Each tree gets a few companion plants.
 
 # 3. A diverse plum patch
 
-- Several kinds side by side spread the risk.
+- About six kinds, so pollination is ample.
 - Small trees: 4–6 m at full size.
 - Heritage Belgian plums, good fresh and dried.
 

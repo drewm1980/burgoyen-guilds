@@ -182,6 +182,9 @@ Small, tart/sour, partly-freestone plums suited to both drying and hand-eating. 
 | **Kwekerij Jan Sterken** | Blankenberge, delivers East/West Flanders | Dedicated conservation/sale of historic Flemish stone fruit (*oude rassen*) |
 | **Willaert Boomkwekerij** | Roeselare | Large trade nursery; order via local Ghent green centers/landscapers for *P. cerasifera* / *P. insititia* |
 
+### Goal: about six varieties
+The long-term aim is roughly six varieties so cross-pollination is ample. Several kroosjes/damsons are described as often self-fertile (`species.toml`), but bloom-time overlap between varieties still matters, so choose varieties that flower at the same time. Bloom dates not yet checked.
+
 ### Grafting plan
 *Pitch framing: present this guild as a **diverse plum patch** (risk-spreading, longer harvest season, heritage varieties), not as a place to trial every available variety.*
 *   **Sucker-grafting**: plums (especially *P. cerasifera* rootstock, which suckers freely) allow new scion varieties to be top-worked onto root suckers over time — a practical way to diversify the patch's varieties without buying new whole trees.
