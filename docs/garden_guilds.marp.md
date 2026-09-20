@@ -263,7 +263,7 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 ---
 
-# The plums we are considering
+# Some proposed varieties for the plum patch
 
 | Sint-Hubertus | Red kroosje | Bleue de Belgique |
 | :--: | :--: | :--: |

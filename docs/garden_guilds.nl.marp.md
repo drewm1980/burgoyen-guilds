@@ -264,7 +264,7 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 ---
 
-# De pruimen die we overwegen
+# Enkele voorgestelde variëteiten voor het pruimenbosje
 
 | Sint-Hubertus | Rode kroosje | Bleue de Belgique |
 | :--: | :--: | :--: |
