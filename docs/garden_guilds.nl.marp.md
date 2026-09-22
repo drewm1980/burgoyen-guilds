@@ -348,12 +348,16 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 # Dwergwalnoten: 'Karlik 3' en 'Karlik 5'
 
 - Gekweekt in de Nikitsky Botanische Tuin (Jalta); "karlik" = dwerg.
-- Karlik 5: ~1,8-2m na 20 jaar (3 bronnen eens). Karlik 3: iets groter, één bron zegt 3-5m (onbevestigd, wijkt af van andere cijfers).
-- Draagt vrucht vanaf jaar 3; dunne schaal (1,5mm), makkelijk te kraken, goede smaak.
-- Geënt op gewone walnoot-zaailing — let op onderstamscheuten.
-- Naar verluidt onderling vruchtbaar; winterhard tot -23°C.
+- Karlik 5: ~1,8-2m na 20jr (3 bronnen). Karlik 3 iets groter (één onbevestigde claim: 3-5m).
+- Draagt vrucht vanaf jaar 3; dunne schaal (1,5mm), makkelijk kraken, goede smaak.
+- Geënt op zaailing — let op onderstamscheuten. Onderling vruchtbaar; winterhard tot -23°C.
 
 <small>Kopen: [Lubera (CH/DE, levert in BE)](https://www.lubera.com) · [Baumschule Horstmann (DE)](https://www.baumschule-horstmann.de/walnuss-dwarf-karlik-3-64_126922.html) · [Nusspfleger.at (AT)](https://www.nusspfleger.at/shop/zwergwalnussbaum-karlik-3/) · [Ackerbaum (FR/DE)](https://www.ackerbaum.fr/products/zwerg-walnuss-dwarf-karlik-3) · [Z. Limbach (SK)](https://shop.zahradnictvolimbach.sk/en/walnut-dwarf-karlik5) · Eggert (DE) momenteel uitverkocht, terug ≈augustus</small>
+
+![h:130](img/karlik5_nuts.jpg) ![h:130](img/karlik3_nuts.jpg)
+
+*Karlik 5 (links), Karlik 3 (rechts) — noten en gekraakte kernen. [Bron: Z. Limbach, Karlik 5](https://shop.zahradnictvolimbach.sk/en/walnut-dwarf-karlik5) · [Karlik 3](https://shop.zahradnictvolimbach.sk/en/walnut-dwarf-karlik3)*
+
 
 <!-- Groottes: Karlik 5 ~1,8-2m na 20 jaar bevestigd via Nikitsky's eigen pagina, Lubera, en Trees and Shrubs Online (VK) — rechtstreeks gelezen, geen zoekfragmenten. Karlik 3's "300-500cm" komt alleen uit een zoekfragment van Baumschule Horstmann; de pagina zelf gaf 403 en kon niet rechtstreeks geverifieerd worden — zie dit als een onbevestigde uitschieter tegenover de ~2m die elders voor de reeks gevonden werd. Noten: 12g, 43% kern, "goed intensief notenaroma" (Lubera); Karlik 3 beschreven als dunschalig (1,5mm), mild en zoet, vrucht vanaf jaar 3 (Eggert, zoekfragment). Geënt op zaailing van Juglans regia, rechtstreeks bevestigd op Eggert's pagina: "wird auf Walnuss-Sämling, Juglans regia, veredelt" — dus echt dwerg door de ent, niet door een dwergonderstam (die bestaat commercieel niet voor walnoot). Onderlinge vruchtbaarheid en winterhardheid -23°C (zone 6) komen van één bron, nog niet gekruiscontroleerd. Bloeitijd (protandrisch, zoals gewone regia) betekent dat hij mogelijk ook onze oude walnoot kan bestuiven, of omgekeerd — moet bevestigd worden door beide bomen te zien bloeien. Volledige notities: docs/research_notes/small_nut_trees.md. -->
 

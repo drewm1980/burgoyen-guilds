@@ -347,12 +347,16 @@ Each tree gets a few companion plants, possibly including smaller trees.
 # Dwarf walnuts: 'Karlik 3' and 'Karlik 5'
 
 - Bred at Nikitsky Botanical Garden (Yalta); "karlik" = dwarf.
-- Karlik 5: ~1.8-2m at 20 years (3 sources agree). Karlik 3: slightly bigger, one source says 3-5m (unverified, conflicts with others).
-- Fruits from year 3; thin shell (1.5mm), easy to crack, good flavour.
-- Grafted onto ordinary walnut seedling rootstock — watch for rootstock suckers.
-- Reportedly mutually fertile with each other; hardy to -23°C.
+- Karlik 5: ~1.8-2m at 20yr (3 sources). Karlik 3 slightly bigger (one unverified claim: 3-5m).
+- Fruits from year 3; thin 1.5mm shell, easy to crack, good flavour.
+- Grafted onto seedling rootstock — watch for suckers. Mutually fertile; hardy to -23°C.
 
 <small>Buy: [Lubera (CH/DE, ships to BE)](https://www.lubera.com) · [Baumschule Horstmann (DE)](https://www.baumschule-horstmann.de/walnuss-dwarf-karlik-3-64_126922.html) · [Nusspfleger.at (AT)](https://www.nusspfleger.at/shop/zwergwalnussbaum-karlik-3/) · [Ackerbaum (FR/DE)](https://www.ackerbaum.fr/products/zwerg-walnuss-dwarf-karlik-3) · [Z. Limbach (SK)](https://shop.zahradnictvolimbach.sk/en/walnut-dwarf-karlik5) · Eggert (DE) currently sold out, back ≈August</small>
+
+![h:130](img/karlik5_nuts.jpg) ![h:130](img/karlik3_nuts.jpg)
+
+*Karlik 5 (left), Karlik 3 (right) — nuts and cracked kernels. [Source: Z. Limbach, Karlik 5](https://shop.zahradnictvolimbach.sk/en/walnut-dwarf-karlik5) · [Karlik 3](https://shop.zahradnictvolimbach.sk/en/walnut-dwarf-karlik3)*
+
 
 <!-- Sizes: Karlik 5 ~1.8-2m at 20yr confirmed via Nikitsky's own page, Lubera, and Trees and Shrubs Online (UK) — read directly, not search snippets. Karlik 3's "300-500cm" comes from a Baumschule Horstmann search snippet only; the page itself returned 403 and could not be verified directly — treat as an unconfirmed outlier against the ~2m figures found elsewhere for the series. Nuts: 12g, 43% kernel, "good intensive nut aroma" (Lubera); Karlik 3 described as thin-shelled (1.5mm), mild and sweet, fruiting from year 3 (Eggert, search snippet). Grafted onto Juglans regia seedling rootstock, confirmed directly on Eggert's page: "wird auf Walnuss-Sämling, Juglans regia, veredelt" — so genuinely dwarf in the scion, not from a dwarfing rootstock (none exist commercially for walnut). Mutual fertility and -23°C (zone 6) hardiness are single-source, not yet cross-checked. Pollination timing (protandrous, like standard regia) means it could also help pollinate our old walnut, or vice versa — needs watching both trees bloom to confirm overlap. Full notes: docs/research_notes/small_nut_trees.md. -->
 
