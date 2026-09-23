@@ -363,6 +363,22 @@ Elke boom krijgt enkele bijbehorende planten, eventueel ook kleinere bomen.
 
 ---
 
+# Judasboom 'Bodnant'
+
+- Groeit naar verluidt onder walnoten (juglon-tolerant).
+- Verdraagt halfschaduw.
+- Paarsmagenta bloemen: eetbaar, zoetzuur; knoppen inleggen zoals kappertjes.
+- Langzaam: 5–8 m hoog en breed.
+
+<small>Kopen: [Bomen & Enzo](https://www.bomenenzo.nl/cercis-bodnant) · [Van den Berk (vakhandel)](https://www.vdberk.com/trees/cercis-siliquastrum-bodnant/) · [ATuin (BE)](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/) · [Den Mulder](https://www.denmulderboomteelt.com/webshop/cercis-siliquastrum-bodnant)</small>
+
+![bg right:40% vertical fit](img/judas_tree_whole_bodnant.jpg)
+![bg fit](img/judas_tree_flowers.jpg)
+
+<!-- Groottes: 'Bodnant' is GEEN dwerg. Van den Berk geeft 5-8 m hoog en breed ("grote struik tot kleine boom", ronde halfopen kroon); de RHS geeft 8-12 m hoog en breder dan 8 m, bereikt in 20-50 jaar; Bomen & Enzo zegt 5-10 m en langzaam (ongeveer 3 m na 10 jaar). Reken dus op ongeveer 5-8 m, mogelijk meer over decennia. Juglon: meldingen van Cercis onder zwarte walnoot zijn tuinierverhalen op geslachtsniveau, niet getest bij C. siliquastrum of Europese walnoot. Schaduw: RHS noemt volle zon of halfschaduw; bloeit best in de zon. STIKSTOF: bewust niet op de dia. Cercis is een peulvrucht, maar peer-reviewed onderzoek (calciumsignalering op Nod-factoren) rekent Cercis siliquastrum tot de NIET-knolvormende soorten, dus hij zou geen stikstof moeten binden; de bewering 'stikstofbinder' staat op enkele tuinsites. Goumi/Elaeagnus is de echte stikstofbinder. Eetbaar: bloemen in salades (zoetzuur), knoppen ingelegd als kappersvervanger (PFAF); peulen zouden bitter zijn. Smaak is verder onbewezen dan beschrijvingen. Foto's: hele boom, productfoto Van den Berk (advertentiefoto); bloemen, Didier Descouens (CC BY-SA 3.0, Wikimedia Commons). Bronnen: RHS https://www.rhs.org.uk/plants/81956/cercis-siliquastrum-bodnant/details ; Van den Berk https://www.vdberk.com/trees/cercis-siliquastrum-bodnant/ . -->
+
+---
+
 # Fotocredits
 
 ![bg right:28% fit](img/heartnut_tree.jpg)

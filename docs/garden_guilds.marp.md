@@ -362,6 +362,22 @@ Each tree gets a few companion plants, possibly including smaller trees.
 
 ---
 
+# Judas tree 'Bodnant'
+
+- Reported to grow under walnuts (juglone-tolerant).
+- Tolerates part shade.
+- Purple-magenta flowers: edible, sweet-sour; buds pickle like capers.
+- Slow: 5–8 m tall and wide.
+
+<small>Buy: [Bomen & Enzo](https://www.bomenenzo.nl/cercis-bodnant) · [Van den Berk (trade)](https://www.vdberk.com/trees/cercis-siliquastrum-bodnant/) · [ATuin (BE)](https://www.atuin.be/tuincentrum/struiken/judasboom-cercis-siliquastrum/) · [Den Mulder](https://www.denmulderboomteelt.com/webshop/cercis-siliquastrum-bodnant)</small>
+
+![bg right:40% vertical fit](img/judas_tree_whole_bodnant.jpg)
+![bg fit](img/judas_tree_flowers.jpg)
+
+<!-- Sizes: 'Bodnant' is NOT a dwarf. Van den Berk gives 5-8 m tall and wide ("large shrub to small tree", round half-open crown); the RHS gives 8-12 m tall and wider than 8 m, reached over 20-50 years; Bomen & Enzo says 5-10 m and slow (about 3 m at 10 years). So plan for roughly 5-8 m, possibly more in decades. Juglone: reports of Cercis growing under black walnut are genus-level gardener reports, not tested on C. siliquastrum or on European walnut. Shade: RHS lists full sun or partial shade; flowers best in sun. NITROGEN: not on the slide on purpose. Cercis is a legume, but peer-reviewed work (Nod-factor calcium-signalling studies) classifies Cercis siliquastrum as NON-nodulating, so it should not fix nitrogen; the 'nitrogen fixer' claim appears on a few gardening sites only. Goumi/Elaeagnus is the real nitrogen fixer. Edible: flowers in salads (sweet-sour), buds pickled as a caper substitute (PFAF); pods are reported bitter. Taste is untested beyond descriptions. Photos: whole tree, Van den Berk product photo (vendor advertising); flowers, Didier Descouens (CC BY-SA 3.0, Wikimedia Commons). Sources: RHS https://www.rhs.org.uk/plants/81956/cercis-siliquastrum-bodnant/details ; Van den Berk https://www.vdberk.com/trees/cercis-siliquastrum-bodnant/ . -->
+
+---
+
 # Photo credits
 
 ![bg right:28% fit](img/heartnut_tree.jpg)
